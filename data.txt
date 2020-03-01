@@ -1,62 +1,56 @@
-Philadelphia 76ers,Oct 16, 2018,Dario Saric F,22:54,3,8,37.5,0,4,0.0,0,0,0.0,0,6,6,1,3,0,0,5,6,-4
-Philadelphia 76ers,Oct 16, 2018,Robert Covington F,34:13,3,10,30.0,2,7,28.6,0,0,0.0,1,5,6,0,2,2,1,1,8,-11
-Philadelphia 76ers,Oct 16, 2018,Joel Embiid C,36:49,9,21,42.9,1,4,25.0,4,5,80.0,2,8,10,2,5,1,2,3,23,-8
-Philadelphia 76ers,Oct 16, 2018,Markelle Fultz G,24:20,2,7,28.6,0,0,0.0,1,2,50.0,0,3,3,2,3,1,0,1,5,-16
-Philadelphia 76ers,Oct 16, 2018,Ben Simmons G,42:44,7,14,50.0,0,0,0.0,5,10,50.0,3,12,15,8,3,4,2,5,19,-8
-Philadelphia 76ers,Oct 16, 2018,Amir Johnson,11:11,1,1,100,0,0,0.0,3,4,75.0,0,3,3,1,0,0,0,1,5,-10
-Philadelphia 76ers,Oct 16, 2018,JJ Redick,29:46,7,17,41.2,2,8,25.0,0,0,0.0,0,2,2,1,0,0,0,1,16,-10
-Philadelphia 76ers,Oct 16, 2018,T.J. McConnell,22:26,2,5,40.0,0,1,0.0,0,0,0.0,0,1,1,3,0,0,0,3,4,-11
-Philadelphia 76ers,Oct 16, 2018,Landry Shamet,12:43,0,4,0.0,0,2,0.0,1,2,50.0,0,1,1,0,0,0,0,0,1,-8
-Philadelphia 76ers,Oct 16, 2018,Jonah Bolden,1:27,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
-Philadelphia 76ers,Oct 16, 2018,Furkan Korkmaz,1:27,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
-Philadelphia 76ers,Oct 16, 2018,Demetrius Jackson DNP,-
-Philadelphia 76ers,Oct 16, 2018,Coach's Decision
-Philadelphia 76ers,Oct 16, 2018,Shake Milton DNP - Coach's
-Philadelphia 76ers,Oct 16, 2018,Decision
-Philadelphia 76ers,Oct 16, 2018,Totals:,34,87,39.1,5,26,19.2,14,23,60.9,6,41,47,18,16,8,5,20,87,-18
-Boston Celtics,Oct 16, 2018,Jayson Tatum F,28:56,9,17,52.9,1,5,20.0,4,5,80.0,2,7,9,3,1,1,0,2,23,6
-Boston Celtics,Oct 16, 2018,Gordon Hayward F,24:37,4,12,33.3,1,3,33.3,1,2,50.0,2,3,5,0,0,4,0,1,10,10
-Boston Celtics,Oct 16, 2018,Al Horford C,29:57,4,7,57.1,0,1,0.0,1,1,100,0,4,4,2,3,0,4,1,9,9
-Boston Celtics,Oct 16, 2018,Jaylen Brown G,28:23,5,13,38.5,1,3,33.3,1,2,50.0,3,2,5,2,2,0,0,4,12,11
-Boston Celtics,Oct 16, 2018,Kyrie Irving G,29:00,2,14,14.3,1,8,12.5,2,2,100,0,4,4,7,3,0,0,1,7,9
-Boston Celtics,Oct 16, 2018,Marcus Morris Sr.,20:30,7,12,58.3,2,7,28.6,0,0,0.0,2,8,10,0,1,2,0,5,16,3
-Boston Celtics,Oct 16, 2018,Terry Rozier,26:31,5,10,50.0,1,2,50.0,0,0,0.0,0,8,8,1,1,0,1,0,11,22
-Boston Celtics,Oct 16, 2018,Marcus Smart,25:00,2,4,50.0,2,4,50.0,1,2,50.0,0,3,3,3,2,0,0,2,7,3
-Boston Celtics,Oct 16, 2018,Aron Baynes,19:14,3,7,42.9,2,4,50.0,0,0,0.0,3,1,4,3,1,0,0,3,8,8
-Boston Celtics,Oct 16, 2018,Daniel Theis,4:08,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,1,0,3
-Boston Celtics,Oct 16, 2018,Semi Ojeleye,1:27,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,2
-Boston Celtics,Oct 16, 2018,Guerschon Yabusele,1:27,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,2
-Boston Celtics,Oct 16, 2018,Brad Wanamaker,0:50,1,1,100,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,2,2
-Boston Celtics,Oct 16, 2018,Totals:,42,97,43.3,11,37,29.7,10,14,71.4,12,43,55,21,14,7,5,20,105,18
-Oklahoma City Thunder,Oct 16, 2018,Paul George F,37:24,9,23,39.1,4,12,33.3,5,8,62.5,0,2,2,5,5,4,0,3,27,-16
-Oklahoma City Thunder,Oct 16, 2018,Patrick Patterson F,18:54,2,9,22.2,1,4,25.0,2,3,66.7,3,2,5,0,1,1,1,0,7,3
-Oklahoma City Thunder,Oct 16, 2018,Steven Adams C,35:36,6,12,50.0,0,0,0.0,5,8,62.5,4,7,11,4,2,2,0,3,17,-6
-Oklahoma City Thunder,Oct 16, 2018,Terrance Ferguson G,26:30,0,2,0.0,0,2,0.0,0,0,0.0,2,2,4,1,1,0,0,3,0,0
-Oklahoma City Thunder,Oct 16, 2018,Dennis Schroder G,34:05,7,19,36.8,2,6,33.3,5,6,83.3,2,6,8,6,3,3,1,4,21,-7
-Oklahoma City Thunder,Oct 16, 2018,Jerami Grant,29:06,2,7,28.6,1,4,25.0,2,4,50.0,2,0,2,2,0,0,3,1,7,-11
-Oklahoma City Thunder,Oct 16, 2018,Alex Abrines,23:29,3,8,37.5,2,6,33.3,0,0,0.0,0,2,2,0,0,0,0,2,8,-5
-Oklahoma City Thunder,Oct 16, 2018,Raymond Felton,13:55,1,5,20.0,0,3,0.0,4,5,80.0,0,3,3,1,2,0,0,0,6,-1
-Oklahoma City Thunder,Oct 16, 2018,Nerlens Noel,12:24,1,2,50.0,0,0,0.0,1,2,50.0,3,4,7,1,0,1,1,3,3,-2
-Oklahoma City Thunder,Oct 16, 2018,Hamidou Diallo,8:37,2,4,50.0,0,0,0.0,0,1,0.0,0,1,1,1,0,1,0,2,4,5
-Oklahoma City Thunder,Oct 16, 2018,Deonte Burton DNP,- Coach's
-Oklahoma City Thunder,Oct 16, 2018,Decision
-Oklahoma City Thunder,Oct 16, 2018,Timothe Luwawu-Cabarrot
-Oklahoma City Thunder,Oct 16, 2018,DNP - Coach's Decision
-Oklahoma City Thunder,Oct 16, 2018,Abdel Nader DNP - Coach's
-Oklahoma City Thunder,Oct 16, 2018,Decision
-Oklahoma City Thunder,Oct 16, 2018,Totals:,33,91,36.3,10,37,27.0,24,37,64.9,16,29,45,21,14,12,6,21,100,-8
-Golden State Warriors,Oct 16, 2018,Kevin Durant F,37:43,9,21,42.9,0,5,0.0,9,10,90.0,1,7,8,6,3,1,1,4,27,14
-Golden State Warriors,Oct 16, 2018,Draymond Green F,32:45,1,6,16.7,0,1,0.0,0,0,0.0,1,12,13,5,6,3,0,3,2,2
-Golden State Warriors,Oct 16, 2018,Damian Jones C,26:33,6,7,85.7,0,0,0.0,0,0,0.0,2,1,3,2,2,0,3,4,12,-1
-Golden State Warriors,Oct 16, 2018,Klay Thompson G,34:59,5,20,25.0,1,8,12.5,3,3,100,1,3,4,0,2,0,0,3,14,2
-Golden State Warriors,Oct 16, 2018,Stephen Curry G,36:37,11,20,55.0,5,9,55.6,5,5,100,0,8,8,9,3,1,0,4,32,15
-Golden State Warriors,Oct 16, 2018,Kevon Looney,18:04,5,11,45.5,0,0,0.0,0,0,0.0,8,2,10,2,1,1,2,4,10,23
-Golden State Warriors,Oct 16, 2018,Andre Iguodala,10:23,1,2,50.0,0,1,0.0,0,0,0.0,0,2,2,2,0,0,0,0,2,2
-Golden State Warriors,Oct 16, 2018,Quinn Cook,13:12,1,2,50.0,1,1,100,0,0,0.0,1,1,2,1,2,0,0,2,3,-7
-Golden State Warriors,Oct 16, 2018,Shaun Livingston,14:34,3,5,60.0,0,0,0.0,0,0,0.0,2,1,3,1,1,1,0,2,6,-3
-Golden State Warriors,Oct 16, 2018,Jordan Bell,6:39,0,0,0.0,0,0,0.0,0,0,0.0,1,1,2,0,0,0,1,1,0,-6
-Golden State Warriors,Oct 16, 2018,Alfonzo McKinnie,2:21,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-1
-Golden State Warriors,Oct 16, 2018,Jonas Jerebko,6:10,0,0,0.0,0,0,0.0,0,0,0.0,0,3,3,0,1,0,0,2,0,0
-Golden State Warriors,Oct 16, 2018,Jacob Evans DNP,- Coach's
-Golden State Warriors,Oct 16, 2018,Decision
-Golden State Warriors,Oct 16, 2018,Totals:,42,95,44.2,7,26,26.9,17,18,94.4,17,41,58,28,21,7,7,29,108,8
+Dario Saric F,22:54,3,8,37.5,0,4,0.0,0,0,0.0,0,6,6,1,3,0,0,5,6,-4
+Robert Covington F,34:13,3,10,30.0,2,7,28.6,0,0,0.0,1,5,6,0,2,2,1,1,8,-11
+Joel Embiid C,36:49,9,21,42.9,1,4,25.0,4,5,80.0,2,8,10,2,5,1,2,3,23,-8
+Markelle Fultz G,24:20,2,7,28.6,0,0,0.0,1,2,50.0,0,3,3,2,3,1,0,1,5,-16
+Ben Simmons G,42:44,7,14,50.0,0,0,0.0,5,10,50.0,3,12,15,8,3,4,2,5,19,-8
+Amir Johnson,11:11,1,1,100,0,0,0.0,3,4,75.0,0,3,3,1,0,0,0,1,5,-10
+JJ Redick,29:46,7,17,41.2,2,8,25.0,0,0,0.0,0,2,2,1,0,0,0,1,16,-10
+T.J. McConnell,22:26,2,5,40.0,0,1,0.0,0,0,0.0,0,1,1,3,0,0,0,3,4,-11
+Landry Shamet,12:43,0,4,0.0,0,2,0.0,1,2,50.0,0,1,1,0,0,0,0,0,1,-8
+Jonah Bolden,1:27,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+Furkan Korkmaz,1:27,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-2
+Demetrius Jackson DNP - Coach's Decision
+Shake Milton DNP - Coach's Decision
+Totals:,34,87,39.1,5,26,19.2,14,23,60.9,6,41,47,18,16,8,5,20,87,-18
+Jayson Tatum F,28:56,9,17,52.9,1,5,20.0,4,5,80.0,2,7,9,3,1,1,0,2,23,6
+Gordon Hayward F,24:37,4,12,33.3,1,3,33.3,1,2,50.0,2,3,5,0,0,4,0,1,10,10
+Al Horford C,29:57,4,7,57.1,0,1,0.0,1,1,100,0,4,4,2,3,0,4,1,9,9
+Jaylen Brown G,28:23,5,13,38.5,1,3,33.3,1,2,50.0,3,2,5,2,2,0,0,4,12,11
+Kyrie Irving G,29:00,2,14,14.3,1,8,12.5,2,2,100,0,4,4,7,3,0,0,1,7,9
+Marcus Morris Sr.,20:30,7,12,58.3,2,7,28.6,0,0,0.0,2,8,10,0,1,2,0,5,16,3
+Terry Rozier,26:31,5,10,50.0,1,2,50.0,0,0,0.0,0,8,8,1,1,0,1,0,11,22
+Marcus Smart,25:00,2,4,50.0,2,4,50.0,1,2,50.0,0,3,3,3,2,0,0,2,7,3
+Aron Baynes,19:14,3,7,42.9,2,4,50.0,0,0,0.0,3,1,4,3,1,0,0,3,8,8
+Daniel Theis,4:08,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,1,0,3
+Semi Ojeleye,1:27,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,2
+Guerschon Yabusele,1:27,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,2
+Brad Wanamaker,0:50,1,1,100,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,2,2
+Totals:,42,97,43.3,11,37,29.7,10,14,71.4,12,43,55,21,14,7,5,20,105,18
+Paul George F,37:24,9,23,39.1,4,12,33.3,5,8,62.5,0,2,2,5,5,4,0,3,27,-16
+Patrick Patterson F,18:54,2,9,22.2,1,4,25.0,2,3,66.7,3,2,5,0,1,1,1,0,7,3
+Steven Adams C,35:36,6,12,50.0,0,0,0.0,5,8,62.5,4,7,11,4,2,2,0,3,17,-6
+Terrance Ferguson G,26:30,0,2,0.0,0,2,0.0,0,0,0.0,2,2,4,1,1,0,0,3,0,0
+Dennis Schroder G,34:05,7,19,36.8,2,6,33.3,5,6,83.3,2,6,8,6,3,3,1,4,21,-7
+Jerami Grant,29:06,2,7,28.6,1,4,25.0,2,4,50.0,2,0,2,2,0,0,3,1,7,-11
+Alex Abrines,23:29,3,8,37.5,2,6,33.3,0,0,0.0,0,2,2,0,0,0,0,2,8,-5
+Raymond Felton,13:55,1,5,20.0,0,3,0.0,4,5,80.0,0,3,3,1,2,0,0,0,6,-1
+Nerlens Noel,12:24,1,2,50.0,0,0,0.0,1,2,50.0,3,4,7,1,0,1,1,3,3,-2
+Hamidou Diallo,8:37,2,4,50.0,0,0,0.0,0,1,0.0,0,1,1,1,0,1,0,2,4,5
+Deonte Burton DNP - Coach's Decision
+Timothe Luwawu-Cabarrot DNP - Coach's Decision
+Abdel Nader DNP - Coach's Decision
+Totals:,33,91,36.3,10,37,27.0,24,37,64.9,16,29,45,21,14,12,6,21,100,-8
+Kevin Durant F,37:43,9,21,42.9,0,5,0.0,9,10,90.0,1,7,8,6,3,1,1,4,27,14
+Draymond Green F,32:45,1,6,16.7,0,1,0.0,0,0,0.0,1,12,13,5,6,3,0,3,2,2
+Damian Jones C,26:33,6,7,85.7,0,0,0.0,0,0,0.0,2,1,3,2,2,0,3,4,12,-1
+Klay Thompson G,34:59,5,20,25.0,1,8,12.5,3,3,100,1,3,4,0,2,0,0,3,14,2
+Stephen Curry G,36:37,11,20,55.0,5,9,55.6,5,5,100,0,8,8,9,3,1,0,4,32,15
+Kevon Looney,18:04,5,11,45.5,0,0,0.0,0,0,0.0,8,2,10,2,1,1,2,4,10,23
+Andre Iguodala,10:23,1,2,50.0,0,1,0.0,0,0,0.0,0,2,2,2,0,0,0,0,2,2
+Quinn Cook,13:12,1,2,50.0,1,1,100,0,0,0.0,1,1,2,1,2,0,0,2,3,-7
+Shaun Livingston,14:34,3,5,60.0,0,0,0.0,0,0,0.0,2,1,3,1,1,1,0,2,6,-3
+Jordan Bell,6:39,0,0,0.0,0,0,0.0,0,0,0.0,1,1,2,0,0,0,1,1,0,-6
+Alfonzo McKinnie,2:21,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-1
+Jonas Jerebko,6:10,0,0,0.0,0,0,0.0,0,0,0.0,0,3,3,0,1,0,0,2,0,0
+Jacob Evans DNP - Coach's Decision
+Totals:,42,95,44.2,7,26,26.9,17,18,94.4,17,41,58,28,21,7,7,29,108,8
