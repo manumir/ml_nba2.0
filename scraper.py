@@ -10,9 +10,9 @@ import re
 #driver = webdriver.Chrome(executable_path='C:/Users/dude/Desktop/chromedriver.exe')
 driver = webdriver.Firefox(executable_path='../geckodriver')
 #driver.get('https://stats.nba.com/gamebooks/?Date=12%2F30%2F2019')# day of games
+teams1=['MEM','HOU','BKN','BOS','LAC','NOP','SAC','POR','DET','UTA','CHA','SAS','WAS','TOR','DEN','MIL','ATL','GSW','DAL','ORL','PHI','NYK','LAL','CLE','OKC','MIN','CHI','MIA','PHX','IND']
+stripers=[' F,',' G,',' C,']
 f=open('data.txt','w')
-teams=[]
-it=-1
 for i in range(2):
 	driver.get('https://stats.nba.com/game/002180'+str(i+1).zfill(4)+'/')
 	time.sleep(7)# seconds
@@ -27,16 +27,15 @@ for i in range(2):
 	ab=[]
 	for x in abc:
 		if x != '':
-			x=x.strip('  ')
+			x=x.strip(' ')
 			ab.append(x)
 	ab=' '.join(ab)
-	teams1=['MEM','HOU','BKN','BOS','LAC','NOP','SAC','POR','DET','UTA','CHA','SAS','WAS','TOR','DEN','MIL','ATL','GSW','DAL','ORL','PHI','NYK','LAL','CLE','OKC','MIN','CHI','MIA','PHX','IND']
 	lines=[]
 	for team in teams1:
 		match=re.search(team,ab)
 		if match:
 			lines.append(ab[22:match.start()-1])
-			lines.append(ab[match.start()+4:])
+			lines.append(ab[match.start()+5:])
 	
 	inactive=[]
 	lines=lines[0:2]
@@ -52,6 +51,7 @@ for i in range(2):
 	# get all that good data
 	stuff=soup.find_all('div',class_="nba-stat-table__overflow")
 	# get teams names
+	teams=[]
 	teams_soup=soup.find_all('div',class_="nba-stat-table__caption")
 	# get date of game
 	date=soup.find_all('div',class_="game-summary__date")
@@ -82,6 +82,7 @@ for i in range(2):
 	new=[]
 	for x in yumyum:
 		new.append(x.split('\n'))
+	it=-1
 	for x in new:
 		for y in x:
 			y=' '.join(y.split())
@@ -89,22 +90,27 @@ for i in range(2):
 			if match:
 				y=y[:match.start()-1]+','+y[match.start():].replace(' ',',')
 			
+			match=re.search('Totals:,',y)
+			if match:
+				for player in inactive[it]:
+					f.write(teams[it]+','+player+'\n')
+
 			match=re.search('DNP',y)
 			if match:
 				y=y[:match.start()-1]+',,,,,,'
-			print(y)
-		
-	"""
-	if x == '':
-		it=it+1
-	else:
-		f.write(teams[it]+','+x+'\n')
 
-	print(teams[it]+','+x)
-for n in inactive:
-	for name in n:
-		print(teams[it]+','+name)
-	"""
+			# strip the F,G,C after the names of the starters
+			for stuff in stripers:
+				match=re.search(stuff,y)
+				if match:
+					y=(y[:match.start()]+','+y[match.end():])
+
+			if y!='':
+				f.write(teams[it]+','+y+'\n')
+			
+			if y== '':
+				it=it+1
+
 f.close()
 driver.quit()
 
