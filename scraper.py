@@ -13,9 +13,9 @@ driver = webdriver.Firefox(executable_path='../geckodriver')
 teams1=['MEM','HOU','BKN','BOS','LAC','NOP','SAC','POR','DET','UTA','CHA','SAS','WAS','TOR','DEN','MIL','ATL','GSW','DAL','ORL','PHI','NYK','LAL','CLE','OKC','MIN','CHI','MIA','PHX','IND']
 stripers=[' F,',' G,',' C,']
 f=open('data.txt','w')
-for i in range(2):
+for i in range(1230):
 	driver.get('https://stats.nba.com/game/002180'+str(i+1).zfill(4)+'/')
-	time.sleep(7)# seconds
+	time.sleep(6)# seconds
 	soup=bs4(driver.page_source,'html.parser')
 
 	# get incative players
@@ -30,15 +30,15 @@ for i in range(2):
 			x=x.strip(' ')
 			ab.append(x)
 	ab=' '.join(ab)
-	lines=[]
+	lines=list()
 	for team in teams1:
 		match=re.search(team,ab)
-		if match:
+		if match and match.start()>17:
 			lines.append(ab[22:match.start()-1])
 			lines.append(ab[match.start()+5:])
+			break
 	
 	inactive=[]
-	lines=lines[0:2]
 	for x in lines:
 		x=''.join(x)
 		x=x.replace(', ',',')
@@ -99,6 +99,9 @@ for i in range(2):
 			if match:
 				y=y[:match.start()-1]+',,,,,,'
 
+			match2=re.search('NWT',y)
+			if match2:
+				y=y[:match2.start()-1]+',,,,,,'
 			# strip the F,G,C after the names of the starters
 			for stuff in stripers:
 				match=re.search(stuff,y)
