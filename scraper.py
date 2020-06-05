@@ -45,6 +45,7 @@ for i in range(1230):
 		x=x.split(',')
 		a=[]
 		for name in x:
+			# appending 20 commas is better (20*',')
 			a.append(name+',,,,,,')
 		inactive.append(a)
 
