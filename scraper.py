@@ -2,6 +2,9 @@ import time
 import os
 import sys
 from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup as bs4
 import re
 
@@ -12,10 +15,13 @@ driver = webdriver.Firefox(executable_path='../geckodriver')
 #driver.get('https://stats.nba.com/gamebooks/?Date=12%2F30%2F2019')# day of games
 teams1=['MEM','HOU','BKN','BOS','LAC','NOP','SAC','POR','DET','UTA','CHA','SAS','WAS','TOR','DEN','MIL','ATL','GSW','DAL','ORL','PHI','NYK','LAL','CLE','OKC','MIN','CHI','MIA','PHX','IND']
 stripers=[' F,',' G,',' C,']
+
 f=open('data.txt','w')
-for i in range(1230):
+f.write('Team,Date,Date2,Player,MIN,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,OREB,DREB,REB,AST,TOV,STL,BLK,PF,PTS,+/-\n')
+for i in range(5):
 	driver.get('https://stats.nba.com/game/002180'+str(i+1).zfill(4)+'/')
-	time.sleep(6)# seconds
+	# time.sleep(5)# seconds
+	WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.CLASS_NAME, 'nba-stat-table__overflow')))
 	soup=bs4(driver.page_source,'html.parser')
 
 	# get incative players
@@ -46,7 +52,7 @@ for i in range(1230):
 		a=[]
 		for name in x:
 			# appending 20 commas is better (20*',')
-			a.append(name+',,,,,,')
+			a.append(name+20*',DNP')
 		inactive.append(a)
 
 	# get all that good data
@@ -94,15 +100,20 @@ for i in range(1230):
 			match=re.search('Totals:,',y)
 			if match:
 				for player in inactive[it]:
-					f.write(teams[it]+','+player+'\n')
+					f.write(str(i)+','+teams[it]+','+player+'\n')
 
 			match=re.search('DNP',y)
 			if match:
-				y=y[:match.start()-1]+',,,,,,'
+				y=y[:match.start()-1]+20*',DNP'
+			
+			match=re.search('DND',y)
+			if match:
+				y=y[:match.start()-1]+20*',DNP'
 
 			match2=re.search('NWT',y)
 			if match2:
-				y=y[:match2.start()-1]+',,,,,,'
+				y=y[:match2.start()-1]+20*',DNP'
+
 			# strip the F,G,C after the names of the starters
 			for stuff in stripers:
 				match=re.search(stuff,y)
@@ -110,16 +121,10 @@ for i in range(1230):
 					y=(y[:match.start()]+','+y[match.end():])
 
 			if y!='':
-				f.write(teams[it]+','+y+'\n')
+				f.write(str(i)+','+teams[it]+','+y+'\n')
 			
 			if y== '':
 				it=it+1
 
 f.close()
 driver.quit()
-
-
-
-
-
-
