@@ -17,8 +17,8 @@ teams1=['MEM','HOU','BKN','BOS','LAC','NOP','SAC','POR','DET','UTA','CHA','SAS',
 stripers=[' F,',' G,',' C,']
 
 f=open('data.txt','w')
-f.write('Team,Date,Date2,Player,MIN,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,OREB,DREB,REB,AST,TOV,STL,BLK,PF,PTS,+/-\n')
-for i in range(5):
+f.write('GameId,Team,Date,Date2,Player,MIN,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,OREB,DREB,REB,AST,TOV,STL,BLK,PF,PTS,+/-\n')
+for i in range(150):
 	driver.get('https://stats.nba.com/game/002180'+str(i+1).zfill(4)+'/')
 	# time.sleep(5)# seconds
 	WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.CLASS_NAME, 'nba-stat-table__overflow')))
