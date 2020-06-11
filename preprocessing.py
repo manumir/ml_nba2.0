@@ -7,6 +7,7 @@ with open('data.txt','r') as file :
 	n=len(lines)
 	i=0
 	while i < n:
+		lines[i]=lines[i][:-1] # strip '\n' from the end cuz pd.Dataframe()
 		if lines[i].find('Totals:,') > 0:
 			lines.remove(lines[i])
 			n=n-1
@@ -22,7 +23,6 @@ for line in lines:
 	new.append(line.split(','))
 
 df=pd.DataFrame(columns=new[0],data=new[1:])
-print(df)
 
 ### join dates columns
 date=list(df['Date'].values)
@@ -33,9 +33,8 @@ for x in range(len(date)):
 df=df.drop(['Date2'],1)
 df['Date']=new
 
-
 months=['Jan','Feb','Mar','Apr','May','Jun','Jul','Agt','Sep','Oct','Nov','Dec']
-months_1=['1','2','3','4','5','6','7','8','9','10','11','12']
+months_1=['01','02','03','04','05','06','07','08','09','10','11','12']
 
 new=[]
 for x in range(len(df)):
@@ -45,16 +44,17 @@ for x in range(len(df)):
 	for name in months:
 		if date[0] == name:
 			ix=months.index(name)
-			new.append(int(date[2]+months_1[ix]+date[1]))
+			new.append(int(date[3]+months_1[ix]+date[1]))
 df['Date']=new
 
 df['Team']=f.name2acro(df['Team'],'nba')
 nan_rows = df[df.isnull().T.any().T]
 
-df=df.sort_values(by=['GameId','Date'])
+df=df.sort_values(by=['Date','GameId'])
 
 col=['MIN','FGM','FGA','FG%','3PM','3PA','3P%','FTM','FTA','FT%','OREB','DREB','REB','AST','TOV','STL','BLK','PF','PTS','+/-']
 
+print(df)
 for x in range(len(df)):
 	team=df.at[x,'Team']
 	player=df.at[x,'Player']

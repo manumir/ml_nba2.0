@@ -16,9 +16,10 @@ driver = webdriver.Firefox(executable_path='../geckodriver')
 teams1=['MEM','HOU','BKN','BOS','LAC','NOP','SAC','POR','DET','UTA','CHA','SAS','WAS','TOR','DEN','MIL','ATL','GSW','DAL','ORL','PHI','NYK','LAL','CLE','OKC','MIN','CHI','MIA','PHX','IND']
 stripers=[' F,',' G,',' C,']
 
-f=open('data.txt','w')
+f=open('data.txt','a')
 f.write('GameId,Team,Date,Date2,Player,MIN,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,OREB,DREB,REB,AST,TOV,STL,BLK,PF,PTS,+/-\n')
-for i in range(150):
+for i in range(1230-447):
+	i=i+447 # 154-155,300-300,446-447
 	driver.get('https://stats.nba.com/game/002180'+str(i+1).zfill(4)+'/')
 	# time.sleep(5)# seconds
 	WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.CLASS_NAME, 'nba-stat-table__overflow')))

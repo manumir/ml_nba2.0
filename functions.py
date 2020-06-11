@@ -1,6 +1,5 @@
 def name2acro(column,site):
-  teams=['MEM', 'HOU', 'BKN', 'BOS', 'LAC', 'NOP', 'SAC', 'POR', 'DET', 'UTA', 'CHA', 'SAS', 'WAS', 'TOR','DEN',
-       'MIL', 'ATL','GSW', 'DAL', 'ORL', 'PHI', 'NYK', 'LAL', 'CLE', 'OKC', 'MIN', 'CHI', 'MIA', 'PHX', 'IND']
+  teams=['BOS','BKN','NYK','PHI','TOR','CHI','CLE','DET','IND','MIL','ATL','CHA','MIA','ORL','WAS','DAL','HOU','MEM','NOP','SAS','DEN','MIN','OKC','POR','UTA','GSW','LAC','LAL','PHX','SAC']
 
   # name that appear on placard.com
   if site =='placard':
@@ -18,7 +17,7 @@ def name2acro(column,site):
     'Dallas Mavericks','Houston Rockets','Memphis Grizzlies','New Orleans Pelicans','San Antonio Spurs',
     'Denver Nuggets','Minnesota Timberwolves','Oklahoma City Thunder','Portland Trail Blazers','Utah Jazz',
     'Golden State Warriors','LA Clippers','Los Angeles Lakers','Phoenix Suns','Sacramento Kings']
-
+  """
   # sort teams names and teams acronyms
   teams.sort()
   teams1.sort()
@@ -27,12 +26,12 @@ def name2acro(column,site):
   x=teams[1]
   teams[1]=teams[2]
   teams[2]=x
-  """
+  
   # nyk and nop are switched
   x=teams[18]
   teams[18]=teams[19]
   teams[19]=x
-  """
+  
   #sas and sac are switched
   x=teams[26]
   teams[26]=teams[24]
@@ -42,7 +41,7 @@ def name2acro(column,site):
   x=teams[27]
   teams[27]=teams[26]
   teams[26]=x
-
+  """
   # names to acronyms
   new_A=[]
   for team in column:
