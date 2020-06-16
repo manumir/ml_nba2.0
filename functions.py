@@ -1,3 +1,17 @@
+import numpy as np
+import pandas as pd
+
+def get_avgs(df1,column): 
+	count=0
+	try:
+		for x in df1[column].values:
+			count+=float(x) 
+		avg=float(count/len(df1[column])) 
+		return avg 
+	except Exception as e: 
+		print(e) 
+		return np.nan
+
 def name2acro(column,site):
   teams=['BOS','BKN','NYK','PHI','TOR','CHI','CLE','DET','IND','MIL','ATL','CHA','MIA','ORL','WAS','DAL','HOU','MEM','NOP','SAS','DEN','MIN','OKC','POR','UTA','GSW','LAC','LAL','PHX','SAC']
 
