@@ -3,8 +3,7 @@ import numpy as np
 import functions as f
 
 df=pd.read_csv('data.txt')
-df=df[:4009]
-print(df.tail())
+
 ### join dates columns
 date=list(df['Date'].values)
 date2=list(df['Date2'].values)
@@ -78,7 +77,6 @@ df=df.sort_values(by=['Date','GameId'])
 cols=['MIN','FGM','FGA','FG%','3PM','3PA','3P%','FTM','FTA','FT%','OREB','DREB','REB','AST','TOV','STL','BLK','PF','PTS','+/-']
 
 og=df.copy()
-print(df.loc[df['Player']=='Ersan Ilyasova'])
 for x in range(len(df)):
 	team=df.at[x,'Team']
 	player=df.at[x,'Player']
@@ -103,11 +101,8 @@ for x in range(len(df)):
 			avg=y/len(df_2)
 			
 			df.at[x,col]=avg
-		if df.at[x,'Player']=='Isaiah Canaan':
-			print(df_2)
 	print(x)
 
 print(df)
-print(og.loc[og['Player']=='Ersan Ilyasova'])
-print(df.loc[df['Player']=='Ersan Ilyasova'])
+df.to_csv('train.csv',index=False)
 
