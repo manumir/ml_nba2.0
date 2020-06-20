@@ -26,7 +26,7 @@ for x in range(len(df)):
 df['Date']=new
 
 ### make a result column
-x=0
+x,i=0,0
 new=[]
 while x < len(df):
 	team=df.at[x,'Team']
@@ -38,13 +38,23 @@ while x < len(df):
 
 	if int(df_3['PTS'].values[0]) > 0:
 		for x in range(len(df_2)):
-			new.append(1)
+			if i%2==0:
+				new.append(1)
+			else:
+				new.append(0)
 	else:
 		for x in range(len(df_2)):
-			new.append(0)
+			if i%2==0:
+				new.append(0)
+			else:
+				new.append(1)
 
+	i=i+1
 	x=df_2.tail(1).index[0]+1
 df['Result']=new
+
+#### get teams winrates
+# here
 
 # delete lines that have the totals of each team and players that DNP (did not play)
 del2=[]
