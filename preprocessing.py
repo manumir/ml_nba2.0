@@ -2,7 +2,14 @@ import pandas as pd
 import numpy as np
 import functions as f
 
-df=pd.read_csv('data.txt')
+df=pd.read_csv('data19-20.txt')
+
+del2=[]
+for x in range(len(df)):
+	if df.at[x,'Player']=='Totals: - - -':
+		del2.append(x)
+df=df.drop(del2)
+df=df.reset_index(drop=True)
 
 ### join dates columns
 date=list(df['Date'].values)
@@ -107,12 +114,15 @@ for x in range(len(df)):
 		for col in cols:
 			y=0
 			for value in df_2[col]:
+				if value == '-':
+					value = 0
 				y=y+float(value)
-			avg=y/len(df_2)
+				avg=y/len(df_2)
 			
+			print(x,avg)
 			df.at[x,col]=avg
 	print(x)
 
 print(df)
-df.to_csv('train.csv',index=False)
+df.to_csv('train2.csv',index=False)
 

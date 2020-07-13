@@ -64,7 +64,11 @@ X=train
 x_train,x_test,y_train,y_test = train_test_split(X, Y, test_size=0.2, random_state=1)
 clf.fit(x_train,y_train)
 
+#print(clf.score(x_test,y_test)) # gives 0.08 dk why
+
+
 preds2=list(clf.predict(x_test))
+print(preds2[:5])
 
 preds=[]
 for i in range(len(preds2)):
@@ -80,9 +84,6 @@ for i in range(len(y_test)):
 		count=count+1
 
 print(count/len(y_test))
-
-
-
 
 
 
