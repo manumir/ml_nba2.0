@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import functions as f
 
-df=pd.read_csv('data19-20.txt')
+df=pd.read_csv('./data/data15-16.txt')
 
 del2=[]
 for x in range(len(df)):
@@ -82,10 +82,17 @@ for x in range(len(df)):
 df['MIN']=new
 
 ### change team names to acronimo
+"""
+new=[]
+for x in df['Team']:
+	new.append(f.name2acro2(x))
+df['Team']=new
+"""
 df['Team']=f.name2acro(df['Team'],'nba')
 
 ### check for nan rows
 nan_rows = df[df.isnull().T.any().T]
+print(nan_rows)
 
 ## sort by date and game id
 df=df.sort_values(by=['Date','GameId'])
@@ -114,15 +121,22 @@ for x in range(len(df)):
 		for col in cols:
 			y=0
 			for value in df_2[col]:
-				if value == '-':
-					value = 0
+				if value == '-': # doesn't work
+					value = 0 # idk why
 				y=y+float(value)
 				avg=y/len(df_2)
 			
-			print(x,avg)
 			df.at[x,col]=avg
 	print(x)
 
 print(df)
-df.to_csv('train2.csv',index=False)
+
+# removing the '-' where it should be zero
+cols=['FG%','3P%','FT%']
+for x in range(len(df)):
+	for col in cols:
+		if df.at[x,col]=='-':
+			df.at[x,col]=0
+
+df.to_csv('train5.csv',index=False)
 
