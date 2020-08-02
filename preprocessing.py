@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import functions as f
 
-df=pd.read_csv('./data/data15-16.txt')
+df=pd.read_csv('./data/data19-20.txt')
 
 del2=[]
 for x in range(len(df)):
@@ -19,7 +19,7 @@ for x in range(len(date)):
 	new.append(str(date[x])+' '+str(date2[x]))
 df=df.drop(['Date2'],1)
 df['Date']=new
-months=['Jan','Feb','Mar','Apr','May','Jun','Jul','Agt','Sep','Oct','Nov','Dec']
+months=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
 months_1=['01','02','03','04','05','06','07','08','09','10','11','12']
 new=[]
 for x in range(len(df)):
@@ -82,12 +82,6 @@ for x in range(len(df)):
 df['MIN']=new
 
 ### change team names to acronimo
-"""
-new=[]
-for x in df['Team']:
-	new.append(f.name2acro2(x))
-df['Team']=new
-"""
 df['Team']=f.name2acro(df['Team'],'nba')
 
 ### check for nan rows
@@ -95,7 +89,7 @@ nan_rows = df[df.isnull().T.any().T]
 print(nan_rows)
 
 ## sort by date and game id
-df=df.sort_values(by=['Date','GameId'])
+df=df.sort_values(by=['Date','GameId','Team'])
 
 ## columns to average
 cols=['MIN','FGM','FGA','FG%','3PM','3PA','3P%','FTM','FTA','FT%','OREB','DREB','REB','AST','TOV','STL','BLK','PF','PTS','+/-']
@@ -138,5 +132,5 @@ for x in range(len(df)):
 		if df.at[x,col]=='-':
 			df.at[x,col]=0
 
-df.to_csv('train5.csv',index=False)
+df.to_csv('./data/train1.csv',index=False)
 

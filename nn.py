@@ -3,7 +3,7 @@ import numpy as np
 import torch
 from functions import myacc
 from sklearn.model_selection import train_test_split
-
+"""
 df=pd.read_csv('./data/train_all.csv')
 #df=df.drop(['FG%','3P%','FT%'],1)
 
@@ -39,19 +39,21 @@ results=np.array(results)
 
 #np.save('x',data)
 #np.save('y',results)
+"""
 
-#data=np.load('x.npy')
-#results=np.load('y.npy')
+data=np.load('x.npy')
+results=np.load('y.npy')
 
 x_train,x_test,y_train,y_test = train_test_split(data,results,test_size=0.2, random_state=1)
 
-x = torch.Tensor(data)
+x_train = torch.Tensor(x_train)
 x_test = torch.Tensor(x_test)
 
-y = torch.Tensor(results)
-y=y.unsqueeze(1)
+y_train = torch.Tensor(y_train)
+y_test= torch.Tensor(y_test)
+y_train=y_train.unsqueeze(1)
 
-#ar=np.zeros(240)
+ar=np.zeros(200)
 model = torch.nn.Sequential(
     torch.nn.Linear(len(ar), len(ar)),
     torch.nn.Sigmoid(),
@@ -62,9 +64,9 @@ loss_fn = torch.nn.MSELoss()
 learning_rate = 1e-4
 optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)
 
-for t in range(2000):
-	y_pred = model(x)
-	loss = loss_fn(y_pred, y)
+for t in range(5000):
+	y_pred = model(x_train)
+	loss = loss_fn(y_pred, y_train)
 	if t % 10 == 9:
 		preds = model(x_test)
 		print(t, loss.item(),'test: ',myacc(preds,y_test))
@@ -75,7 +77,7 @@ for t in range(2000):
 
 	optimizer.step()
 
-torch.save(model,'lineups_model')
+torch.save(model,'./models/lineups_model5k')
 print(preds[:10])
 
 
