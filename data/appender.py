@@ -1,19 +1,15 @@
-import pandas as pd
+import glob
 
-df=pd.read_csv('train1.csv')
+files=glob.glob('data*.txt')
 
-i=2
-while i < 6:
-	print(i)
-	df2=pd.read_csv('train'+str(i)+'.csv')
-	new_ids=[]
-	for j in df2['GameId'].values:
-		j=j+df['GameId'].max()+1
-		new_ids.append(j)
-	df2['GameId']=new_ids
-	df=df.append(df2)
-	i=i+1
+all_lines=[]
+for file in files:
+	print(file)
+	with open(file,'r') as f:
+		lines=f.readlines()
+		all_lines=all_lines+lines[1:]
 
-df=df.sort_values(by=['Date','GameId'])
-df.to_csv('train_all.csv',index=False)
-
+with open('all_data.txt','w') as f:
+	f.write(lines[0])
+	for line in all_lines:
+		f.write(line)

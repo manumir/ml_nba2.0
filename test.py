@@ -19,10 +19,10 @@ import pandas as pd
 import numpy as np
 import torch
 
-model=torch.load('lineups_model')
-print(' ')
+model2use=input('model to use? ')
+model=torch.load(model2use)
 
-df=pd.read_csv('./data/train1.csv')
+df=pd.read_csv('./data/train.csv')
 
 ix=[] 
 for i in set(df['GameId'].values):

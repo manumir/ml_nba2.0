@@ -2,11 +2,7 @@ import pandas as pd
 import numpy as np
 import torch
 from selenium import webdriver
-#from selenium.webdriver.support.ui import WebDriverWait
-#from selenium.webdriver.support import expected_conditions as EC
-#from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup as bs4
-import re
 
 def checker(player):
 	if player == 'Troy Brown':
@@ -27,13 +23,14 @@ def checker(player):
 	if player == 'Tim Hardaway':
 		player = 'Tim Hardaway Jr.'
 
-	return player
+	if player == 'Marcus Morris':
+		player = 'Marcus Morris Sr.'
 
+	return player
 
 driver = webdriver.Firefox(executable_path='../geckodriver')
 
 driver.get('https://www.rotowire.com/basketball/nba-lineups.php')
-#WebDriverWait(driver, 15).until(EC.presence_of_element_located((By.CLASS_NAME, 'lineup__player')))
 
 soup=bs4(driver.page_source,'html.parser')
 
@@ -87,13 +84,19 @@ while i < number_of_games :
 	H.append(home[1])
 	H.append(home[0])
 
-	games.append(H+A)
 	games.append(A+H)
 	i=i+1
 
-data= pd.read_csv('./data/train_all.csv')
+# get date of games
+real_games=pd.read_csv('games.csv')
+date=real_games['date'][0]
+
+data= pd.read_csv('./data/train.csv')
 data.pop('Result')
 
+model2use= input('what model to use? ')
+
+file=open('./logs/'+model2use+'_log.txt','a')
 for players in games:
 	a=np.array([])
 	df1=pd.DataFrame()
@@ -102,8 +105,8 @@ for players in games:
 		df=data.loc[data['Player']==player].tail(1)
 		df1=df1.append(df)
 	
-	away=str(df1.head(1)['Team'].values)[1:-1]
-	home=str(df1.tail(1)['Team'].values)[1:-1]
+	away=str(df1.head(1)['Team'].values)[2:-2]
+	home=str(df1.tail(1)['Team'].values)[2:-2]
 
 	df1=df1[df1.columns[4:]]
 
@@ -112,8 +115,9 @@ for players in games:
 		a=np.concatenate((a,ar))
 
 	a=torch.Tensor(a)
-	model= torch.load('lineups_model5000')
+	model= torch.load('./models/'+model2use)
 
+	file.write(home+','+away+','+date+','+str(float(model(a)))+'\n')
 	print('home:',home,'away:',away,model(a))
 
-
+file.close()

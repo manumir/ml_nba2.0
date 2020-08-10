@@ -20,8 +20,8 @@ def process2sum(df_arg):
 			train.at[j,'Result']=df2.at[1,'Result']
 			
 			j=j+1
-		
-		print(i)
+		if i % 200 ==0:
+			print(i)
 	train=train.reset_index(drop=True)
 
 	home1,away1=[],[]
