@@ -63,7 +63,7 @@ model = torch.nn.Sequential(
 loss_fn = torch.nn.MSELoss()
 
 learning_rate = 1e-3
-optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate, weight_decay=1e-1)
+optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)
 
 for t in range(5000):
 	y_pred = model(x_train)
@@ -78,7 +78,7 @@ for t in range(5000):
 
 	optimizer.step()
 
-#torch.save(model,'./test')
+torch.save(model,'./12345')
 print(preds[:5])
 
 

@@ -3,21 +3,20 @@ import functions as f
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import MinMaxScaler
+import torch
 
-#train=pd.read_csv('./sumready.csv')
-
-#train = train.drop(['GameId','Team','Date','Player','GameId_away','Team_away','Date_away','Player_away'],1)
-
+"""
 new=pd.read_csv('../data/train.csv')
 
 train=pd.DataFrame(columns=new.columns)
 
 j=0
-for i in range(new['GameId'].values[-1]):
+for i in set(new['GameId']):
   df1=new.loc[new['GameId']==i]
   teams = df1['Team'].unique()
   for team in teams:
     df2=df1.loc[df1['Team']==team]
+    df2=df2.head(5)
     df2=df2.reset_index(drop=True)
 
     for column in list(df2.columns[:4]):
@@ -32,7 +31,7 @@ for i in range(new['GameId'].values[-1]):
   if i % 200 == 0:
     print(i)
 
-train=train.drop(['GameId','Date','MIN','Team','Player'],1)
+train=train.drop(['GameId','Date','Team','Player'],1)
 train=train.reset_index(drop=True)
 
 home1,away1=[],[]
@@ -40,32 +39,28 @@ for i in range(len(train)):
   home=pd.DataFrame()
   away=pd.DataFrame()
   if i % 2 == 0:
-    home1.append(i)
-  else:
     away1.append(i)
+  else:
+    home1.append(i)
 
-home=train.loc[home1]
-home=home.reset_index(drop=True)
 away=train.loc[away1]
 away=away.reset_index(drop=True)
+home=train.loc[home1]
+home=home.reset_index(drop=True)
 
-train=home.join(away,rsuffix='_away')
+train=away.join(home,rsuffix='_home')
 
 a=train['Result']
 train.pop('Result')
-train.pop('Result_away')
+train.pop('Result_home')
 train['Result']=a
 
 train=train.astype(float)
 
-print(train.corr()['Result'])
+train.to_csv('sum_ready.csv',index=False)
+"""
 
-
-#train=f.process2sum(train)
-#train.to_csv('sumready.csv',index=False)
-
-#corr=train.corr()['Result']
-#print(corr)
+train=pd.read_csv('sum_ready.csv')
 
 Y=train.pop('Result')
 X=train
@@ -89,8 +84,37 @@ clf.fit(x_train,y_train)
 preds=list(clf.predict(x_test))
 print(preds[:5])
 
-
 print(f.myacc(preds,y_test))
 
+x_train = torch.Tensor(x_train.values)
+x_test = torch.Tensor(x_test.values)
 
+y_train = torch.Tensor(y_train.values)
+y_test= torch.Tensor(y_test.values)
+y_train=y_train.unsqueeze(1)
+
+model = torch.nn.Sequential(
+    torch.nn.Linear(len(train.columns), len(train.columns)),
+    torch.nn.Sigmoid(),
+    torch.nn.Linear(len(train.columns),1),
+)
+loss_fn = torch.nn.MSELoss()
+
+learning_rate = 1e-3
+optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)
+
+for t in range(500):
+	y_pred = model(x_train)
+	loss = loss_fn(y_pred, y_train)
+	if t % 10 == 9:
+		preds = model(x_test)
+		print(t, loss.item(),'train:',f.myacc(y_pred,y_train),'test:',f.myacc(preds,y_test))
+
+	optimizer.zero_grad()
+
+	loss.backward()
+
+	optimizer.step()
+
+torch.save(model,'./12345')
 

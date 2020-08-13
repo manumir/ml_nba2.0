@@ -25,6 +25,12 @@ def checker(player):
 
 	if player == 'Marcus Morris':
 		player = 'Marcus Morris Sr.'
+	
+	if player == 'Michael Porter':
+		player = 'Michael Porter Jr.'
+	
+	if player == 'Glenn Robinson':
+		player = 'Glenn Robinson III'
 
 	return player
 
@@ -36,8 +42,8 @@ soup=bs4(driver.page_source,'html.parser')
 
 driver.quit()
 
-homes = soup.find_all('ul','lineup__list is-visit')
-aways= soup.find_all('ul','lineup__list is-home')
+aways= soup.find_all('ul','lineup__list is-visit')
+homes= soup.find_all('ul','lineup__list is-home')
 
 number_of_games = len(homes)
 
@@ -45,7 +51,7 @@ games=list()
 i=0
 while i < number_of_games :
 	# get list of aways players
-	players=homes[i].find_all('li',class_="lineup__player")
+	players=aways[i].find_all('li',class_="lineup__player")
 
 	away=list()
 	j=0
@@ -65,7 +71,7 @@ while i < number_of_games :
 	A.append(away[0])
 
 	# get list of home players
-	players=aways[i].find_all('li',class_="lineup__player")
+	players=homes[i].find_all('li',class_="lineup__player")
 
 	home=list()
 	j=0
@@ -95,6 +101,7 @@ data= pd.read_csv('./data/train.csv')
 data.pop('Result')
 
 model2use= input('what model to use? ')
+model= torch.load('./models/'+model2use)
 
 file=open('./logs/'+model2use+'_log.txt','a')
 for players in games:
@@ -107,7 +114,7 @@ for players in games:
 	
 	away=str(df1.head(1)['Team'].values)[2:-2]
 	home=str(df1.tail(1)['Team'].values)[2:-2]
-
+	
 	df1=df1[df1.columns[4:]]
 
 	for ar in df1.values:
@@ -115,7 +122,6 @@ for players in games:
 		a=np.concatenate((a,ar))
 
 	a=torch.Tensor(a)
-	model= torch.load('./models/'+model2use)
 
 	file.write(home+','+away+','+date+','+str(float(model(a)))+'\n')
 	print('home:',home,'away:',away,model(a))
