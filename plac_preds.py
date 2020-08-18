@@ -22,7 +22,7 @@ if os_name=='Linux':
 	driver = webdriver.Firefox(executable_path='../geckodriver')
 else:
 	driver = webdriver.Chrome(executable_path='C:/Users/dude/Desktop/chromedriver.exe')
-driver.get('https://placard.jogossantacasa.pt/PlacardWeb/Events?CompetionName=NBA&SelectedCompetitionId=23164&SelectedDate='+input('year(2020)-month(08)-day(04): ')+'&SelectedModalityId=basketball')
+driver.get('https://placard.jogossantacasa.pt/PlacardWeb/Events?CompetionName=&RegionName=&SelectedCompetitionId=&SelectedDate='+input('year(2020)-month(08)-day(04): ')+'&SelectedModalityId=basketball')
 
 WebDriverWait(driver,15).until(EC.presence_of_element_located((By.ID, "b5-l4-0-b9-l1-0-b3-b10-$b2")))
 

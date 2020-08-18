@@ -78,7 +78,7 @@ for t in range(5000):
 
 	optimizer.step()
 
-torch.save(model,'./12345')
+#torch.save(model,'./12345')
 print(preds[:5])
 
 

@@ -36786,3 +36786,544 @@ GameId,Team,Date,Date2,Player,MIN,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,OREB,DREB,
 1302,Washington Wizards,Aug 11, 2020,Garrison Mathews,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
 1302,Washington Wizards,Aug 11, 2020,Shabazz Napier,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
 1302,Washington Wizards,Aug 11, 2020,Totals:,39,95,41.1,12,35,34.3,23,30,76.7,11,33,44,22,11,2,3,23,113,-13
+1303,Indiana Pacers,Aug 12, 2020,Justin Holiday,28:38,6,10,60.0,4,8,50.0,2,2,100,1,5,6,1,0,2,1,2,18,-2
+1303,Indiana Pacers,Aug 12, 2020,JaKarr Sampson,16:19,3,3,100,0,0,0.0,3,3,100,0,5,5,0,0,2,0,3,9,-9
+1303,Indiana Pacers,Aug 12, 2020,Myles Turner,27:32,5,14,35.7,0,0,0.0,8,10,80.0,7,5,12,2,2,1,1,5,18,-13
+1303,Indiana Pacers,Aug 12, 2020,Victor Oladipo,37:02,7,26,26.9,2,12,16.7,0,0,0.0,0,6,6,5,5,1,1,4,16,-7
+1303,Indiana Pacers,Aug 12, 2020,Aaron Holiday,25:25,1,11,9.1,0,3,0.0,0,0,0.0,0,1,1,2,2,1,0,3,2,-15
+1303,Indiana Pacers,Aug 12, 2020,Edmond Sumner,24:05,6,11,54.5,2,3,66.7,3,6,50.0,1,3,4,4,1,0,1,3,17,13
+1303,Indiana Pacers,Aug 12, 2020,Alize Johnson,17:22,1,3,33.3,0,1,0.0,0,0,0.0,0,8,8,0,0,3,1,2,2,6
+1303,Indiana Pacers,Aug 12, 2020,T.J. McConnell,22:35,3,9,33.3,0,1,0.0,0,0,0.0,2,5,7,7,2,2,0,0,6,19
+1303,Indiana Pacers,Aug 12, 2020,Doug McDermott,24:20,6,7,85.7,3,3,100,1,1,100,0,2,2,4,1,1,1,1,16,18
+1303,Indiana Pacers,Aug 12, 2020,Goga Bitadze,16:42,2,6,33.3,0,0,0.0,0,0,0.0,1,2,3,0,1,2,1,2,4,10
+1303,Indiana Pacers,Aug 12, 2020,Brian Bowen II,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1303,Indiana Pacers,Aug 12, 2020,TJ Leaf,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1303,Indiana Pacers,Aug 12, 2020,Naz Mitrou-Long,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1303,Indiana Pacers,Aug 12, 2020,Malcolm Brogdon,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1303,Indiana Pacers,Aug 12, 2020,T.J. Warren,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1303,Indiana Pacers,Aug 12, 2020,Domantas Sabonis,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1303,Indiana Pacers,Aug 12, 2020,Jeremy Lamb,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1303,Indiana Pacers,Aug 12, 2020,Totals:,40,100,40.0,11,31,35.5,17,22,77.3,12,42,54,25,14,15,7,25,108,4
+1303,Houston Rockets,Aug 12, 2020,Eric Gordon,20:23,5,15,33.3,1,9,11.1,2,2,100,1,3,4,0,6,1,0,1,13,-6
+1303,Houston Rockets,Aug 12, 2020,P.J. Tucker,28:11,1,6,16.7,1,4,25.0,0,0,0.0,1,3,4,2,1,0,1,2,3,9
+1303,Houston Rockets,Aug 12, 2020,Robert Covington,35:36,3,8,37.5,3,8,37.5,2,2,100,0,7,7,2,2,0,2,3,11,2
+1303,Houston Rockets,Aug 12, 2020,Ben McLemore,27:43,2,9,22.2,2,8,25.0,1,2,50.0,0,1,1,0,1,1,2,1,7,-3
+1303,Houston Rockets,Aug 12, 2020,James Harden,35:28,13,21,61.9,7,14,50.0,12,14,85.7,1,16,17,9,6,3,0,2,45,11
+1303,Houston Rockets,Aug 12, 2020,Austin Rivers,31:27,1,9,11.1,1,5,20.0,0,0,0.0,1,8,9,3,3,2,0,5,3,-18
+1303,Houston Rockets,Aug 12, 2020,Jeff Green,30:20,5,12,41.7,0,4,0.0,4,4,100,1,2,3,1,1,0,1,3,14,-16
+1303,Houston Rockets,Aug 12, 2020,Michael Frazier,12:47,1,3,33.3,0,2,0.0,0,0,0.0,0,0,0,0,0,0,0,1,2,-5
+1303,Houston Rockets,Aug 12, 2020,DeMarre Carroll,13:14,0,2,0.0,0,2,0.0,3,4,75.0,0,3,3,3,0,1,0,2,3,-3
+1303,Houston Rockets,Aug 12, 2020,Chris Clemons,4:51,1,1,100,1,1,100,0,0,0.0,1,0,1,0,0,0,0,0,3,9
+1303,Houston Rockets,Aug 12, 2020,Bruno Caboclo,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1303,Houston Rockets,Aug 12, 2020,Tyson Chandler,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1303,Houston Rockets,Aug 12, 2020,Luc Mbah a Moute,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1303,Houston Rockets,Aug 12, 2020,Danuel House Jr.,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1303,Houston Rockets,Aug 12, 2020,Russell Westbrook,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1303,Houston Rockets,Aug 12, 2020,Totals:,32,86,37.2,16,57,28.1,24,28,85.7,6,43,49,20,20,8,6,20,104,-4
+1304,Toronto Raptors,Aug 12, 2020,Norman Powell,26:29,5,10,50.0,3,6,50.0,4,5,80.0,1,2,3,1,2,0,0,2,17,2
+1304,Toronto Raptors,Aug 12, 2020,Pascal Siakam,29:22,5,14,35.7,2,6,33.3,3,7,42.9,4,5,9,4,1,0,1,2,15,-4
+1304,Toronto Raptors,Aug 12, 2020,Marc Gasol,19:04,4,8,50.0,2,4,50.0,1,1,100,0,5,5,1,2,2,1,1,11,-1
+1304,Toronto Raptors,Aug 12, 2020,Fred VanVleet,25:32,3,11,27.3,1,3,33.3,3,3,100,0,2,2,6,0,0,0,1,10,-11
+1304,Toronto Raptors,Aug 12, 2020,Kyle Lowry,24:56,6,11,54.5,1,4,25.0,6,9,66.7,0,1,1,3,0,2,0,4,19,-4
+1304,Toronto Raptors,Aug 12, 2020,Terence Davis,15:56,1,6,16.7,1,5,20.0,2,2,100,0,3,3,2,2,2,0,6,5,0
+1304,Toronto Raptors,Aug 12, 2020,Chris Boucher,21:59,7,12,58.3,4,6,66.7,1,2,50.0,4,5,9,0,1,0,4,1,19,-8
+1304,Toronto Raptors,Aug 12, 2020,Rondae Hollis-Jefferson,24:48,2,3,66.7,1,2,50.0,3,4,75.0,0,6,6,4,0,1,0,4,8,5
+1304,Toronto Raptors,Aug 12, 2020,Matt Thomas,23:02,2,7,28.6,2,5,40.0,0,0,0.0,1,2,3,0,1,0,0,0,6,14
+1304,Toronto Raptors,Aug 12, 2020,Malcolm Miller,10:46,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,1,0,0,2,0,6
+1304,Toronto Raptors,Aug 12, 2020,Stanley Johnson,8:47,2,4,50.0,0,1,0.0,1,2,50.0,1,3,4,4,0,0,1,0,5,9
+1304,Toronto Raptors,Aug 12, 2020,Paul Watson,5:08,1,1,100,0,0,0.0,2,2,100,0,1,1,1,1,1,0,0,4,2
+1304,Toronto Raptors,Aug 12, 2020,Dewan Hernandez,4:11,2,3,66.7,1,1,100,1,3,33.3,0,0,0,2,1,0,0,0,6,10
+1304,Toronto Raptors,Aug 12, 2020,Serge Ibaka,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1304,Toronto Raptors,Aug 12, 2020,Patrick McCaw,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1304,Toronto Raptors,Aug 12, 2020,Oshae Brissett,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1304,Toronto Raptors,Aug 12, 2020,OG Anunoby,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1304,Toronto Raptors,Aug 12, 2020,Totals:,40,90,44.4,18,43,41.9,27,40,67.5,11,36,47,28,12,8,7,23,125,4
+1304,Philadelphia 76ers,Aug 12, 2020,Tobias Harris,24:46,8,13,61.5,1,4,25.0,5,8,62.5,1,5,6,5,0,0,2,1,22,10
+1304,Philadelphia 76ers,Aug 12, 2020,Al Horford,18:25,3,6,50.0,2,5,40.0,1,2,50.0,1,3,4,5,1,0,1,2,9,4
+1304,Philadelphia 76ers,Aug 12, 2020,Joel Embiid,13:35,1,4,25.0,0,0,0.0,3,4,75.0,1,8,9,0,5,1,1,2,5,6
+1304,Philadelphia 76ers,Aug 12, 2020,Josh Richardson,24:11,3,8,37.5,1,3,33.3,3,3,100,1,4,5,0,4,2,1,3,10,8
+1304,Philadelphia 76ers,Aug 12, 2020,Shake Milton,22:12,2,9,22.2,2,6,33.3,2,2,100,1,3,4,5,1,0,0,3,8,-1
+1304,Philadelphia 76ers,Aug 12, 2020,Furkan Korkmaz,29:17,5,10,50.0,5,9,55.6,6,6,100,1,4,5,4,2,2,0,1,21,-5
+1304,Philadelphia 76ers,Aug 12, 2020,Raul Neto,26:57,6,15,40.0,2,6,33.3,3,3,100,0,1,1,5,1,1,1,1,17,-4
+1304,Philadelphia 76ers,Aug 12, 2020,Matisse Thybulle,29:41,4,7,57.1,2,4,50.0,0,0,0.0,0,3,3,1,1,1,0,2,10,-12
+1304,Philadelphia 76ers,Aug 12, 2020,Mike Scott,21:33,4,5,80.0,2,3,66.7,2,3,66.7,2,3,5,2,0,1,0,5,12,-12
+1304,Philadelphia 76ers,Aug 12, 2020,Norvel Pelle,19:47,2,4,50.0,0,0,0.0,0,0,0.0,1,2,3,0,1,1,3,6,4,-7
+1304,Philadelphia 76ers,Aug 12, 2020,Marial Shayok,9:37,1,3,33.3,0,0,0.0,1,2,50.0,0,2,2,0,1,0,1,3,3,-7
+1304,Philadelphia 76ers,Aug 12, 2020,Kyle O'Quinn,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1304,Philadelphia 76ers,Aug 12, 2020,Glenn Robinson III,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1304,Philadelphia 76ers,Aug 12, 2020,Alec Burks,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1304,Philadelphia 76ers,Aug 12, 2020,Ben Simmons,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1304,Philadelphia 76ers,Aug 12, 2020,Totals:,39,84,46.4,17,40,42.5,26,33,78.8,9,38,47,27,17,9,10,29,121,-4
+1305,Miami Heat,Aug 12, 2020,Jimmy Butler,15:50,2,3,66.7,0,0,0.0,3,5,60.0,1,4,5,2,3,2,0,1,7,13
+1305,Miami Heat,Aug 12, 2020,Jae Crowder,7:33,1,4,25.0,1,4,25.0,0,0,0.0,0,0,0,0,0,0,0,1,3,6
+1305,Miami Heat,Aug 12, 2020,Bam Adebayo,16:19,3,5,60.0,0,0,0.0,0,0,0.0,0,2,2,4,1,0,0,3,6,5
+1305,Miami Heat,Aug 12, 2020,Duncan Robinson,15:39,6,8,75.0,5,7,71.4,2,2,100,0,2,2,3,1,0,0,2,19,9
+1305,Miami Heat,Aug 12, 2020,Goran Dragic,21:56,7,12,58.3,1,4,25.0,1,2,50.0,1,4,5,6,1,2,0,3,16,6
+1305,Miami Heat,Aug 12, 2020,Tyler Herro,38:19,9,16,56.3,3,6,50.0,9,9,100,0,6,6,2,1,1,1,2,30,-8
+1305,Miami Heat,Aug 12, 2020,Derrick Jones Jr.,16:33,2,2,100,0,0,0.0,0,0,0.0,0,2,2,1,1,1,0,0,4,7
+1305,Miami Heat,Aug 12, 2020,Kelly Olynyk,18:43,4,6,66.7,1,3,33.3,0,0,0.0,1,3,4,1,1,0,0,3,9,5
+1305,Miami Heat,Aug 12, 2020,Andre Iguodala,15:25,0,4,0.0,0,2,0.0,0,0,0.0,0,1,1,0,0,2,1,0,0,-10
+1305,Miami Heat,Aug 12, 2020,Solomon Hill,24:00,4,10,40.0,2,6,33.3,0,0,0.0,0,3,3,1,1,2,0,1,10,-5
+1305,Miami Heat,Aug 12, 2020,Meyers Leonard,17:54,0,4,0.0,0,4,0.0,0,0,0.0,1,4,5,2,1,1,0,4,0,-8
+1305,Miami Heat,Aug 12, 2020,Gabe Vincent,18:06,1,7,14.3,1,5,20.0,0,0,0.0,0,0,0,1,1,3,0,1,3,-13
+1305,Miami Heat,Aug 12, 2020,Chris Silva,13:43,3,5,60.0,0,1,0.0,2,2,100,2,3,5,1,0,0,0,2,8,-12
+1305,Miami Heat,Aug 12, 2020,KZ Okpala,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1305,Miami Heat,Aug 12, 2020,Kyle Alexander,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1305,Miami Heat,Aug 12, 2020,Kendrick Nunn,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1305,Miami Heat,Aug 12, 2020,Udonis Haslem,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1305,Miami Heat,Aug 12, 2020,Totals:,42,86,48.8,14,42,33.3,17,20,85.0,6,34,40,24,12,14,2,23,115,-1
+1305,Oklahoma City Thunder,Aug 12, 2020,Shai Gilgeous-Alexander,24:32,6,9,66.7,2,3,66.7,4,4,100,0,1,1,1,2,0,1,1,18,-23
+1305,Oklahoma City Thunder,Aug 12, 2020,Danilo Gallinari,21:15,2,10,20.0,0,6,0.0,10,10,100,0,2,2,0,1,0,0,0,14,-19
+1305,Oklahoma City Thunder,Aug 12, 2020,Steven Adams,19:57,4,7,57.1,0,0,0.0,0,2,0.0,2,6,8,0,0,1,0,0,8,-7
+1305,Oklahoma City Thunder,Aug 12, 2020,Luguentz Dort,7:33,0,1,0.0,0,1,0.0,2,2,100,1,0,1,0,0,0,0,1,2,-6
+1305,Oklahoma City Thunder,Aug 12, 2020,Chris Paul,23:49,4,12,33.3,0,3,0.0,4,4,100,2,5,7,4,3,1,0,2,12,-6
+1305,Oklahoma City Thunder,Aug 12, 2020,Hamidou Diallo,24:52,4,9,44.4,1,2,50.0,2,4,50.0,1,1,2,1,2,1,0,1,11,11
+1305,Oklahoma City Thunder,Aug 12, 2020,Abdel Nader,16:36,5,9,55.6,3,6,50.0,0,0,0.0,0,3,3,1,2,1,0,3,13,0
+1305,Oklahoma City Thunder,Aug 12, 2020,Nerlens Noel,18:02,1,1,100,0,0,0.0,0,0,0.0,3,4,7,1,4,0,0,3,2,-4
+1305,Oklahoma City Thunder,Aug 12, 2020,Darius Bazley,26:45,8,14,57.1,5,8,62.5,0,1,0.0,3,6,9,4,1,1,1,2,21,20
+1305,Oklahoma City Thunder,Aug 12, 2020,Terrance Ferguson,23:41,1,5,20.0,1,3,33.3,0,0,0.0,0,0,0,5,0,1,1,2,3,8
+1305,Oklahoma City Thunder,Aug 12, 2020,Andre Roberson,10:33,2,3,66.7,2,3,66.7,0,0,0.0,1,3,4,1,1,0,0,3,6,17
+1305,Oklahoma City Thunder,Aug 12, 2020,Devon Hall,12:24,0,4,0.0,0,3,0.0,0,0,0.0,0,1,1,1,0,1,1,1,0,2
+1305,Oklahoma City Thunder,Aug 12, 2020,Mike Muscala,10:01,2,5,40.0,2,4,50.0,0,0,0.0,1,4,5,1,0,0,0,0,6,12
+1305,Oklahoma City Thunder,Aug 12, 2020,Kevin Hervey,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1305,Oklahoma City Thunder,Aug 12, 2020,Dennis Schroder,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1305,Oklahoma City Thunder,Aug 12, 2020,Deonte Burton,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1305,Oklahoma City Thunder,Aug 12, 2020,Totals:,39,89,43.8,16,42,38.1,22,27,81.5,14,36,50,20,16,7,4,19,116,1
+1306,LA Clippers,Aug 12, 2020,Kawhi Leonard,33:22,9,16,56.3,1,4,25.0,7,8,87.5,0,5,5,3,1,2,0,4,26,12
+1306,LA Clippers,Aug 12, 2020,Marcus Morris Sr.,29:35,3,10,30.0,1,7,14.3,0,0,0.0,0,5,5,2,0,1,0,3,7,14
+1306,LA Clippers,Aug 12, 2020,Ivica Zubac,21:16,7,9,77.8,0,0,0.0,1,2,50.0,4,8,12,2,0,0,0,3,15,5
+1306,LA Clippers,Aug 12, 2020,Paul George,36:06,9,20,45.0,4,9,44.4,5,7,71.4,1,3,4,4,2,3,0,0,27,12
+1306,LA Clippers,Aug 12, 2020,Reggie Jackson,29:02,4,8,50.0,2,6,33.3,0,0,0.0,0,2,2,4,0,1,0,4,10,4
+1306,LA Clippers,Aug 12, 2020,JaMychal Green,21:04,1,2,50.0,1,1,100,0,0,0.0,0,4,4,1,0,1,1,4,3,-8
+1306,LA Clippers,Aug 12, 2020,Lou Williams,24:39,8,13,61.5,2,6,33.3,5,6,83.3,1,1,2,7,2,1,0,2,23,4
+1306,LA Clippers,Aug 12, 2020,Rodney McGruder,16:38,1,2,50.0,0,0,0.0,0,0,0.0,0,3,3,1,0,1,0,1,2,6
+1306,LA Clippers,Aug 12, 2020,Patrick Patterson,21:51,3,4,75.0,2,3,66.7,0,0,0.0,0,2,2,3,1,1,0,3,8,15
+1306,LA Clippers,Aug 12, 2020,Terance Mann,2:14,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,2,1,0,0,0,0,0
+1306,LA Clippers,Aug 12, 2020,Joakim Noah,2:14,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,0,0
+1306,LA Clippers,Aug 12, 2020,Amir Coffey,1:59,1,1,100,1,1,100,0,0,0.0,0,0,0,0,0,0,0,0,3,1
+1306,LA Clippers,Aug 12, 2020,Landry Shamet,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1306,LA Clippers,Aug 12, 2020,Montrezl Harrell,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1306,LA Clippers,Aug 12, 2020,Patrick Beverley,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1306,LA Clippers,Aug 12, 2020,Totals:,46,85,54.1,14,37,37.8,18,23,78.3,6,34,40,29,7,11,1,25,124,13
+1306,Denver Nuggets,Aug 12, 2020,Michael Porter Jr.,25:27,4,10,40.0,0,4,0.0,3,4,75.0,0,5,5,2,1,1,1,3,11,-16
+1306,Denver Nuggets,Aug 12, 2020,Paul Millsap,22:55,2,6,33.3,0,1,0.0,1,2,50.0,1,4,5,2,1,0,0,4,5,2
+1306,Denver Nuggets,Aug 12, 2020,Nikola Jokic,28:28,7,11,63.6,1,4,25.0,2,4,50.0,1,6,7,13,1,0,0,1,17,5
+1306,Denver Nuggets,Aug 12, 2020,Torrey Craig,23:53,4,8,50.0,2,4,50.0,0,1,0.0,2,3,5,0,1,0,0,2,10,-4
+1306,Denver Nuggets,Aug 12, 2020,Jamal Murray,25:06,3,8,37.5,2,7,28.6,2,2,100,0,3,3,6,0,0,0,2,10,1
+1306,Denver Nuggets,Aug 12, 2020,Jerami Grant,28:09,9,14,64.3,4,7,57.1,3,4,75.0,1,5,6,1,1,1,0,0,25,-7
+1306,Denver Nuggets,Aug 12, 2020,Monte Morris,20:58,2,6,33.3,2,3,66.7,0,0,0.0,1,1,2,2,1,0,0,0,6,-10
+1306,Denver Nuggets,Aug 12, 2020,PJ Dozier,22:30,3,10,30.0,0,1,0.0,0,0,0.0,1,2,3,3,0,1,0,2,6,-12
+1306,Denver Nuggets,Aug 12, 2020,Mason Plumlee,19:00,2,4,50.0,0,0,0.0,0,0,0.0,1,2,3,3,3,0,0,2,4,-14
+1306,Denver Nuggets,Aug 12, 2020,Bol Bol,9:46,3,4,75.0,1,2,50.0,0,0,0.0,1,0,1,0,2,1,1,1,7,-3
+1306,Denver Nuggets,Aug 12, 2020,Keita Bates-Diop,6:42,3,4,75.0,0,0,0.0,0,0,0.0,0,2,2,0,1,0,1,0,6,-5
+1306,Denver Nuggets,Aug 12, 2020,Noah Vonleh,3:33,0,0,0.0,0,0,0.0,1,2,50.0,0,0,0,0,0,0,0,2,1,-1
+1306,Denver Nuggets,Aug 12, 2020,Troy Daniels,3:33,1,2,50.0,1,2,50.0,0,0,0.0,0,0,0,1,0,0,0,0,3,-1
+1306,Denver Nuggets,Aug 12, 2020,Will Barton,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1306,Denver Nuggets,Aug 12, 2020,Vlatko Cancar,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1306,Denver Nuggets,Aug 12, 2020,Tyler Cook,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1306,Denver Nuggets,Aug 12, 2020,Gary Harris,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1306,Denver Nuggets,Aug 12, 2020,Totals:,43,87,49.4,13,35,37.1,12,19,63.2,9,33,42,33,12,4,3,19,111,-13
+1307,Washington Wizards,Aug 13, 2020,Isaac Bonga,29:43,2,7,28.6,1,2,50.0,1,2,50.0,2,1,3,4,2,2,0,1,6,1
+1307,Washington Wizards,Aug 13, 2020,Johnathan Williams,25:18,2,7,28.6,0,0,0.0,1,2,50.0,7,9,16,1,1,0,1,2,5,-2
+1307,Washington Wizards,Aug 13, 2020,Thomas Bryant,32:51,10,15,66.7,2,4,50.0,4,6,66.7,3,6,9,2,2,4,2,2,26,11
+1307,Washington Wizards,Aug 13, 2020,Jerome Robinson,27:18,4,10,40.0,2,6,33.3,0,0,0.0,1,2,3,1,4,0,0,4,10,1
+1307,Washington Wizards,Aug 13, 2020,Troy Brown Jr.,33:45,5,16,31.3,2,5,40.0,5,6,83.3,2,6,8,3,3,3,1,3,17,9
+1307,Washington Wizards,Aug 13, 2020,Moritz Wagner,19:03,2,7,28.6,1,5,20.0,2,2,100,1,7,8,1,1,1,0,4,7,2
+1307,Washington Wizards,Aug 13, 2020,Ish Smith,30:33,5,13,38.5,0,0,0.0,1,2,50.0,0,3,3,8,5,1,2,1,11,8
+1307,Washington Wizards,Aug 13, 2020,Jerian Grant,17:09,1,6,16.7,0,0,0.0,4,4,100,1,2,3,2,0,0,0,1,6,-1
+1307,Washington Wizards,Aug 13, 2020,Jarrod Uthoff,24:20,3,7,42.9,2,4,50.0,0,0,0.0,1,2,3,0,0,0,0,1,8,1
+1307,Washington Wizards,Aug 13, 2020,Rui Hachimura,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1307,Washington Wizards,Aug 13, 2020,Ian Mahinmi,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1307,Washington Wizards,Aug 13, 2020,Anzejs Pasecniks,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1307,Washington Wizards,Aug 13, 2020,Admiral Schofield,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1307,Washington Wizards,Aug 13, 2020,Garrison Mathews,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1307,Washington Wizards,Aug 13, 2020,Shabazz Napier,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1307,Washington Wizards,Aug 13, 2020,Totals:,34,88,38.6,10,26,38.5,18,24,75.0,18,38,56,22,18,11,6,19,96,6
+1307,Boston Celtics,Aug 13, 2020,Romeo Langford,30:08,3,9,33.3,0,1,0.0,0,0,0.0,0,4,4,4,1,0,0,2,6,7
+1307,Boston Celtics,Aug 13, 2020,Semi Ojeleye,31:05,4,11,36.4,2,6,33.3,3,3,100,2,6,8,2,3,1,0,0,13,-3
+1307,Boston Celtics,Aug 13, 2020,Enes Kanter,18:06,4,6,66.7,0,0,0.0,0,0,0.0,3,2,5,3,2,0,1,1,8,1
+1307,Boston Celtics,Aug 13, 2020,Javonte Green,34:26,8,17,47.1,3,9,33.3,4,4,100,3,1,4,0,4,0,0,4,23,-13
+1307,Boston Celtics,Aug 13, 2020,Tremont Waters,29:39,2,14,14.3,1,7,14.3,2,2,100,0,3,3,4,5,5,0,2,7,-7
+1307,Boston Celtics,Aug 13, 2020,Carsen Edwards,23:39,3,11,27.3,1,5,20.0,1,3,33.3,0,4,4,0,0,1,0,0,8,-5
+1307,Boston Celtics,Aug 13, 2020,Grant Williams,24:42,2,7,28.6,1,5,20.0,2,2,100,1,7,8,2,1,0,1,4,7,-4
+1307,Boston Celtics,Aug 13, 2020,Brad Wanamaker,17:32,3,5,60.0,0,2,0.0,0,0,0.0,0,1,1,4,0,0,0,2,6,1
+1307,Boston Celtics,Aug 13, 2020,Vincent Poirier,16:21,1,3,33.3,0,0,0.0,0,0,0.0,3,6,9,1,2,0,3,2,2,-8
+1307,Boston Celtics,Aug 13, 2020,Robert Williams III,5:58,3,3,100,0,0,0.0,0,0,0.0,0,1,1,1,0,0,0,0,6,1
+1307,Boston Celtics,Aug 13, 2020,Tacko Fall,8:24,2,2,100,0,0,0.0,0,0,0.0,1,3,4,1,0,1,2,2,4,0
+1307,Boston Celtics,Aug 13, 2020,Gordon Hayward,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1307,Boston Celtics,Aug 13, 2020,Kemba Walker,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1307,Boston Celtics,Aug 13, 2020,Marcus Smart,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1307,Boston Celtics,Aug 13, 2020,Daniel Theis,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1307,Boston Celtics,Aug 13, 2020,Jaylen Brown,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1307,Boston Celtics,Aug 13, 2020,Jayson Tatum,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1307,Boston Celtics,Aug 13, 2020,Totals:,35,88,39.8,8,35,22.9,12,14,85.7,13,38,51,22,18,8,7,19,90,-6
+1308,Portland Trail Blazers,Aug 13, 2020,Carmelo Anthony,36:41,4,12,33.3,1,4,25.0,0,0,0.0,3,4,7,1,2,1,0,5,9,13
+1308,Portland Trail Blazers,Aug 13, 2020,Zach Collins,17:04,1,7,14.3,0,2,0.0,0,0,0.0,3,3,6,0,0,0,0,0,2,-4
+1308,Portland Trail Blazers,Aug 13, 2020,Jusuf Nurkic,32:45,11,17,64.7,0,0,0.0,0,1,0.0,2,8,10,3,1,1,0,5,22,10
+1308,Portland Trail Blazers,Aug 13, 2020,CJ McCollum,43:54,9,21,42.9,0,6,0.0,7,8,87.5,1,3,4,7,2,3,1,3,25,7
+1308,Portland Trail Blazers,Aug 13, 2020,Damian Lillard,43:52,13,22,59.1,8,14,57.1,8,9,88.9,0,3,3,12,1,2,0,1,42,-1
+1308,Portland Trail Blazers,Aug 13, 2020,Gary Trent Jr.,36:40,6,13,46.2,4,10,40.0,0,0,0.0,0,1,1,1,1,2,1,5,16,-6
+1308,Portland Trail Blazers,Aug 13, 2020,Mario Hezonja,11:27,1,5,20.0,0,2,0.0,0,0,0.0,0,1,1,0,1,0,0,0,2,-6
+1308,Portland Trail Blazers,Aug 13, 2020,Hassan Whiteside,15:15,5,6,83.3,0,0,0.0,6,6,100,5,4,9,1,1,1,2,2,16,-9
+1308,Portland Trail Blazers,Aug 13, 2020,Anfernee Simons,2:22,0,1,0.0,0,1,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,1
+1308,Portland Trail Blazers,Aug 13, 2020,Jaylen Adams,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1308,Portland Trail Blazers,Aug 13, 2020,Wenyen Gabriel,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1308,Portland Trail Blazers,Aug 13, 2020,Jaylen Hoard,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1308,Portland Trail Blazers,Aug 13, 2020,Nassir Little,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1308,Portland Trail Blazers,Aug 13, 2020,Totals:,50,104,48.1,13,39,33.3,21,24,87.5,14,28,42,25,9,10,4,21,134,1
+1308,Brooklyn Nets,Aug 13, 2020,Joe Harris,34:26,9,14,64.3,1,4,25.0,0,0,0.0,1,2,3,4,3,0,0,5,19,-20
+1308,Brooklyn Nets,Aug 13, 2020,Rodions Kurucs,22:53,3,5,60.0,1,2,50.0,1,2,50.0,1,4,5,2,1,0,1,4,8,4
+1308,Brooklyn Nets,Aug 13, 2020,Jarrett Allen,37:22,5,8,62.5,0,0,0.0,4,9,44.4,6,5,11,4,1,0,3,1,14,16
+1308,Brooklyn Nets,Aug 13, 2020,Garrett Temple,36:54,4,10,40.0,3,7,42.9,4,4,100,1,9,10,4,0,0,0,2,15,12
+1308,Brooklyn Nets,Aug 13, 2020,Caris LeVert,32:49,16,29,55.2,1,5,20.0,4,4,100,1,5,6,9,6,2,1,1,37,4
+1308,Brooklyn Nets,Aug 13, 2020,Tyler Johnson,24:26,7,13,53.8,2,4,50.0,0,0,0.0,0,1,1,2,0,1,0,2,16,4
+1308,Brooklyn Nets,Aug 13, 2020,Timothe Luwawu-Cabarrot,31:58,7,13,53.8,5,9,55.6,0,0,0.0,2,6,8,1,2,0,0,5,19,6
+1308,Brooklyn Nets,Aug 13, 2020,Justin Anderson,5:37,1,2,50.0,1,2,50.0,0,0,0.0,0,1,1,0,1,0,0,2,3,-6
+1308,Brooklyn Nets,Aug 13, 2020,Jeremiah Martin,9:24,1,2,50.0,0,0,0.0,0,0,0.0,0,0,0,2,0,2,0,1,2,-14
+1308,Brooklyn Nets,Aug 13, 2020,Lance Thomas,4:13,0,0,0.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,0,-11
+1308,Brooklyn Nets,Aug 13, 2020,Chris Chiozza,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1308,Brooklyn Nets,Aug 13, 2020,Donta Hall,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1308,Brooklyn Nets,Aug 13, 2020,Dzanan Musa,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1308,Brooklyn Nets,Aug 13, 2020,Jamal Crawford,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1308,Brooklyn Nets,Aug 13, 2020,Totals:,53,96,55.2,14,33,42.4,13,19,68.4,12,34,46,28,14,5,5,23,133,-1
+1309,Sacramento Kings,Aug 13, 2020,Harrison Barnes,24:33,1,5,20.0,0,2,0.0,1,2,50.0,1,2,3,0,2,1,0,0,3,8
+1309,Sacramento Kings,Aug 13, 2020,Nemanja Bjelica,32:22,5,8,62.5,1,4,25.0,4,5,80.0,0,8,8,13,1,2,1,2,15,32
+1309,Sacramento Kings,Aug 13, 2020,Alex Len,14:18,1,2,50.0,0,1,0.0,1,2,50.0,0,3,3,0,0,0,1,1,3,11
+1309,Sacramento Kings,Aug 13, 2020,Bogdan Bogdanovic,26:59,11,23,47.8,5,11,45.5,0,0,0.0,3,3,6,9,1,2,0,0,27,21
+1309,Sacramento Kings,Aug 13, 2020,Cory Joseph,19:53,5,6,83.3,3,3,100,0,0,0.0,0,2,2,2,2,1,0,1,13,5
+1309,Sacramento Kings,Aug 13, 2020,Harry Giles III,3:55,2,3,66.7,0,0,0.0,0,0,0.0,0,1,1,0,1,0,0,1,4,-10
+1309,Sacramento Kings,Aug 13, 2020,DaQuan Jeffries,25:37,3,7,42.9,1,3,33.3,0,0,0.0,1,3,4,0,1,1,0,4,7,-3
+1309,Sacramento Kings,Aug 13, 2020,Buddy Hield,26:20,10,17,58.8,8,14,57.1,0,0,0.0,0,5,5,2,2,2,0,2,28,12
+1309,Sacramento Kings,Aug 13, 2020,Yogi Ferrell,19:39,4,7,57.1,2,4,50.0,1,2,50.0,0,1,1,2,1,3,0,1,11,-4
+1309,Sacramento Kings,Aug 13, 2020,Corey Brewer,1:28,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,0,0
+1309,Sacramento Kings,Aug 13, 2020,Jabari Parker,29:47,9,10,90.0,1,2,50.0,0,1,0.0,4,4,8,6,3,0,0,2,19,13
+1309,Sacramento Kings,Aug 13, 2020,Justin James,9:32,2,4,50.0,0,1,0.0,0,0,0.0,0,2,2,1,0,0,0,0,4,-7
+1309,Sacramento Kings,Aug 13, 2020,Kyle Guy,5:37,1,3,33.3,0,2,0.0,0,0,0.0,0,1,1,1,0,0,0,1,2,-8
+1309,Sacramento Kings,Aug 13, 2020,Richaun Holmes,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1309,Sacramento Kings,Aug 13, 2020,De'Aaron Fox,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1309,Sacramento Kings,Aug 13, 2020,Marvin Bagley III,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1309,Sacramento Kings,Aug 13, 2020,Kent Bazemore,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1309,Sacramento Kings,Aug 13, 2020,Totals:,54,95,56.8,21,47,44.7,7,12,58.3,9,35,44,37,14,12,2,15,136,14
+1309,Los Angeles Lakers,Aug 13, 2020,LeBron James,14:36,6,13,46.2,2,5,40.0,3,3,100,1,2,3,4,3,0,0,0,17,-13
+1309,Los Angeles Lakers,Aug 13, 2020,Markieff Morris,19:41,5,9,55.6,4,5,80.0,0,0,0.0,1,4,5,1,0,0,0,1,14,-16
+1309,Los Angeles Lakers,Aug 13, 2020,JaVale McGee,20:55,4,6,66.7,0,0,0.0,0,0,0.0,4,5,9,1,1,0,0,0,8,-20
+1309,Los Angeles Lakers,Aug 13, 2020,Danny Green,13:33,1,4,25.0,0,3,0.0,0,0,0.0,1,1,2,2,0,2,0,1,2,-3
+1309,Los Angeles Lakers,Aug 13, 2020,Talen Horton-Tucker,34:01,6,15,40.0,2,5,40.0,0,0,0.0,1,3,4,3,2,3,0,4,14,-4
+1309,Los Angeles Lakers,Aug 13, 2020,Quinn Cook,30:43,4,11,36.4,1,5,20.0,3,3,100,1,3,4,4,2,0,1,1,12,-6
+1309,Los Angeles Lakers,Aug 13, 2020,Dwight Howard,12:26,1,3,33.3,0,0,0.0,4,6,66.7,1,4,5,0,1,0,0,3,6,-5
+1309,Los Angeles Lakers,Aug 13, 2020,Jared Dudley,22:42,2,3,66.7,2,3,66.7,0,0,0.0,0,4,4,5,1,1,0,3,6,-6
+1309,Los Angeles Lakers,Aug 13, 2020,Dion Waiters,25:50,8,15,53.3,3,6,50.0,0,1,0.0,1,2,3,5,5,0,0,2,19,-1
+1309,Los Angeles Lakers,Aug 13, 2020,JR Smith,25:17,5,10,50.0,1,3,33.3,0,0,0.0,0,1,1,2,1,0,0,2,11,-15
+1309,Los Angeles Lakers,Aug 13, 2020,Kostas Antetokounmpo,11:24,3,3,100,0,0,0.0,1,2,50.0,2,0,2,1,1,0,0,1,7,14
+1309,Los Angeles Lakers,Aug 13, 2020,Devontae Cacok,8:52,3,6,50.0,0,0,0.0,0,0,0.0,2,3,5,1,0,0,0,0,6,5
+1309,Los Angeles Lakers,Aug 13, 2020,Kyle Kuzma,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1309,Los Angeles Lakers,Aug 13, 2020,Rajon Rondo,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1309,Los Angeles Lakers,Aug 13, 2020,Alex Caruso,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1309,Los Angeles Lakers,Aug 13, 2020,Anthony Davis,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1309,Los Angeles Lakers,Aug 13, 2020,Kentavious Caldwell-Pope,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1309,Los Angeles Lakers,Aug 13, 2020,Totals:,48,98,49.0,15,35,42.9,11,15,73.3,15,32,47,29,17,6,1,18,122,-14
+1310,Milwaukee Bucks,Aug 13, 2020,Khris Middleton,20:30,5,13,38.5,0,1,0.0,4,5,80.0,0,4,4,4,3,0,0,1,14,-18
+1310,Milwaukee Bucks,Aug 13, 2020,D.J. Wilson,30:13,5,10,50.0,2,5,40.0,0,0,0.0,1,7,8,1,1,1,0,1,12,-9
+1310,Milwaukee Bucks,Aug 13, 2020,Brook Lopez,19:48,6,14,42.9,2,8,25.0,5,5,100,4,5,9,1,0,0,1,1,19,-20
+1310,Milwaukee Bucks,Aug 13, 2020,Pat Connaughton,16:03,1,4,25.0,0,2,0.0,0,0,0.0,0,1,1,0,1,1,0,2,2,-13
+1310,Milwaukee Bucks,Aug 13, 2020,Eric Bledsoe,20:02,1,7,14.3,0,2,0.0,1,2,50.0,0,1,1,5,1,2,0,2,3,-17
+1310,Milwaukee Bucks,Aug 13, 2020,Donte DiVincenzo,18:58,7,13,53.8,3,5,60.0,0,2,0.0,1,3,4,4,5,1,0,4,17,-9
+1310,Milwaukee Bucks,Aug 13, 2020,Frank Mason,25:54,7,13,53.8,3,6,50.0,1,2,50.0,2,2,4,8,1,1,1,2,18,5
+1310,Milwaukee Bucks,Aug 13, 2020,Robin Lopez,21:01,2,9,22.2,0,4,0.0,1,2,50.0,0,4,4,0,0,0,1,3,5,2
+1310,Milwaukee Bucks,Aug 13, 2020,Marvin Williams,9:49,2,2,100,1,1,100,0,0,0.0,0,3,3,0,0,0,0,0,5,-1
+1310,Milwaukee Bucks,Aug 13, 2020,Kyle Korver,20:37,1,3,33.3,1,2,50.0,1,1,100,0,1,1,0,1,0,0,1,4,-1
+1310,Milwaukee Bucks,Aug 13, 2020,Thanasis Antetokounmpo,17:39,1,4,25.0,0,2,0.0,0,2,0.0,0,1,1,2,1,1,0,4,2,12
+1310,Milwaukee Bucks,Aug 13, 2020,Sterling Brown,19:26,1,6,16.7,1,3,33.3,2,2,100,1,4,5,2,1,1,0,1,5,4
+1310,Milwaukee Bucks,Aug 13, 2020,Giannis Antetokounmpo,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1310,Milwaukee Bucks,Aug 13, 2020,George Hill,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1310,Milwaukee Bucks,Aug 13, 2020,Wesley Matthews,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1310,Milwaukee Bucks,Aug 13, 2020,Ersan Ilyasova,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1310,Milwaukee Bucks,Aug 13, 2020,Totals:,39,98,39.8,13,41,31.7,15,23,65.2,9,36,45,27,15,8,3,22,106,-13
+1310,Memphis Grizzlies,Aug 13, 2020,Kyle Anderson,28:53,3,6,50.0,2,4,50.0,2,4,50.0,0,3,3,6,3,2,1,5,10,16
+1310,Memphis Grizzlies,Aug 13, 2020,Anthony Tolliver,19:54,3,5,60.0,3,5,60.0,0,0,0.0,1,3,4,2,1,1,0,1,9,14
+1310,Memphis Grizzlies,Aug 13, 2020,Jonas Valanciunas,32:32,11,17,64.7,2,3,66.7,2,2,100,3,16,19,12,3,0,0,3,26,18
+1310,Memphis Grizzlies,Aug 13, 2020,Dillon Brooks,32:36,12,18,66.7,4,7,57.1,3,5,60.0,0,2,2,2,1,0,1,0,31,27
+1310,Memphis Grizzlies,Aug 13, 2020,Ja Morant,34:05,5,17,29.4,0,4,0.0,2,2,100,4,9,13,10,6,0,0,3,12,15
+1310,Memphis Grizzlies,Aug 13, 2020,Brandon Clarke,28:06,4,9,44.4,0,2,0.0,2,4,50.0,0,7,7,1,2,1,1,3,10,-1
+1310,Memphis Grizzlies,Aug 13, 2020,Grayson Allen,27:18,4,6,66.7,1,2,50.0,0,0,0.0,0,1,1,0,1,0,0,1,9,1
+1310,Memphis Grizzlies,Aug 13, 2020,Gorgui Dieng,15:28,1,6,16.7,1,3,33.3,4,4,100,1,3,4,1,1,0,0,1,7,-5
+1310,Memphis Grizzlies,Aug 13, 2020,De'Anthony Melton,19:55,2,6,33.3,0,3,0.0,1,2,50.0,0,2,2,2,0,0,0,1,5,-12
+1310,Memphis Grizzlies,Aug 13, 2020,John Konchar,1:13,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,0,0,-8
+1310,Memphis Grizzlies,Aug 13, 2020,Marko Guduric,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1310,Memphis Grizzlies,Aug 13, 2020,Josh Jackson,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1310,Memphis Grizzlies,Aug 13, 2020,Yuta Watanabe,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1310,Memphis Grizzlies,Aug 13, 2020,Justise Winslow,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1310,Memphis Grizzlies,Aug 13, 2020,Tyus Jones,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1310,Memphis Grizzlies,Aug 13, 2020,Jaren Jackson Jr.,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1310,Memphis Grizzlies,Aug 13, 2020,Jontay Porter,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1310,Memphis Grizzlies,Aug 13, 2020,Totals:,45,90,50.0,13,33,39.4,16,23,69.6,9,46,55,36,18,4,3,18,119,13
+1311,New Orleans Pelicans,Aug 13, 2020,Josh Hart,35:57,7,14,50.0,3,9,33.3,6,8,75.0,1,13,14,6,2,1,1,0,23,-8
+1311,New Orleans Pelicans,Aug 13, 2020,Nicolo Melli,25:18,2,6,33.3,1,5,20.0,1,1,100,0,5,5,1,0,0,0,1,6,-11
+1311,New Orleans Pelicans,Aug 13, 2020,Jaxson Hayes,30:58,5,7,71.4,0,0,0.0,3,4,75.0,2,2,4,0,1,0,1,4,13,-13
+1311,New Orleans Pelicans,Aug 13, 2020,Nickeil Alexander-Walker,35:49,11,18,61.1,2,6,33.3,5,5,100,1,0,1,7,6,1,0,4,29,-11
+1311,New Orleans Pelicans,Aug 13, 2020,Frank Jackson,36:21,12,24,50.0,3,9,33.3,4,5,80.0,0,2,2,5,0,1,0,2,31,-8
+1311,New Orleans Pelicans,Aug 13, 2020,Jahlil Okafor,17:02,4,7,57.1,0,1,0.0,0,0,0.0,1,3,4,0,1,0,1,2,8,7
+1311,New Orleans Pelicans,Aug 13, 2020,Kenrich Williams,18:49,0,1,0.0,0,1,0.0,0,0,0.0,2,3,5,1,0,2,0,3,0,12
+1311,New Orleans Pelicans,Aug 13, 2020,Sindarius Thornwell,19:24,3,6,50.0,1,3,33.3,2,4,50.0,0,2,2,1,2,0,1,1,9,0
+1311,New Orleans Pelicans,Aug 13, 2020,Zylan Cheatham,20:22,4,4,100,0,0,0.0,0,0,0.0,2,1,3,1,1,1,0,5,8,2
+1311,New Orleans Pelicans,Aug 13, 2020,Lonzo Ball,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1311,New Orleans Pelicans,Aug 13, 2020,Derrick Favors,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1311,New Orleans Pelicans,Aug 13, 2020,E'Twaun Moore,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1311,New Orleans Pelicans,Aug 13, 2020,JJ Redick,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1311,New Orleans Pelicans,Aug 13, 2020,Zion Williamson,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1311,New Orleans Pelicans,Aug 13, 2020,Jrue Holiday,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1311,New Orleans Pelicans,Aug 13, 2020,Brandon Ingram,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1311,New Orleans Pelicans,Aug 13, 2020,Totals:,48,87,55.2,10,34,29.4,21,27,77.8,9,31,40,22,13,6,4,22,127,-6
+1311,Orlando Magic,Aug 13, 2020,James Ennis III,30:49,6,11,54.5,2,4,50.0,2,2,100,1,3,4,0,2,2,0,5,16,14
+1311,Orlando Magic,Aug 13, 2020,Gary Clark,29:07,3,7,42.9,2,5,40.0,0,0,0.0,1,1,2,0,1,0,2,3,8,-1
+1311,Orlando Magic,Aug 13, 2020,Nikola Vucevic,25:55,10,11,90.9,3,4,75.0,0,0,0.0,0,6,6,3,0,1,0,0,23,18
+1311,Orlando Magic,Aug 13, 2020,Wes Iwundu,26:55,4,5,80.0,2,2,100,5,7,71.4,0,4,4,6,2,0,0,1,15,11
+1311,Orlando Magic,Aug 13, 2020,Markelle Fultz,24:30,5,12,41.7,0,1,0.0,1,2,50.0,1,0,1,5,0,1,0,1,11,19
+1311,Orlando Magic,Aug 13, 2020,Vic Law,20:52,4,8,50.0,1,3,33.3,1,2,50.0,0,4,4,1,1,0,0,3,10,-9
+1311,Orlando Magic,Aug 13, 2020,Melvin Frazier Jr.,24:15,4,8,50.0,2,4,50.0,0,0,0.0,0,3,3,2,2,1,0,0,10,-16
+1311,Orlando Magic,Aug 13, 2020,Khem Birch,18:25,3,6,50.0,0,0,0.0,3,6,50.0,2,1,3,2,1,1,0,2,9,-9
+1311,Orlando Magic,Aug 13, 2020,D.J. Augustin,22:06,7,10,70.0,1,3,33.3,7,7,100,1,3,4,6,2,0,0,5,22,-5
+1311,Orlando Magic,Aug 13, 2020,BJ Johnson,17:06,2,6,33.3,2,2,100,3,4,75.0,0,2,2,0,1,0,0,2,9,8
+1311,Orlando Magic,Aug 13, 2020,Mo Bamba,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1311,Orlando Magic,Aug 13, 2020,Aaron Gordon,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1311,Orlando Magic,Aug 13, 2020,Jonathan Isaac,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1311,Orlando Magic,Aug 13, 2020,Michael Carter-Williams,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1311,Orlando Magic,Aug 13, 2020,Evan Fournier,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1311,Orlando Magic,Aug 13, 2020,Terrence Ross,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1311,Orlando Magic,Aug 13, 2020,Totals:,48,84,57.1,15,28,53.6,22,30,73.3,6,27,33,25,12,6,2,22,133,6
+1312,Dallas Mavericks,Aug 13, 2020,Tim Hardaway Jr.,20:03,2,8,25.0,1,3,33.3,3,4,75.0,0,2,2,0,1,0,0,2,8,-24
+1312,Dallas Mavericks,Aug 13, 2020,Dorian Finney-Smith,10:50,0,1,0.0,0,1,0.0,0,0,0.0,0,0,0,1,0,0,0,1,0,4
+1312,Dallas Mavericks,Aug 13, 2020,Boban Marjanovic,29:23,9,14,64.3,0,1,0.0,0,1,0.0,6,14,20,3,3,0,0,2,18,-10
+1312,Dallas Mavericks,Aug 13, 2020,Seth Curry,20:03,3,9,33.3,2,3,66.7,0,0,0.0,1,1,2,0,0,0,0,2,8,-24
+1312,Dallas Mavericks,Aug 13, 2020,Luka Doncic,13:14,5,9,55.6,1,2,50.0,7,7,100,1,4,5,0,1,1,0,2,18,-2
+1312,Dallas Mavericks,Aug 13, 2020,Trey Burke,18:39,3,8,37.5,1,3,33.3,0,0,0.0,0,1,1,3,1,1,0,0,7,-10
+1312,Dallas Mavericks,Aug 13, 2020,Michael Kidd-Gilchrist,21:03,2,5,40.0,0,0,0.0,2,2,100,1,2,3,1,1,0,1,2,6,-19
+1312,Dallas Mavericks,Aug 13, 2020,Maxi Kleber,10:44,1,2,50.0,1,2,50.0,0,0,0.0,1,0,1,0,0,0,1,1,3,-20
+1312,Dallas Mavericks,Aug 13, 2020,Justin Jackson,28:45,5,10,50.0,1,4,25.0,2,2,100,0,2,2,0,1,0,0,0,13,-11
+1312,Dallas Mavericks,Aug 13, 2020,Delon Wright,21:53,2,4,50.0,0,0,0.0,0,0,0.0,0,2,2,4,1,1,0,1,4,-5
+1312,Dallas Mavericks,Aug 13, 2020,J.J. Barea,18:59,4,12,33.3,1,5,20.0,0,0,0.0,0,2,2,4,1,0,0,0,9,-11
+1312,Dallas Mavericks,Aug 13, 2020,Josh Reaves,13:12,1,4,25.0,0,1,0.0,2,2,100,1,1,2,0,0,0,0,3,4,1
+1312,Dallas Mavericks,Aug 13, 2020,Antonius Cleveland,13:12,2,3,66.7,0,1,0.0,0,1,0.0,0,1,1,1,1,0,2,2,4,1
+1312,Dallas Mavericks,Aug 13, 2020,Kristaps Porzingis,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1312,Dallas Mavericks,Aug 13, 2020,Dwight Powell,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1312,Dallas Mavericks,Aug 13, 2020,Courtney Lee,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1312,Dallas Mavericks,Aug 13, 2020,Totals:,39,89,43.8,8,26,30.8,16,19,84.2,11,32,43,17,11,3,4,18,102,-26
+1312,Phoenix Suns,Aug 13, 2020,Mikal Bridges,27:46,6,10,60.0,2,4,50.0,0,0,0.0,0,4,4,3,1,0,1,2,14,26
+1312,Phoenix Suns,Aug 13, 2020,Cameron Johnson,30:06,7,11,63.6,1,4,25.0,0,0,0.0,2,3,5,3,0,2,1,1,15,12
+1312,Phoenix Suns,Aug 13, 2020,Deandre Ayton,26:11,5,10,50.0,0,1,0.0,1,2,50.0,3,6,9,3,0,2,1,0,11,19
+1312,Phoenix Suns,Aug 13, 2020,Devin Booker,31:33,11,20,55.0,0,5,0.0,5,5,100,0,7,7,5,0,0,0,3,27,30
+1312,Phoenix Suns,Aug 13, 2020,Ricky Rubio,20:51,2,6,33.3,2,5,40.0,1,1,100,0,2,2,12,1,1,0,1,7,4
+1312,Phoenix Suns,Aug 13, 2020,Cameron Payne,29:12,5,8,62.5,3,5,60.0,2,3,66.7,1,4,5,2,1,0,0,2,15,20
+1312,Phoenix Suns,Aug 13, 2020,Jevon Carter,26:16,3,7,42.9,3,5,60.0,0,0,0.0,0,2,2,1,0,1,1,1,9,5
+1312,Phoenix Suns,Aug 13, 2020,Dario Saric,25:31,6,10,60.0,2,3,66.7,2,4,50.0,0,6,6,2,2,0,0,3,16,3
+1312,Phoenix Suns,Aug 13, 2020,Elie Okobo,12:00,0,0,0.0,0,0,0.0,4,4,100,0,2,2,2,0,0,0,1,4,1
+1312,Phoenix Suns,Aug 13, 2020,Cheick Diallo,5:17,3,4,75.0,0,0,0.0,0,0,0.0,0,1,1,0,0,0,0,0,6,5
+1312,Phoenix Suns,Aug 13, 2020,Ty Jerome,5:17,1,3,33.3,1,2,50.0,1,2,50.0,1,1,2,1,0,0,0,0,4,5
+1312,Phoenix Suns,Aug 13, 2020,Aron Baynes,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1312,Phoenix Suns,Aug 13, 2020,Frank Kaminsky,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1312,Phoenix Suns,Aug 13, 2020,Kelly Oubre Jr.,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1312,Phoenix Suns,Aug 13, 2020,Jalen Lecque,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1312,Phoenix Suns,Aug 13, 2020,Totals:,49,89,55.1,14,34,41.2,16,21,76.2,7,38,45,34,5,6,4,14,128,26
+1313,San Antonio Spurs,Aug 13, 2020,Keldon Johnson,30:11,8,12,66.7,1,3,33.3,7,8,87.5,0,2,2,0,3,1,0,4,24,4
+1313,San Antonio Spurs,Aug 13, 2020,Luka Samanic,31:27,5,10,50.0,3,5,60.0,3,4,75.0,1,5,6,3,1,0,1,4,16,7
+1313,San Antonio Spurs,Aug 13, 2020,Jakob Poeltl,21:08,5,6,83.3,0,0,0.0,0,5,0.0,2,3,5,3,1,1,2,3,10,-1
+1313,San Antonio Spurs,Aug 13, 2020,Lonnie Walker IV,34:04,6,14,42.9,3,3,100,0,0,0.0,1,2,3,4,1,1,0,0,15,-12
+1313,San Antonio Spurs,Aug 13, 2020,Dejounte Murray,36:16,5,14,35.7,0,2,0.0,2,2,100,1,13,14,7,6,0,0,3,12,4
+1313,San Antonio Spurs,Aug 13, 2020,Marco Belinelli,29:43,6,11,54.5,3,6,50.0,1,2,50.0,0,0,0,0,0,0,0,2,16,-6
+1313,San Antonio Spurs,Aug 13, 2020,Quinndary Weatherspoon,3:17,0,0,0.0,0,0,0.0,1,2,50.0,0,1,1,0,0,0,0,1,1,-4
+1313,San Antonio Spurs,Aug 13, 2020,Drew Eubanks,27:14,1,6,16.7,0,0,0.0,6,8,75.0,2,5,7,3,1,0,4,1,8,-10
+1313,San Antonio Spurs,Aug 13, 2020,Chimezie Metu,26:40,3,6,50.0,0,1,0.0,4,5,80.0,2,4,6,4,2,1,1,2,10,-12
+1313,San Antonio Spurs,Aug 13, 2020,DeMar DeRozan,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1313,San Antonio Spurs,Aug 13, 2020,Rudy Gay,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1313,San Antonio Spurs,Aug 13, 2020,Patty Mills,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1313,San Antonio Spurs,Aug 13, 2020,Derrick White,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1313,San Antonio Spurs,Aug 13, 2020,Trey Lyles,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1313,San Antonio Spurs,Aug 13, 2020,Tyler Zeller,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1313,San Antonio Spurs,Aug 13, 2020,Bryn Forbes,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1313,San Antonio Spurs,Aug 13, 2020,Totals:,39,79,49.4,10,20,50.0,24,36,66.7,9,35,44,24,15,4,8,20,112,-6
+1313,Utah Jazz,Aug 13, 2020,Joe Ingles,12:20,1,4,25.0,1,3,33.3,0,0,0.0,0,1,1,3,0,1,0,0,3,12
+1313,Utah Jazz,Aug 13, 2020,Royce O'Neale,11:20,1,4,25.0,0,2,0.0,0,0,0.0,0,1,1,0,0,0,2,1,2,1
+1313,Utah Jazz,Aug 13, 2020,Tony Bradley,21:41,3,7,42.9,0,0,0.0,0,0,0.0,3,7,10,1,1,0,1,1,6,-1
+1313,Utah Jazz,Aug 13, 2020,Jordan Clarkson,14:02,4,12,33.3,3,9,33.3,0,0,0.0,0,2,2,1,2,0,0,1,11,12
+1313,Utah Jazz,Aug 13, 2020,Donovan Mitchell,11:20,3,5,60.0,3,4,75.0,2,2,100,0,4,4,3,0,0,0,1,11,1
+1313,Utah Jazz,Aug 13, 2020,Georges Niang,22:00,5,10,50.0,3,8,37.5,0,0,0.0,1,4,5,2,1,0,0,1,13,13
+1313,Utah Jazz,Aug 13, 2020,Miye Oni,25:49,4,8,50.0,2,5,40.0,0,0,0.0,1,1,2,2,1,1,0,3,10,0
+1313,Utah Jazz,Aug 13, 2020,Ed Davis,7:29,5,6,83.3,0,0,0.0,1,1,100,4,2,6,1,0,0,0,2,11,11
+1313,Utah Jazz,Aug 13, 2020,Juwan Morgan,21:49,3,4,75.0,0,0,0.0,0,0,0.0,2,1,3,1,1,1,1,5,6,7
+1313,Utah Jazz,Aug 13, 2020,Jarrell Brantley,28:59,6,13,46.2,0,3,0.0,1,2,50.0,1,3,4,6,0,1,1,2,13,-4
+1313,Utah Jazz,Aug 13, 2020,Rayjon Tucker,24:03,6,12,50.0,1,4,25.0,5,5,100,0,2,2,1,0,0,0,0,18,-7
+1313,Utah Jazz,Aug 13, 2020,Nigel Williams-Goss,22:11,4,9,44.4,2,5,40.0,0,0,0.0,0,1,1,1,1,2,0,4,10,-4
+1313,Utah Jazz,Aug 13, 2020,Justin Wright-Foreman,16:57,2,7,28.6,0,3,0.0,0,0,0.0,0,2,2,3,1,1,0,2,4,-11
+1313,Utah Jazz,Aug 13, 2020,Emmanuel Mudiay,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1313,Utah Jazz,Aug 13, 2020,Rudy Gobert,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1313,Utah Jazz,Aug 13, 2020,Mike Conley,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1313,Utah Jazz,Aug 13, 2020,Totals:,47,101,46.5,15,46,32.6,9,10,90.0,12,31,43,25,8,7,5,23,118,6
+1314,Philadelphia 76ers,Aug 14, 2020,Tobias Harris,23:58,6,10,60.0,2,3,66.7,4,4,100,0,7,7,4,0,1,0,0,18,2
+1314,Philadelphia 76ers,Aug 14, 2020,Al Horford,21:46,4,7,57.1,2,3,66.7,0,0,0.0,0,3,3,4,3,0,0,3,10,0
+1314,Philadelphia 76ers,Aug 14, 2020,Joel Embiid,22:51,6,12,50.0,0,0,0.0,2,3,66.7,2,4,6,1,5,1,1,5,14,9
+1314,Philadelphia 76ers,Aug 14, 2020,Josh Richardson,23:18,2,4,50.0,1,2,50.0,0,0,0.0,0,1,1,1,0,0,0,2,5,0
+1314,Philadelphia 76ers,Aug 14, 2020,Shake Milton,19:10,4,7,57.1,3,6,50.0,0,0,0.0,0,2,2,1,2,0,0,3,11,-5
+1314,Philadelphia 76ers,Aug 14, 2020,Alec Burks,22:09,6,11,54.5,4,6,66.7,0,0,0.0,2,3,5,5,0,2,0,0,16,37
+1314,Philadelphia 76ers,Aug 14, 2020,Furkan Korkmaz,16:44,4,7,57.1,2,5,40.0,2,2,100,0,5,5,1,2,0,0,1,12,27
+1314,Philadelphia 76ers,Aug 14, 2020,Mike Scott,19:52,3,4,75.0,1,2,50.0,3,4,75.0,1,6,7,3,0,0,0,0,10,37
+1314,Philadelphia 76ers,Aug 14, 2020,Matisse Thybulle,17:41,3,4,75.0,1,2,50.0,0,0,0.0,1,1,2,1,1,4,2,1,7,36
+1314,Philadelphia 76ers,Aug 14, 2020,Norvel Pelle,9:15,3,4,75.0,0,1,0.0,0,0,0.0,0,2,2,0,1,0,0,2,6,0
+1314,Philadelphia 76ers,Aug 14, 2020,Raul Neto,18:44,4,8,50.0,1,3,33.3,5,7,71.4,0,3,3,5,0,0,0,0,14,20
+1314,Philadelphia 76ers,Aug 14, 2020,Kyle O'Quinn,16:36,3,5,60.0,0,2,0.0,0,0,0.0,1,5,6,5,1,0,1,1,6,23
+1314,Philadelphia 76ers,Aug 14, 2020,Marial Shayok,7:56,1,4,25.0,1,3,33.3,2,2,100,1,1,2,0,1,0,0,1,5,4
+1314,Philadelphia 76ers,Aug 14, 2020,Glenn Robinson III,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1314,Philadelphia 76ers,Aug 14, 2020,Ben Simmons,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1314,Philadelphia 76ers,Aug 14, 2020,Totals:,49,87,56.3,18,38,47.4,18,22,81.8,8,43,51,31,16,8,4,19,134,38
+1314,Houston Rockets,Aug 14, 2020,Jeff Green,25:08,8,10,80.0,0,2,0.0,1,1,100,0,0,0,4,0,1,1,4,17,-7
+1314,Houston Rockets,Aug 14, 2020,P.J. Tucker,29:03,3,6,50.0,1,4,25.0,0,0,0.0,0,1,1,2,0,0,1,2,7,-12
+1314,Houston Rockets,Aug 14, 2020,Robert Covington,24:08,1,4,25.0,1,4,25.0,2,2,100,0,5,5,1,1,2,2,1,5,-3
+1314,Houston Rockets,Aug 14, 2020,Eric Gordon,23:24,4,10,40.0,3,6,50.0,2,2,100,0,2,2,2,1,0,1,1,13,-12
+1314,Houston Rockets,Aug 14, 2020,James Harden,26:17,9,16,56.3,4,9,44.4,5,5,100,0,3,3,10,7,1,2,1,27,-11
+1314,Houston Rockets,Aug 14, 2020,Ben McLemore,11:21,1,4,25.0,1,3,33.3,0,0,0.0,0,2,2,1,0,1,0,0,3,-17
+1314,Houston Rockets,Aug 14, 2020,Austin Rivers,12:21,0,2,0.0,0,2,0.0,1,2,50.0,0,1,1,0,1,1,0,0,1,-16
+1314,Houston Rockets,Aug 14, 2020,DeMarre Carroll,24:35,2,5,40.0,1,3,33.3,0,0,0.0,0,4,4,1,1,1,0,2,5,-29
+1314,Houston Rockets,Aug 14, 2020,Chris Clemons,16:36,2,7,28.6,0,5,0.0,0,0,0.0,0,1,1,4,1,1,1,4,4,-23
+1314,Houston Rockets,Aug 14, 2020,Bruno Caboclo,16:36,4,9,44.4,1,4,25.0,2,2,100,1,5,6,0,4,2,1,2,11,-23
+1314,Houston Rockets,Aug 14, 2020,Michael Frazier,16:36,0,4,0.0,0,4,0.0,0,0,0.0,0,1,1,0,1,0,0,1,0,-23
+1314,Houston Rockets,Aug 14, 2020,Luc Mbah a Moute,13:55,1,3,33.3,0,2,0.0,1,2,50.0,0,1,1,0,0,0,0,0,3,-14
+1314,Houston Rockets,Aug 14, 2020,Danuel House Jr.,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1314,Houston Rockets,Aug 14, 2020,Tyson Chandler,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1314,Houston Rockets,Aug 14, 2020,Russell Westbrook,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1314,Houston Rockets,Aug 14, 2020,Totals:,35,80,43.8,12,48,25.0,14,16,87.5,1,26,27,25,17,10,9,18,96,-38
+1315,Miami Heat,Aug 14, 2020,Duncan Robinson,13:24,0,3,0.0,0,3,0.0,0,0,0.0,0,2,2,1,2,0,0,1,0,-5
+1315,Miami Heat,Aug 14, 2020,Udonis Haslem,23:31,3,5,60.0,1,1,100,0,0,0.0,1,7,8,0,1,0,0,3,7,-5
+1315,Miami Heat,Aug 14, 2020,Kelly Olynyk,20:19,2,9,22.2,2,8,25.0,0,0,0.0,0,6,6,0,0,0,1,0,6,-9
+1315,Miami Heat,Aug 14, 2020,Tyler Herro,27:56,6,16,37.5,3,8,37.5,1,1,100,1,0,1,3,3,0,0,2,16,-10
+1315,Miami Heat,Aug 14, 2020,Kendrick Nunn,32:58,8,27,29.6,1,9,11.1,6,6,100,1,1,2,4,5,3,1,1,23,-21
+1315,Miami Heat,Aug 14, 2020,Solomon Hill,40:34,5,13,38.5,1,4,25.0,10,12,83.3,2,5,7,3,3,1,0,2,21,-8
+1315,Miami Heat,Aug 14, 2020,Derrick Jones Jr.,16:03,1,2,50.0,0,0,0.0,1,2,50.0,2,0,2,2,0,2,0,2,3,-2
+1315,Miami Heat,Aug 14, 2020,Meyers Leonard,28:46,3,7,42.9,2,5,40.0,1,2,50.0,2,5,7,0,3,0,0,0,9,-10
+1315,Miami Heat,Aug 14, 2020,Chris Silva,24:29,2,4,50.0,0,0,0.0,1,4,25.0,4,7,11,1,1,0,3,3,5,-12
+1315,Miami Heat,Aug 14, 2020,Kyle Alexander,12:00,1,1,100,0,0,0.0,0,0,0.0,1,1,2,0,1,0,0,1,2,-3
+1315,Miami Heat,Aug 14, 2020,Jimmy Butler,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1315,Miami Heat,Aug 14, 2020,Jae Crowder,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1315,Miami Heat,Aug 14, 2020,Andre Iguodala,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1315,Miami Heat,Aug 14, 2020,Gabe Vincent,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1315,Miami Heat,Aug 14, 2020,Bam Adebayo,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1315,Miami Heat,Aug 14, 2020,Goran Dragic,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1315,Miami Heat,Aug 14, 2020,KZ Okpala,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1315,Miami Heat,Aug 14, 2020,Totals:,31,87,35.6,10,38,26.3,20,27,74.1,14,34,48,14,19,6,5,15,92,-17
+1315,Indiana Pacers,Aug 14, 2020,Justin Holiday,23:51,3,5,60.0,3,5,60.0,2,2,100,0,7,7,0,2,1,0,3,11,7
+1315,Indiana Pacers,Aug 14, 2020,Alize Johnson,38:19,3,8,37.5,2,5,40.0,3,4,75.0,7,10,17,4,3,0,1,3,11,10
+1315,Indiana Pacers,Aug 14, 2020,JaKarr Sampson,23:22,5,9,55.6,0,0,0.0,0,0,0.0,1,3,4,2,2,2,0,1,10,5
+1315,Indiana Pacers,Aug 14, 2020,Edmond Sumner,30:43,3,7,42.9,0,3,0.0,1,1,100,0,2,2,6,2,0,0,4,7,15
+1315,Indiana Pacers,Aug 14, 2020,Malcolm Brogdon,24:31,6,14,42.9,4,7,57.1,0,0,0.0,2,4,6,6,3,0,0,3,16,5
+1315,Indiana Pacers,Aug 14, 2020,Goga Bitadze,16:18,2,5,40.0,0,2,0.0,0,0,0.0,1,2,3,2,2,1,2,3,4,9
+1315,Indiana Pacers,Aug 14, 2020,T.J. McConnell,21:13,4,8,50.0,0,0,0.0,0,0,0.0,0,3,3,8,2,1,0,2,8,12
+1315,Indiana Pacers,Aug 14, 2020,Aaron Holiday,17:17,5,7,71.4,1,3,33.3,0,0,0.0,0,2,2,2,2,3,0,2,11,2
+1315,Indiana Pacers,Aug 14, 2020,Doug McDermott,21:53,8,16,50.0,5,11,45.5,2,3,66.7,1,3,4,0,0,1,0,2,23,10
+1315,Indiana Pacers,Aug 14, 2020,TJ Leaf,18:01,3,9,33.3,0,2,0.0,0,1,0.0,0,3,3,1,0,2,0,2,6,10
+1315,Indiana Pacers,Aug 14, 2020,Naz Mitrou-Long,2:16,0,0,0.0,0,0,0.0,0,0,0.0,0,0,0,1,1,0,0,1,0,0
+1315,Indiana Pacers,Aug 14, 2020,Brian Bowen II,2:16,1,1,100,0,0,0.0,0,0,0.0,0,0,0,0,0,0,0,1,2,0
+1315,Indiana Pacers,Aug 14, 2020,Victor Oladipo,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1315,Indiana Pacers,Aug 14, 2020,Myles Turner,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1315,Indiana Pacers,Aug 14, 2020,Jeremy Lamb,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1315,Indiana Pacers,Aug 14, 2020,Domantas Sabonis,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1315,Indiana Pacers,Aug 14, 2020,T.J. Warren,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1315,Indiana Pacers,Aug 14, 2020,Totals:,43,89,48.3,15,38,39.5,8,11,72.7,12,39,51,32,19,11,3,27,109,17
+1316,Oklahoma City Thunder,Aug 14, 2020,Terrance Ferguson,17:28,0,2,0.0,0,2,0.0,0,0,0.0,0,1,1,0,0,0,0,4,0,-13
+1316,Oklahoma City Thunder,Aug 14, 2020,Danilo Gallinari,8:52,0,3,0.0,0,1,0.0,3,3,100,0,1,1,0,0,0,0,2,3,0
+1316,Oklahoma City Thunder,Aug 14, 2020,Steven Adams,6:22,0,2,0.0,0,0,0.0,0,0,0.0,2,2,4,0,1,0,0,0,0,2
+1316,Oklahoma City Thunder,Aug 14, 2020,Shai Gilgeous-Alexander,13:31,6,10,60.0,0,1,0.0,1,1,100,0,4,4,0,3,1,0,0,13,12
+1316,Oklahoma City Thunder,Aug 14, 2020,Dennis Schroder,25:29,6,12,50.0,3,3,100,2,2,100,0,1,1,4,2,1,0,4,17,-10
+1316,Oklahoma City Thunder,Aug 14, 2020,Andre Roberson,28:07,1,9,11.1,0,6,0.0,1,2,50.0,1,4,5,2,0,0,1,4,3,6
+1316,Oklahoma City Thunder,Aug 14, 2020,Nerlens Noel,15:22,2,2,100,0,0,0.0,1,2,50.0,0,1,1,0,2,0,1,3,5,-1
+1316,Oklahoma City Thunder,Aug 14, 2020,Darius Bazley,30:47,3,12,25.0,2,5,40.0,1,3,33.3,1,7,8,1,1,0,2,0,9,7
+1316,Oklahoma City Thunder,Aug 14, 2020,Hamidou Diallo,39:47,10,22,45.5,4,8,50.0,3,5,60.0,4,7,11,1,2,0,1,5,27,-4
+1316,Oklahoma City Thunder,Aug 14, 2020,Mike Muscala,14:16,1,3,33.3,1,3,33.3,0,0,0.0,0,1,1,0,0,0,1,1,3,-8
+1316,Oklahoma City Thunder,Aug 14, 2020,Deonte Burton,29:32,3,11,27.3,0,4,0.0,0,0,0.0,1,5,6,5,4,0,0,2,6,0
+1316,Oklahoma City Thunder,Aug 14, 2020,Devon Hall,24:16,4,12,33.3,3,6,50.0,1,4,25.0,1,0,1,4,1,3,0,2,12,-1
+1316,Oklahoma City Thunder,Aug 14, 2020,Kevin Hervey,11:11,2,6,33.3,1,5,20.0,0,0,0.0,1,3,4,1,0,0,0,2,5,-10
+1316,Oklahoma City Thunder,Aug 14, 2020,Luguentz Dort,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1316,Oklahoma City Thunder,Aug 14, 2020,Abdel Nader,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1316,Oklahoma City Thunder,Aug 14, 2020,Chris Paul,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1316,Oklahoma City Thunder,Aug 14, 2020,Totals:,38,106,35.8,14,44,31.8,13,22,59.1,11,37,48,18,16,5,6,29,103,-4
+1316,LA Clippers,Aug 14, 2020,Amir Coffey,49:38,7,17,41.2,2,8,25.0,5,8,62.5,0,2,2,4,2,4,1,6,21,11
+1316,LA Clippers,Aug 14, 2020,JaMychal Green,27:25,5,11,45.5,3,6,50.0,0,0,0.0,0,8,8,0,3,1,0,3,13,-2
+1316,LA Clippers,Aug 14, 2020,Ivica Zubac,10:42,2,3,66.7,0,0,0.0,2,2,100,1,3,4,0,1,0,1,1,6,8
+1316,LA Clippers,Aug 14, 2020,Rodney McGruder,51:16,2,11,18.2,1,5,20.0,4,6,66.7,3,8,11,2,2,2,0,0,9,0
+1316,LA Clippers,Aug 14, 2020,Reggie Jackson,16:12,2,8,25.0,1,4,25.0,2,2,100,0,2,2,3,3,0,0,3,7,8
+1316,LA Clippers,Aug 14, 2020,Patrick Patterson,38:54,4,16,25.0,4,11,36.4,5,6,83.3,3,11,14,0,2,0,0,3,17,-6
+1316,LA Clippers,Aug 14, 2020,Terance Mann,41:54,8,12,66.7,1,3,33.3,8,13,61.5,4,10,14,9,3,2,0,5,25,-7
+1316,LA Clippers,Aug 14, 2020,Joakim Noah,28:59,4,7,57.1,0,0,0.0,1,2,50.0,1,5,6,5,4,1,0,1,9,8
+1316,LA Clippers,Aug 14, 2020,Paul George,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1316,LA Clippers,Aug 14, 2020,Kawhi Leonard,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1316,LA Clippers,Aug 14, 2020,Marcus Morris Sr.,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1316,LA Clippers,Aug 14, 2020,Lou Williams,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1316,LA Clippers,Aug 14, 2020,Montrezl Harrell,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1316,LA Clippers,Aug 14, 2020,Patrick Beverley,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1316,LA Clippers,Aug 14, 2020,Landry Shamet,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1316,LA Clippers,Aug 14, 2020,Totals:,34,85,40.0,12,37,32.4,27,39,69.2,12,49,61,23,20,10,2,22,107,4
+1317,Denver Nuggets,Aug 14, 2020,Jerami Grant,18:18,1,6,16.7,0,3,0.0,0,0,0.0,1,1,2,1,0,0,0,0,2,2
+1317,Denver Nuggets,Aug 14, 2020,Paul Millsap,15:30,4,8,50.0,2,3,66.7,0,0,0.0,1,2,3,2,1,2,1,2,10,-4
+1317,Denver Nuggets,Aug 14, 2020,Nikola Jokic,10:12,1,1,100,0,0,0.0,0,0,0.0,0,1,1,2,1,0,0,0,2,-6
+1317,Denver Nuggets,Aug 14, 2020,Torrey Craig,14:58,1,6,16.7,1,3,33.3,0,0,0.0,1,3,4,3,1,0,0,0,3,-6
+1317,Denver Nuggets,Aug 14, 2020,Jamal Murray,10:12,4,5,80.0,3,3,100,0,0,0.0,0,0,0,1,0,1,0,2,11,-6
+1317,Denver Nuggets,Aug 14, 2020,Monte Morris,29:51,4,14,28.6,2,7,28.6,6,6,100,0,6,6,4,2,0,1,0,16,-7
+1317,Denver Nuggets,Aug 14, 2020,PJ Dozier,30:48,6,9,66.7,5,6,83.3,3,3,100,0,5,5,8,1,2,0,0,20,-5
+1317,Denver Nuggets,Aug 14, 2020,Keita Bates-Diop,24:21,3,11,27.3,1,4,25.0,4,4,100,2,4,6,0,2,1,2,3,11,-1
+1317,Denver Nuggets,Aug 14, 2020,Mason Plumlee,19:42,4,6,66.7,0,0,0.0,2,3,66.7,1,2,3,2,0,0,4,2,10,-3
+1317,Denver Nuggets,Aug 14, 2020,Troy Daniels,28:00,4,11,36.4,2,8,25.0,0,0,0.0,0,3,3,1,3,1,0,3,10,-2
+1317,Denver Nuggets,Aug 14, 2020,Bol Bol,15:27,2,6,33.3,0,1,0.0,4,5,80.0,1,3,4,2,2,0,3,2,8,1
+1317,Denver Nuggets,Aug 14, 2020,Tyler Cook,16:11,1,2,50.0,0,0,0.0,2,2,100,2,2,4,0,2,2,0,1,4,-3
+1317,Denver Nuggets,Aug 14, 2020,Noah Vonleh,6:30,1,2,50.0,0,0,0.0,0,0,0.0,0,0,0,1,0,0,0,0,2,0
+1317,Denver Nuggets,Aug 14, 2020,Michael Porter Jr.,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1317,Denver Nuggets,Aug 14, 2020,Vlatko Cancar,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1317,Denver Nuggets,Aug 14, 2020,Gary Harris,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1317,Denver Nuggets,Aug 14, 2020,Will Barton,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1317,Denver Nuggets,Aug 14, 2020,Totals:,36,87,41.4,16,38,42.1,21,23,91.3,9,32,41,27,15,9,11,15,109,-8
+1317,Toronto Raptors,Aug 14, 2020,Norman Powell,22:48,6,9,66.7,3,5,60.0,0,0,0.0,1,5,6,2,3,1,1,2,15,-3
+1317,Toronto Raptors,Aug 14, 2020,Rondae Hollis-Jefferson,22:18,3,9,33.3,0,0,0.0,0,1,0.0,2,4,6,3,1,0,1,1,6,11
+1317,Toronto Raptors,Aug 14, 2020,Marc Gasol,16:43,1,3,33.3,0,1,0.0,0,0,0.0,0,3,3,5,2,1,1,2,2,-2
+1317,Toronto Raptors,Aug 14, 2020,Matt Thomas,28:18,4,6,66.7,2,3,66.7,2,2,100,1,2,3,2,2,1,0,4,12,7
+1317,Toronto Raptors,Aug 14, 2020,Terence Davis,34:02,5,15,33.3,2,6,33.3,2,2,100,1,5,6,3,3,2,0,2,14,6
+1317,Toronto Raptors,Aug 14, 2020,Chris Boucher,21:30,3,8,37.5,1,3,33.3,2,3,66.7,4,5,9,0,1,0,1,2,9,5
+1317,Toronto Raptors,Aug 14, 2020,Paul Watson,27:28,8,13,61.5,4,6,66.7,2,3,66.7,0,6,6,2,1,1,0,2,22,8
+1317,Toronto Raptors,Aug 14, 2020,Stanley Johnson,28:34,9,16,56.3,4,8,50.0,1,3,33.3,0,4,4,6,5,1,1,5,23,5
+1317,Toronto Raptors,Aug 14, 2020,Malcolm Miller,25:37,4,5,80.0,2,3,66.7,0,0,0.0,1,0,1,3,0,1,0,4,10,3
+1317,Toronto Raptors,Aug 14, 2020,Dewan Hernandez,12:42,2,6,33.3,0,0,0.0,0,0,0.0,3,4,7,1,1,0,0,0,4,0
+1317,Toronto Raptors,Aug 14, 2020,Oshae Brissett,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1317,Toronto Raptors,Aug 14, 2020,Kyle Lowry,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1317,Toronto Raptors,Aug 14, 2020,Pascal Siakam,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1317,Toronto Raptors,Aug 14, 2020,Fred VanVleet,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1317,Toronto Raptors,Aug 14, 2020,Patrick McCaw,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1317,Toronto Raptors,Aug 14, 2020,Serge Ibaka,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1317,Toronto Raptors,Aug 14, 2020,OG Anunoby,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1317,Toronto Raptors,Aug 14, 2020,Totals:,45,90,50.0,18,35,51.4,9,14,64.3,13,38,51,27,19,8,5,24,117,8
+1318,Memphis Grizzlies,Aug 15, 2020,Kyle Anderson,27:10,4,6,66.7,1,1,100,1,1,100,1,5,6,9,6,2,1,3,10,10
+1318,Memphis Grizzlies,Aug 15, 2020,Anthony Tolliver,23:26,2,4,50.0,1,2,50.0,2,2,100,1,2,3,0,0,0,1,6,7,21
+1318,Memphis Grizzlies,Aug 15, 2020,Jonas Valanciunas,34:02,8,16,50.0,0,4,0.0,6,6,100,4,13,17,6,1,0,0,3,22,12
+1318,Memphis Grizzlies,Aug 15, 2020,Dillon Brooks,37:41,7,18,38.9,4,5,80.0,2,3,66.7,1,1,2,2,0,1,0,3,20,-11
+1318,Memphis Grizzlies,Aug 15, 2020,Ja Morant,41:52,13,28,46.4,3,6,50.0,6,8,75.0,1,3,4,8,8,0,0,1,35,-15
+1318,Memphis Grizzlies,Aug 15, 2020,Brandon Clarke,24:37,8,11,72.7,4,5,80.0,0,0,0.0,2,2,4,3,1,0,2,2,20,-27
+1318,Memphis Grizzlies,Aug 15, 2020,Grayson Allen,22:53,1,3,33.3,0,1,0.0,1,2,50.0,1,4,5,1,2,0,0,2,3,-5
+1318,Memphis Grizzlies,Aug 15, 2020,Gorgui Dieng,13:55,1,2,50.0,0,0,0.0,0,0,0.0,1,3,4,0,0,0,2,3,2,-14
+1318,Memphis Grizzlies,Aug 15, 2020,De'Anthony Melton,14:24,1,4,25.0,1,1,100,0,0,0.0,0,4,4,1,0,2,0,2,3,9
+1318,Memphis Grizzlies,Aug 15, 2020,Marko Guduric,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1318,Memphis Grizzlies,Aug 15, 2020,Josh Jackson,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1318,Memphis Grizzlies,Aug 15, 2020,John Konchar,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1318,Memphis Grizzlies,Aug 15, 2020,Yuta Watanabe,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1318,Memphis Grizzlies,Aug 15, 2020,Justise Winslow,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1318,Memphis Grizzlies,Aug 15, 2020,Jontay Porter,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1318,Memphis Grizzlies,Aug 15, 2020,Jaren Jackson Jr.,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1318,Memphis Grizzlies,Aug 15, 2020,Tyus Jones,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1318,Memphis Grizzlies,Aug 15, 2020,Totals:,45,92,48.9,14,25,56.0,18,22,81.8,12,37,49,30,18,5,6,25,122,-4
+1318,Portland Trail Blazers,Aug 15, 2020,Carmelo Anthony,37:45,5,15,33.3,1,6,16.7,10,10,100,0,3,3,1,2,0,1,2,21,-4
+1318,Portland Trail Blazers,Aug 15, 2020,Zach Collins,7:28,1,2,50.0,1,2,50.0,0,0,0.0,0,1,1,0,0,0,0,1,3,8
+1318,Portland Trail Blazers,Aug 15, 2020,Jusuf Nurkic,40:39,8,14,57.1,2,3,66.7,4,9,44.4,6,15,21,6,5,2,2,5,22,18
+1318,Portland Trail Blazers,Aug 15, 2020,CJ McCollum,44:10,11,19,57.9,3,7,42.9,4,4,100,0,3,3,1,2,2,1,1,29,-2
+1318,Portland Trail Blazers,Aug 15, 2020,Damian Lillard,44:56,6,15,40.0,5,14,35.7,14,14,100,0,2,2,10,1,1,0,2,31,17
+1318,Portland Trail Blazers,Aug 15, 2020,Gary Trent Jr.,35:07,3,6,50.0,1,3,33.3,1,2,50.0,1,2,3,1,2,5,2,1,8,1
+1318,Portland Trail Blazers,Aug 15, 2020,Hassan Whiteside,13:54,2,6,33.3,0,0,0.0,0,0,0.0,1,3,4,0,0,1,0,4,4,-13
+1318,Portland Trail Blazers,Aug 15, 2020,Mario Hezonja,6:54,1,4,25.0,1,4,25.0,2,2,100,0,1,1,0,1,1,1,1,5,-7
+1318,Portland Trail Blazers,Aug 15, 2020,Wenyen Gabriel,9:07,1,3,33.3,1,1,100,0,0,0.0,1,0,1,1,0,0,0,2,3,2
+1318,Portland Trail Blazers,Aug 15, 2020,Jaylen Adams,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1318,Portland Trail Blazers,Aug 15, 2020,Jaylen Hoard,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1318,Portland Trail Blazers,Aug 15, 2020,Anfernee Simons,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1318,Portland Trail Blazers,Aug 15, 2020,Nassir Little,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP,DNP
+1318,Portland Trail Blazers,Aug 15, 2020,Totals:,38,84,45.2,15,40,37.5,35,41,85.4,9,30,39,20,13,12,7,19,126,4
