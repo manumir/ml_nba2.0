@@ -20,6 +20,7 @@ train=train[-50000:]
 count=0
 for i in range(len(log)):
 	home=log.at[i,'home']
+	away=log.at[i,'away']
 	date=log.at[i,'date']
 	
 	df=train.loc[train['Date']==date]
@@ -39,7 +40,7 @@ for i in range(len(log)):
 
 		if pred==result:
 			count=count+1
-#		print('date:',date,'home:',home,'pred:',pred,'result:',result)
+		#print('date:',date,'home:',home,'away:',away,'pred:',pred,'result:',result)
 
 print(count/len(log))
 print(count)

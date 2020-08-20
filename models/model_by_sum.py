@@ -12,24 +12,26 @@ train=pd.DataFrame(columns=new.columns)
 
 j=0
 for i in set(new['GameId']):
-  df1=new.loc[new['GameId']==i]
-  teams = df1['Team'].unique()
-  for team in teams:
-    df2=df1.loc[df1['Team']==team]
-    df2=df2.head(5)
-    df2=df2.reset_index(drop=True)
+	df1=new.loc[new['GameId']==i]
+	teams = df1['Team'].unique()
+	for team in teams:
+		df2=df1.loc[df1['Team']==team]
+		df2=df2.head(5)
+		df2=df2.reset_index(drop=True)
+		if len(df2)<5:
+			print(df2)
 
-    for column in list(df2.columns[:4]):
-      train.at[j,column]=df2.at[1,column]
+		for column in list(df2.columns[:4]):
+			train.at[j,column]=df2.at[1,column]
 
-    for column in list(df2.columns[4:-1]):
-      train.at[j,column]=sum(df2[column])
-    train.at[j,'Result']=df2.at[1,'Result']
+		for column in list(df2.columns[4:-1]):
+			train.at[j,column]=sum(df2[column])
+		train.at[j,'Result']=df2.at[1,'Result']
 
-    j=j+1
+		j=j+1
 
-  if i % 200 == 0:
-    print(i)
+	if i % 200 == 0:
+		print(i)
 
 train=train.drop(['GameId','Date','Team','Player'],1)
 train=train.reset_index(drop=True)
@@ -56,6 +58,7 @@ train.pop('Result_home')
 train['Result']=a
 
 train=train.astype(float)
+print(train.corr()['Result'])
 
 train.to_csv('sum_ready.csv',index=False)
 """
@@ -75,7 +78,7 @@ clf=LinearRegression(n_jobs=-1)
 #x_train,y_train = X[:-895],Y[:-895] # uncomment to
 #x_test,y_test = X[-895:],Y[-895:] # test against model1 logs
 
-x_train,x_test,y_train,y_test = train_test_split(X, Y, test_size=0.2, random_state=1)
+x_train,x_test,y_train,y_test = train_test_split(X, Y, test_size=0.2, random_state=2)
 
 clf.fit(x_train,y_train)
 
@@ -100,10 +103,11 @@ model = torch.nn.Sequential(
 )
 loss_fn = torch.nn.MSELoss()
 
-learning_rate = 1e-3
-optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)
+learning_rate = 1e-2
+#optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)
+optimizer = torch.optim.Adagrad(model.parameters())
 
-for t in range(500):
+for t in range(1000):
 	y_pred = model(x_train)
 	loss = loss_fn(y_pred, y_train)
 	if t % 10 == 9:
@@ -116,5 +120,4 @@ for t in range(500):
 
 	optimizer.step()
 
-torch.save(model,'./12345')
-
+#torch.save(model,'./12345')
