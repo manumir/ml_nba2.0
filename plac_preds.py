@@ -22,25 +22,23 @@ if os_name=='Linux':
 	driver = webdriver.Firefox(executable_path='../geckodriver')
 else:
 	driver = webdriver.Chrome(executable_path='C:/Users/dude/Desktop/chromedriver.exe')
-driver.get('https://placard.jogossantacasa.pt/PlacardWeb/Events?CompetionName=&RegionName=&SelectedCompetitionId=&SelectedDate='+input('year(2020)-month(08)-day(04): ')+'&SelectedModalityId=basketball')
+driver.get('https://placard.jogossantacasa.pt/PlacardWeb/Events?CompetionName=&RegionName=&SelectedCompetitionId=&SelectedDate='+input('year-month-day(2020-08-04): ')+'&SelectedModalityId=basketball')
 
 WebDriverWait(driver,15).until(EC.presence_of_element_located((By.ID, "b5-l4-0-b9-l1-0-b3-b10-$b2")))
 
 html=bs4(driver.page_source,'html.parser')
 
+nba_table=html.find_all("div",id='b5-l4-0-b8-SectionItem')
+
 # teams field
-teams=html.find_all("span", class_="font-size20")
+teams=nba_table[0].find_all("span", class_="font-size20")
 
 # odds field
-odds=html.find_all("span", class_="odd ThemeGrid_MarginGutter")
+odds=nba_table[0].find_all("span", class_="odd ThemeGrid_MarginGutter")
 
 driver.quit()
 
-# start preprocessing
-real_games=pd.read_csv('games.csv')
-
-# get only nba teams
-teams=teams[:len(real_games)*2]
+### start preprocessing
 home , away = [],[]
 i=0
 while i < len(teams):
@@ -52,7 +50,6 @@ while i < len(teams):
 
 # get home and away odds
 home_odds , away_odds=[],[]
-odds=odds[-len(home) * 3:]
 i=0
 while i < len(odds):
 	odd=str(odds[i].text).replace(',','.')
@@ -64,27 +61,26 @@ while i < len(odds):
 	away_odds.append(float(odd))
 	i=i+3
 
+# create date
+today=datetime.date.today()
+today=today.strftime("%m/%d/%Y")
+date=[]
+for x in range(len(home)):
+    date.append(today)
+
 df=pd.DataFrame()
 df['home']=f.name2acro(home,'placard')
 df['away']=f.name2acro(away,'placard')
-df['date']=real_games['date']
+df['date']=today
 df['plac_H']=home_odds
 df['plac_A']=away_odds
 
-df=df.sort_values('home')
 print(df)
 
+real_games=pd.read_csv('games.csv')
 if len(real_games)>len(df):
   print('\nmissing {} games on plac_log\n'.format(len(real_games)-len(df)))
   #sys.quit()
-
-"""
-# delete the '76' on philadelphia odds
-for ix in range(len(df)):
-  if df.at[ix,'home'] or df.at[ix,'away']=='PHI':
-    df.at[ix,'plac_A']=df.at[ix,'plac_A'][-4:]
-    df.at[ix,'plac_H']=df.at[ix,'plac_H'][-4:]
-"""
 
 curr_path=os.getcwd()
 if os_name=='Linux':

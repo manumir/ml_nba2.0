@@ -1,28 +1,29 @@
 import pandas as pd
+import numpy as np
 import functions as f
 import time
 
 df=pd.read_csv('all_data.txt')
 #df=pd.read_csv('data19-20.txt')
+df.pop('drop_this')
 
 print(df)
 
 del2=[]
 for x in range(len(df)):
-	if df.at[x,'Player']=='Totals: - - -' or df.at[x,'MIN']=='DNP':
+	if df.at[x,'MIN']=='-'or df.at[x,'Player']=='Totals: - - -' or df.at[x,'MIN']=='DNP':
 		del2.append(x)
 df=df.drop(del2)
 df=df.reset_index(drop=True)
 
-### join dates columns
+### turn date column to int for compairson
 months=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
 months_1=['01','02','03','04','05','06','07','08','09','10','11','12']
 
-date1=list(df['Date'].values)
-date2=list(df['Date2'].values)
+dates=list(df['Date'].values)
 new=[]
 for x in range(len(df)):
-	date=str(date1[x])+' '+str(date2[x])
+	date=str(dates[x])
 	date=date.split(' ')
 	if len(date[1])==1:
 		date[1]='0'+date[1]
@@ -31,7 +32,6 @@ for x in range(len(df)):
 			ix=months.index(name)
 			new.append(int(date[2]+months_1[ix]+date[1]))
 
-df=df.drop(['Date2'],1)
 df['Date']=new
 
 # make a game id column
@@ -65,7 +65,7 @@ while x < len(df):
 	df_2=df.loc[df['Date'] == date]
 	df_2=df_2.loc[df_2['Team'] == team]
 	df_3=df_2.loc[df_2['Player']=='Totals:']
-	
+
 	if int(df_3['PTS'].values[0]) > 0:
 		for x in range(len(df_2)):
 			if i%2==0:
@@ -158,5 +158,5 @@ for x in range(len(df)):
 		if df.at[x,col]=='-':
 			df.at[x,col]=0
 
-df.to_csv('train.csv',index=False)
+df.to_csv('train_all.csv',index=False)
 

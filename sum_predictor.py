@@ -97,11 +97,10 @@ while i < number_of_games :
 real_games=pd.read_csv('games.csv')
 date=real_games['date'][0]
 
-data= pd.read_csv('./data/train.csv')
+data= pd.read_csv('./data/just2predict.csv')
 data.pop('Result')
 
-#model2use= input('what model to use? ')
-model2use= '12345'
+model2use= input('what model to use? ')
 model= torch.load('./models/'+model2use)
 
 file=open('./logs/'+model2use+'_log.txt','a')

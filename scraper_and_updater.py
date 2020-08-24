@@ -10,7 +10,7 @@ import re
 teams1=['MEM','HOU','BKN','BOS','LAC','NOP','SAC','POR','DET','UTA','CHA','SAS','WAS','TOR','DEN','MIL','ATL','GSW','DAL','ORL','PHI','NYK','LAL','CLE','OKC','MIN','CHI','MIA','PHX','IND']
 stripers=[' F,',' G,',' C,']
 
-file_name='./data/data13-14.txt'
+file_name='./data/data19-20.txt'
 
 try:
 	with open(file_name,'r') as file:
@@ -25,8 +25,8 @@ f=open(file_name,'a')
 #f.write('GameId,Team,Date,Date2,Player,MIN,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,OREB,DREB,REB,AST,TOV,STL,BLK,PF,PTS,+/-\n') # uncomment when creating new file
 
 driver = webdriver.Chrome(executable_path='../chromedriver')
-y=1230-last_id+1 # used when scraping whole season data
-for i in range(y):
+#y=1230-last_id+1 # used when scraping whole season data
+for i in range(10):
 	i=i+last_id+1 # used only when updating file
 	
 	driver.get('https://stats.nba.com/game/002130'+str(i+1).zfill(4)+'/')

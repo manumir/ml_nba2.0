@@ -17,7 +17,7 @@ log['date']=new
 train=pd.read_csv('../data/train.csv')
 train=train[-50000:]
 
-count=0
+count,divider=0,0
 for i in range(len(log)):
 	home=log.at[i,'home']
 	away=log.at[i,'away']
@@ -40,9 +40,10 @@ for i in range(len(log)):
 
 		if pred==result:
 			count=count+1
+		
+		divider=divider+1
 		#print('date:',date,'home:',home,'away:',away,'pred:',pred,'result:',result)
 
-print(count/len(log))
-print(count)
-print(len(log))
+print(count/divider)
+print(count,divider)
 

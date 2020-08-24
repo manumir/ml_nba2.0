@@ -78,7 +78,7 @@ clf=LinearRegression(n_jobs=-1)
 #x_train,y_train = X[:-895],Y[:-895] # uncomment to
 #x_test,y_test = X[-895:],Y[-895:] # test against model1 logs
 
-x_train,x_test,y_train,y_test = train_test_split(X, Y, test_size=0.2, random_state=2)
+x_train,x_test,y_train,y_test = train_test_split(X, Y, test_size=0.2, random_state=1)
 
 clf.fit(x_train,y_train)
 
@@ -103,9 +103,8 @@ model = torch.nn.Sequential(
 )
 loss_fn = torch.nn.MSELoss()
 
-learning_rate = 1e-2
-#optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)
-optimizer = torch.optim.Adagrad(model.parameters())
+learning_rate = 2e-4
+optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)
 
 for t in range(1000):
 	y_pred = model(x_train)
@@ -120,4 +119,4 @@ for t in range(1000):
 
 	optimizer.step()
 
-#torch.save(model,'./12345')
+torch.save(model,'./123')
