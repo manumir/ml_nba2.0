@@ -1,6 +1,6 @@
 import glob
 
-files=glob.glob('data*.txt')
+files=glob.glob('data19*.txt')
 
 all_lines=[]
 for file in files:

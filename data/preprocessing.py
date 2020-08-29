@@ -158,5 +158,5 @@ for x in range(len(df)):
 		if df.at[x,col]=='-':
 			df.at[x,col]=0
 
-df.to_csv('train_all.csv',index=False)
+df.to_csv('just2predict.csv',index=False)
 

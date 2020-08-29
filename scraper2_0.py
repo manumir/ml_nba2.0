@@ -8,7 +8,7 @@ import re
 #driver = webdriver.Chrome(executable_path='C:/Users/dude/Desktop/chromedriver.exe')
 #driver.get('https://stats.nba.com/gamebooks/?Date=12%2F30%2F2019')# day of games
 
-file_name='./data/data11-12.txt'
+file_name='./data/data10-11.txt'
 
 try:
 	with open(file_name,'r') as file:
@@ -28,7 +28,7 @@ for i in range(1230):
 		i=i+last_id+1 # used only when updating file
 	except:
 		i=i
-	driver.get('https://stats.nba.com/game/002110'+str(i+1).zfill(4)+'/')
+	driver.get('https://stats.nba.com/game/002100'+str(i+1).zfill(4)+'/')
 	WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.CLASS_NAME, 'nba-stat-table__overflow')))
 
 	soup=bs4(driver.page_source,'html.parser')

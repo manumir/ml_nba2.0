@@ -14,7 +14,7 @@ import re
 
 def get_stats():
     if platform.system()=='Linux':
-      driver = webdriver.Firefox(executable_path='../geckodriver')
+      driver = webdriver.Chrome(executable_path='../chromedriver')
     else:
       driver = webdriver.Chrome(executable_path='C:/Users/dude/Desktop/chromedriver.exe')
     print('program starting')

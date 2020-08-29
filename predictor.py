@@ -34,7 +34,7 @@ def checker(player):
 
 	return player
 
-driver = webdriver.Firefox(executable_path='../geckodriver')
+driver = webdriver.Chrome(executable_path='../chromedriver')
 
 driver.get('https://www.rotowire.com/basketball/nba-lineups.php')
 

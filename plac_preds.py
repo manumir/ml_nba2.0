@@ -19,7 +19,7 @@ from selenium.webdriver.common.by import By
 os_name=platform.system()
 
 if os_name=='Linux':
-	driver = webdriver.Firefox(executable_path='../geckodriver')
+	driver = webdriver.Chrome(executable_path='../chromedriver')
 else:
 	driver = webdriver.Chrome(executable_path='C:/Users/dude/Desktop/chromedriver.exe')
 driver.get('https://placard.jogossantacasa.pt/PlacardWeb/Events?CompetionName=&RegionName=&SelectedCompetitionId=&SelectedDate='+input('year-month-day(2020-08-04): ')+'&SelectedModalityId=basketball')

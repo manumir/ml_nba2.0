@@ -14,8 +14,7 @@ for date in dates:
 
 log['date']=new
 
-train=pd.read_csv('../data/train.csv')
-train=train[-50000:]
+train=pd.read_csv('../data/just2predict.csv')
 
 count,divider=0,0
 for i in range(len(log)):
