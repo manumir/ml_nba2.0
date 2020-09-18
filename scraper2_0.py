@@ -8,7 +8,7 @@ import re
 #driver = webdriver.Chrome(executable_path='C:/Users/dude/Desktop/chromedriver.exe')
 #driver.get('https://stats.nba.com/gamebooks/?Date=12%2F30%2F2019')# day of games
 
-file_name='./data/data10-11.txt'
+file_name='./data/data09-10.txt'
 
 try:
 	with open(file_name,'r') as file:
@@ -17,9 +17,11 @@ try:
 		print(last_id)
 except:
 	print("can't get last id on file",file_name)
+	f=open(file_name,'a')
+	f.write('GameId,Team,Date,Player,MIN,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,OREB,DREB,REB,AST,TOV,STL,BLK,PF,PTS,+/-,drop_this\n')
+	f.close()
 
 f=open(file_name,'a')
-f.write('GameId,Team,Date,Player,MIN,FGM,FGA,FG%,3PM,3PA,3P%,FTM,FTA,FT%,OREB,DREB,REB,AST,TOV,STL,BLK,PF,PTS,+/-,drop_this\n') # uncomment when creating new file
 
 driver = webdriver.Chrome(executable_path='../chromedriver')
 #y=1230-last_id+1 # used when scraping whole season data
@@ -28,7 +30,7 @@ for i in range(1230):
 		i=i+last_id+1 # used only when updating file
 	except:
 		i=i
-	driver.get('https://stats.nba.com/game/002100'+str(i+1).zfill(4)+'/')
+	driver.get('https://stats.nba.com/game/002090'+str(i+1).zfill(4)+'/')
 	WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.CLASS_NAME, 'nba-stat-table__overflow')))
 
 	soup=bs4(driver.page_source,'html.parser')
