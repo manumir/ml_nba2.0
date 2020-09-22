@@ -3,10 +3,17 @@ from functions import name2acro2
 import requests
 import re
 
-with open('trial.txt','w') as file:
-	file.write('date,player,MP,FG,FGA,FG,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-\n')
+season='13-14'
+if int(season[-2:]) > 0:
+	last_year_of_season='20'+season[-2:]
+else:
+	last_year_of_season='19'+season[-2:]
 
-	x = requests.get('https://www.basketball-reference.com/leagues/NBA_2020_games.html')
+#with open('./data/data'+season+'season'+'.txt','w') as file:
+with open('srtdystcvgvkjaaaubajeyfb','w') as file:
+	file.write('date,team,player,MP,FG,FGA,FG,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-\n')
+
+	x = requests.get('https://www.basketball-reference.com/leagues/NBA_'+last_year_of_season+'_games.html')
 	soup=bs4(x.text,'html.parser')
 	months=soup.body.find('div',class_="filter").find_all('a')
 	for month in months:
@@ -38,17 +45,26 @@ with open('trial.txt','w') as file:
 			#scores=soup.body.find_all('div',class_="score")
 
 			for team in names:
-				if team=='CHA':
+				"""
+				if team=='CHA' and int(season[-2:]) > 14: # before 2015 it was carlotte bobcats
 					team='CHO' # basketball-reference writes it as CHO idk why
 				if team=='BKN':
 					team='BRK' # basketball-reference writes it as CHO idk why
 				if team=='PHX':
 					team='PHO' # basketball-reference writes it as CHO idk why
+				"""
+				ids=[]
+				tables=soup.body.find_all('div',class_='overthrow table_container')
+				for table_id in tables:
+					if re.search('-game-basic',table_id.get('id')):
+						ids.append(table_id.get('id'))
+				print(ids)
+
 				# get whole game table
-				table=soup.body.find_all('div',attrs={"id":"div_box-"+team+"-game-basic","class":"overthrow table_container"})
-				if len(table) > 1:
-					print("sómething's wrong mate")
-				table=table[0].table
+				table=soup.body.find('div',attrs={"id":id,"class":"overthrow table_container"})
+				#if len(table1) > 1:
+				#	print("sómething's wrong mate")
+				table=table.table
 
 				stats=[]
 				lines=table.find_all('tr')

@@ -4,7 +4,6 @@ import torch
 from functions import myacc
 from sklearn.model_selection import train_test_split
 
-"""
 df=pd.read_csv('../data/train.csv')
 #df=df.drop(['FG%','3P%','FT%'],1)
 
@@ -40,10 +39,7 @@ results=np.array(results)
 
 np.save('x',data)
 np.save('y',results)
-"""
 
-data=np.load('x.npy')
-results=np.load('y.npy')
 ar=np.zeros(200)
 
 x_train,x_test,y_train,y_test = train_test_split(data,results,test_size=0.2, random_state=1)
