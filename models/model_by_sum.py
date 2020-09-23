@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 import torch
 
-df=pd.read_csv('../data/train1.csv')
+df=pd.read_csv('../data/train.csv')
 
 columns2avg=['FG','FGA','FG%','3P','3PA','3P%','FT','FTA','FT%','ORB','DRB','TRB','AST','STL','BLK','TOV','PF','PTS','+/-']
 
@@ -38,8 +38,8 @@ train=train.reset_index(drop=True)
 #train.to_csv('train_summed_5_players_scaled_to_team.csv',index=False)
 """
 
-train=pd.read_csv('train_summed_5_players_scaled_to_team.csv')
-train.pop('MP') # when scaled this is needed
+train=pd.read_csv('train_summed_5_players.csv')
+#train.pop('MP') # when scaled this is needed
 
 home1,away1=[],[]
 for i in range(len(train)):

@@ -14,7 +14,7 @@ for date in dates:
 
 log['date']=new
 
-train=pd.read_csv('../data/just2predict.csv')
+train=pd.read_csv('../data/train.csv')
 
 count,divider=0,0
 for i in range(len(log)):
@@ -22,8 +22,8 @@ for i in range(len(log)):
 	away=log.at[i,'away']
 	date=log.at[i,'date']
 	
-	df=train.loc[train['Date']==date]
-	df=df.loc[train['Team']==home]
+	df=train.loc[train['date']==date]
+	df=df.loc[train['team']==home]
 
 	if len(df) > 0:
 		result=round(float(df['Result'].values[0]))
