@@ -1,46 +1,20 @@
 import pandas as pd
 import numpy as np
+import requests
 import torch
 from selenium import webdriver
 from bs4 import BeautifulSoup as bs4
 
-def checker(player):
-	if player == 'Troy Brown':
-		player = 'Troy Brown Jr.'
+def checker(name):
+	if name == 'Goran Dragic':
+		name = 'Goran Dragić'
+	if name == 'Nikola Jokic':
+		name = 'Nikola Jokić'
+	return name
 
-	if player == 'Lonnie Walker':
-		player = 'Lonnie Walker IV'
-	
-	if player == 'Jaren Jackson':
-		player = 'Jaren Jackson Jr.'
-	
-	if player == 'James Ennis':
-		player = 'James Ennis III'
-	
-	if player == 'Danuel House':
-		player = 'Danuel House Jr.'
-	
-	if player == 'Tim Hardaway':
-		player = 'Tim Hardaway Jr.'
+x=requests.get('https://www.rotowire.com/basketball/nba-lineups.php')
 
-	if player == 'Marcus Morris':
-		player = 'Marcus Morris Sr.'
-	
-	if player == 'Michael Porter':
-		player = 'Michael Porter Jr.'
-	
-	if player == 'Glenn Robinson':
-		player = 'Glenn Robinson III'
-
-	return player
-
-driver = webdriver.Chrome(executable_path='../chromedriver')
-
-driver.get('https://www.rotowire.com/basketball/nba-lineups.php')
-
-soup=bs4(driver.page_source,'html.parser')
-
-driver.quit()
+soup=bs4(x.text,'html.parser')
 
 aways= soup.find_all('ul','lineup__list is-visit')
 homes= soup.find_all('ul','lineup__list is-home')
@@ -97,7 +71,7 @@ while i < number_of_games :
 real_games=pd.read_csv('games.csv')
 date=real_games['date'][0]
 
-data= pd.read_csv('./data/train.csv')
+data= pd.read_csv('./data/predict.csv')
 data.pop('Result')
 
 model2use= input('what model to use? ')
@@ -108,13 +82,17 @@ for players in games:
 	a=np.array([])
 	df1=pd.DataFrame()
 	for player in players:
-		player = checker(player)
-		df=data.loc[data['Player']==player].tail(1)
+		player=checker(player)
+		df=data.loc[data['player']==player].tail(1)
 		df1=df1.append(df)
 	
-	away=str(df1.head(1)['Team'].values)[2:-2]
-	home=str(df1.tail(1)['Team'].values)[2:-2]
+	away=str(df1.head(1)['team'].values)[2:-2]
+	home=str(df1.tail(1)['team'].values)[2:-2]
 	
+	if len(df1) != 10:
+		print(df1)
+		print('some player has different name')
+
 	df1=df1[df1.columns[4:]]
 
 	for ar in df1.values:

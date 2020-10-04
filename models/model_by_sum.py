@@ -2,13 +2,14 @@ import pandas as pd
 import functions as f 
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
+import joblib
 import torch
 
 df=pd.read_csv('../data/train.csv')
 
-columns2avg=['FG','FGA','FG%','3P','3PA','3P%','FT','FTA','FT%','ORB','DRB','TRB','AST','STL','BLK','TOV','PF','PTS','+/-']
-
 """
+columns2avg=['MP','FG','FGA','FG%','3P','3PA','3P%','FT','FTA','FT%','ORB','DRB','TRB','AST','STL','BLK','TOV','PF','PTS','+/-']
+
 for x in range(len(df)):
 	for column in columns2avg[1:]:
 		df.at[x,column]=df.at[x,'MP']*df.at[x,column]
@@ -23,7 +24,7 @@ for i in set(df['gameid']):
 	for team in teams:
 		df2=df1.loc[df1['team']==team]
 		df2=df2.reset_index(drop=True)
-		df2=df2.head(5)
+		df2=df2.head(7)
 
 		for column in list(columns2avg):
 			train.at[j,column]=sum(df2[column])
@@ -35,10 +36,10 @@ for i in set(df['gameid']):
 
 train=train.drop(['gameid','date','team','player'],1)
 train=train.reset_index(drop=True)
-#train.to_csv('train_summed_5_players_scaled_to_team.csv',index=False)
+train.to_csv('train_summed_7_players.csv',index=False)
 """
 
-train=pd.read_csv('train_summed_5_players.csv')
+train=pd.read_csv('train_summed_7_players.csv')
 #train.pop('MP') # when scaled this is needed
 
 home1,away1=[],[]
@@ -79,6 +80,7 @@ for rs in range(100):
 
 	#print(f.myacc(preds,y_test))
 print(sum(accs)/len(accs))
+#joblib.dump(clf,'sum_subtract')
 
 """
 x_train = torch.Tensor(x_train.values)
@@ -95,15 +97,14 @@ model = torch.nn.Sequential(
 )
 loss_fn = torch.nn.MSELoss()
 
-learning_rate = 1e-3
+learning_rate = 1e-4
 optimizer = torch.optim.Adam(model.parameters(), lr=learning_rate)
 
-for t in range(1000):
+for t in range(20000):
 	y_pred = model(x_train)
 	loss = loss_fn(y_pred, y_train)
-	if t % 20 == 9:
-		preds = model(x_test)
-		print(t, loss.item(),'train:',f.myacc(y_pred,y_train),'test:',f.myacc(preds,y_test))
+	preds = model(x_test)
+	print(t, loss.item())
 
 	optimizer.zero_grad()
 
@@ -111,6 +112,7 @@ for t in range(1000):
 
 	optimizer.step()
 
+print('train:',f.myacc(model(x_train),y_train),'test:',f.myacc(preds,y_test))
 #torch.save(model,'./123')
 
 #x_train,y_train = X[:-895],Y[:-895] # uncomment to

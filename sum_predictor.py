@@ -1,52 +1,26 @@
 import pandas as pd
 import numpy as np
+import requests
+import datetime
 import torch
-from selenium import webdriver
+import joblib
 from bs4 import BeautifulSoup as bs4
 
-def checker(player):
-	if player == 'Troy Brown':
-		player = 'Troy Brown Jr.'
+def checker(name):
+	if name == 'Goran Dragic':
+		name = 'Goran Dragić'
+	if name == 'Nikola Jokic':
+		name = 'Nikola Jokić'
+	return name
 
-	if player == 'Lonnie Walker':
-		player = 'Lonnie Walker IV'
-	
-	if player == 'Jaren Jackson':
-		player = 'Jaren Jackson Jr.'
-	
-	if player == 'James Ennis':
-		player = 'James Ennis III'
-	
-	if player == 'Danuel House':
-		player = 'Danuel House Jr.'
-	
-	if player == 'Tim Hardaway':
-		player = 'Tim Hardaway Jr.'
-
-	if player == 'Marcus Morris':
-		player = 'Marcus Morris Sr.'
-	
-	if player == 'Michael Porter':
-		player = 'Michael Porter Jr.'
-	
-	if player == 'Glenn Robinson':
-		player = 'Glenn Robinson III'
-
-	return player
-
-driver = webdriver.Chrome(executable_path='../chromedriver')
-
-driver.get('https://www.rotowire.com/basketball/nba-lineups.php')
-
-soup=bs4(driver.page_source,'html.parser')
-
-driver.quit()
+x=requests.get('https://www.rotowire.com/basketball/nba-lineups.php')
+print('getting games')
+soup=bs4(x.text,'html.parser')
 
 aways = soup.find_all('ul','lineup__list is-visit')
 homes = soup.find_all('ul','lineup__list is-home')
 
 number_of_games = len(homes)
-
 games=list()
 i=0
 while i < number_of_games :
@@ -93,15 +67,16 @@ while i < number_of_games :
 	games.append(A+H)
 	i=i+1
 
-# get date of games
-real_games=pd.read_csv('games.csv')
-date=real_games['date'][0]
+# date of games
+today=datetime.date.today()
+date=today.strftime("%m/%d/%Y")
 
-data= pd.read_csv('./data/just2predict.csv')
+data= pd.read_csv('./data/predict.csv')
 data.pop('Result')
 
 model2use= input('what model to use? ')
-model= torch.load('./models/'+model2use)
+#model= torch.load('./models/'+model2use) #### pytorch model
+clf= joblib.load('./models/'+model2use) #### scikit model
 
 file=open('./logs/'+model2use+'_log.txt','a')
 for players in games:
@@ -111,20 +86,27 @@ for players in games:
 	i=0
 	for player in players[:5]:
 		if i < 5:
-			player = checker(player)
-			df=data.loc[data['Player']==player].tail(1)
+			player=checker(player)
+			df=data.loc[data['player']==player].tail(1)
 			df1=df1.append(df)
 			i=i+1
 	for player in players[5:]:
-			player = checker(player)
-			df=data.loc[data['Player']==player].tail(1)
-			df2=df2.append(df)
+		player=checker(player)
+		df=data.loc[data['player']==player].tail(1)
+		df2=df2.append(df)
 	
-	away=str(df1.iloc[0]['Team'])#[2:-2]
-	home=str(df2.iloc[0]['Team'])#[2:-2]
+	away=str(df1.iloc[0]['team'])#[2:-2]
+	home=str(df2.iloc[0]['team'])#[2:-2]
 	
-	df1=df1.drop(['GameId','Date','Team','Player'],1)
-	df2=df2.drop(['GameId','Date','Team','Player'],1)
+	if len(df1) != 5:
+		print(df1)
+		print('some player has different name')
+	if len(df2) != 5:
+		print(df2)
+		print('some player has different name')
+
+	df1=df1.drop(['gameid','date','team','player'],1)
+	df2=df2.drop(['gameid','date','team','player'],1)
 
 	summed_df1=pd.DataFrame()
 	summed_df2=pd.DataFrame()
@@ -132,11 +114,16 @@ for players in games:
 			summed_df1.at[0,column]=sum(df1[column])
 			summed_df2.at[0,column]=sum(df2[column])
 	
-	df=summed_df1.join(summed_df2,rsuffix='_home')
-			
-	a=torch.Tensor(df.values)
+	df=summed_df1.subtract(summed_df2)
+	#df=summed_df1.join(summed_df2,rsuffix='_home')
+	
+	#a=torch.Tensor(df.values)
 
-	file.write(home+','+away+','+date+','+str(float(model(a)))+'\n')
-	print('home:',home,'away:',away,float(model(a)))
+	pred=clf.predict(df)
+	#pred=model(a)
+	file.write(home+','+away+','+date+','+str(float(pred))+'\n')
+	print('home:',home,'away:',away,float(pred))
 
 file.close()
+
+

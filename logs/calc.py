@@ -1,6 +1,7 @@
+import sys
 import pandas as pd
 
-name=input('name of model or "plac" for plac accuracy: ')
+name=sys.argv[1] # name of the model, for placard 'plac'
 log=pd.read_csv(name+'_log.txt')
 
 dates=list(log['date'].values)
@@ -14,7 +15,7 @@ for date in dates:
 
 log['date']=new
 
-train=pd.read_csv('../data/train.csv')
+train=pd.read_csv('../data/predict.csv')
 
 count,divider=0,0
 for i in range(len(log)):

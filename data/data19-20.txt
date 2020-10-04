@@ -138,34 +138,6 @@ October 23 2019,ORL,Khem Birch,Did Not Play
 October 23 2019,ORL,Wesley Iwundu,Did Not Play
 October 23 2019,ORL,Melvin Frazier,Did Not Play
 October 23 2019,ORL,Team Totals,240,37,86,.430,9,30,.300,11,19,.579,7,39,46,24,12,4,13,18,94
-October 23 2019,MIN,Karl-Anthony Towns,38:41,11,22,.500,7,11,.636,7,8,.875,1,13,14,3,3,3,3,5,36,-1
-October 23 2019,MIN,Andrew Wiggins,36:13,10,27,.370,0,4,.000,1,2,.500,5,3,8,0,0,0,1,4,21,-26
-October 23 2019,MIN,Treveon Graham,34:35,4,13,.308,0,3,.000,1,1,1.000,2,4,6,4,1,0,0,2,9,-5
-October 23 2019,MIN,Jeff Teague,34:34,5,8,.625,0,1,.000,4,4,1.000,0,3,3,4,1,0,3,4,14,-7
-October 23 2019,MIN,Robert Covington,32:42,6,11,.545,3,6,.500,0,0,,2,7,9,0,0,0,2,4,15,-11
-October 23 2019,MIN,Jake Layman,22:42,4,7,.571,2,4,.500,0,0,,0,2,2,1,0,1,0,1,10,+8
-October 23 2019,MIN,Shabazz Napier,20:59,1,7,.143,0,6,.000,3,5,.600,0,1,1,7,0,0,1,1,5,+17
-October 23 2019,MIN,Jarrett Culver,15:46,2,5,.400,0,2,.000,0,0,,1,1,2,0,1,0,2,0,4,+6
-October 23 2019,MIN,Josh Okogie,14:26,2,5,.400,1,4,.250,6,8,.750,1,2,3,3,1,0,0,0,11,+22
-October 23 2019,MIN,Noah Vonleh,14:22,1,3,.333,0,2,.000,0,0,,0,4,4,1,2,0,1,1,2,+2
-October 23 2019,MIN,Kelan Martin,Did Not Play
-October 23 2019,MIN,Jordan Bell,Did Not Play
-October 23 2019,MIN,Gorgui Dieng,Did Not Play
-October 23 2019,MIN,Team Totals,265,46,108,.426,13,43,.302,22,28,.786,12,40,52,23,9,4,13,22,127
-October 23 2019,BRK,Taurean Waller-Prince,41:14,6,13,.462,2,5,.400,1,2,.500,3,8,11,2,2,1,0,2,15,+19
-October 23 2019,BRK,Joe Harris,39:18,5,9,.556,4,6,.667,0,0,,0,4,4,2,0,1,2,3,14,+1
-October 23 2019,BRK,Kyrie Irving,38:10,17,33,.515,7,14,.500,9,10,.900,2,6,8,7,0,1,0,4,50,+18
-October 23 2019,BRK,Caris LeVert,37:18,9,19,.474,1,4,.250,1,4,.250,0,5,5,4,3,0,5,3,20,+9
-October 23 2019,BRK,Jarrett Allen,36:22,3,6,.500,0,0,,0,4,.000,3,6,9,1,1,5,0,4,6,+11
-October 23 2019,BRK,Spencer Dinwiddie,18:33,6,13,.462,1,3,.333,1,2,.500,1,2,3,2,0,0,5,4,14,-7
-October 23 2019,BRK,Garrett Temple,17:02,2,6,.333,0,2,.000,0,0,,0,0,0,0,2,0,1,2,4,-15
-October 23 2019,BRK,DeAndre Jordan,16:38,0,1,.000,0,0,,2,2,1.000,1,2,3,1,0,0,1,4,2,-12
-October 23 2019,BRK,David Nwaba,13:05,0,0,,0,0,,1,2,.500,0,3,3,0,0,1,1,2,1,-13
-October 23 2019,BRK,Rodions Kurucs,7:20,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,1,2,0,-16
-October 23 2019,BRK,Džanan Musa,Did Not Play
-October 23 2019,BRK,Theo Pinson,Did Not Play
-October 23 2019,BRK,Wilson Chandler,Did Not Play
-October 23 2019,BRK,Team Totals,265,48,101,.475,15,34,.441,15,26,.577,10,38,48,19,8,9,16,30,126
 October 23 2019,MEM,Jae Crowder,30:17,3,11,.273,2,9,.222,5,6,.833,2,3,5,2,1,0,1,1,13,-9
 October 23 2019,MEM,Jaren Jackson,29:56,5,12,.417,0,6,.000,7,9,.778,1,2,3,0,1,2,3,5,17,-11
 October 23 2019,MEM,Ja Morant,25:09,6,12,.500,0,1,.000,2,4,.500,0,4,4,4,1,1,6,4,14,-29
@@ -222,6 +194,34 @@ October 23 2019,PHI,Raul Neto,1:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1
 October 23 2019,PHI,Shake Milton,1:06,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,-1
 October 23 2019,PHI,Trey Burke,Did Not Play
 October 23 2019,PHI,Team Totals,240,37,85,.435,7,29,.241,26,36,.722,12,50,62,24,6,7,15,34,107
+October 23 2019,MIN,Karl-Anthony Towns,38:41,11,22,.500,7,11,.636,7,8,.875,1,13,14,3,3,3,3,5,36,-1
+October 23 2019,MIN,Andrew Wiggins,36:13,10,27,.370,0,4,.000,1,2,.500,5,3,8,0,0,0,1,4,21,-26
+October 23 2019,MIN,Treveon Graham,34:35,4,13,.308,0,3,.000,1,1,1.000,2,4,6,4,1,0,0,2,9,-5
+October 23 2019,MIN,Jeff Teague,34:34,5,8,.625,0,1,.000,4,4,1.000,0,3,3,4,1,0,3,4,14,-7
+October 23 2019,MIN,Robert Covington,32:42,6,11,.545,3,6,.500,0,0,,2,7,9,0,0,0,2,4,15,-11
+October 23 2019,MIN,Jake Layman,22:42,4,7,.571,2,4,.500,0,0,,0,2,2,1,0,1,0,1,10,+8
+October 23 2019,MIN,Shabazz Napier,20:59,1,7,.143,0,6,.000,3,5,.600,0,1,1,7,0,0,1,1,5,+17
+October 23 2019,MIN,Jarrett Culver,15:46,2,5,.400,0,2,.000,0,0,,1,1,2,0,1,0,2,0,4,+6
+October 23 2019,MIN,Josh Okogie,14:26,2,5,.400,1,4,.250,6,8,.750,1,2,3,3,1,0,0,0,11,+22
+October 23 2019,MIN,Noah Vonleh,14:22,1,3,.333,0,2,.000,0,0,,0,4,4,1,2,0,1,1,2,+2
+October 23 2019,MIN,Kelan Martin,Did Not Play
+October 23 2019,MIN,Jordan Bell,Did Not Play
+October 23 2019,MIN,Gorgui Dieng,Did Not Play
+October 23 2019,MIN,Team Totals,265,46,108,.426,13,43,.302,22,28,.786,12,40,52,23,9,4,13,22,127
+October 23 2019,BRK,Taurean Waller-Prince,41:14,6,13,.462,2,5,.400,1,2,.500,3,8,11,2,2,1,0,2,15,+19
+October 23 2019,BRK,Joe Harris,39:18,5,9,.556,4,6,.667,0,0,,0,4,4,2,0,1,2,3,14,+1
+October 23 2019,BRK,Kyrie Irving,38:10,17,33,.515,7,14,.500,9,10,.900,2,6,8,7,0,1,0,4,50,+18
+October 23 2019,BRK,Caris LeVert,37:18,9,19,.474,1,4,.250,1,4,.250,0,5,5,4,3,0,5,3,20,+9
+October 23 2019,BRK,Jarrett Allen,36:22,3,6,.500,0,0,,0,4,.000,3,6,9,1,1,5,0,4,6,+11
+October 23 2019,BRK,Spencer Dinwiddie,18:33,6,13,.462,1,3,.333,1,2,.500,1,2,3,2,0,0,5,4,14,-7
+October 23 2019,BRK,Garrett Temple,17:02,2,6,.333,0,2,.000,0,0,,0,0,0,0,2,0,1,2,4,-15
+October 23 2019,BRK,DeAndre Jordan,16:38,0,1,.000,0,0,,2,2,1.000,1,2,3,1,0,0,1,4,2,-12
+October 23 2019,BRK,David Nwaba,13:05,0,0,,0,0,,1,2,.500,0,3,3,0,0,1,1,2,1,-13
+October 23 2019,BRK,Rodions Kurucs,7:20,0,1,.000,0,0,,0,0,,0,2,2,0,0,0,1,2,0,-16
+October 23 2019,BRK,Džanan Musa,Did Not Play
+October 23 2019,BRK,Theo Pinson,Did Not Play
+October 23 2019,BRK,Wilson Chandler,Did Not Play
+October 23 2019,BRK,Team Totals,265,48,101,.475,15,34,.441,15,26,.577,10,38,48,19,8,9,16,30,126
 October 23 2019,WAS,Bradley Beal,31:45,7,25,.280,1,11,.091,4,6,.667,0,6,6,9,3,0,2,4,19,+1
 October 23 2019,WAS,Thomas Bryant,30:45,4,9,.444,0,2,.000,6,6,1.000,4,7,11,3,0,0,3,0,14,-16
 October 23 2019,WAS,Rui Hachimura,24:51,7,15,.467,0,3,.000,0,0,,4,6,10,0,0,0,0,2,14,+2
@@ -306,6 +306,33 @@ October 23 2019,UTA,Tony Bradley,Did Not Play
 October 23 2019,UTA,Nigel Williams-Goss,Did Not Play
 October 23 2019,UTA,Stanton Kidd,Did Not Play
 October 23 2019,UTA,Team Totals,240,40,90,.444,6,24,.250,14,20,.700,11,38,49,15,4,5,11,31,100
+October 23 2019,DEN,Gary Harris,35:14,3,11,.273,1,5,.200,1,1,1.000,0,3,3,0,2,0,5,5,8,+5
+October 23 2019,DEN,Jamal Murray,33:47,4,14,.286,3,6,.500,3,4,.750,1,4,5,6,1,0,2,1,14,+9
+October 23 2019,DEN,Paul Millsap,31:46,3,8,.375,3,4,.750,2,2,1.000,0,5,5,2,3,2,2,3,11,+4
+October 23 2019,DEN,Will Barton,31:26,3,8,.375,2,3,.667,11,12,.917,1,4,5,2,2,1,1,1,19,+2
+October 23 2019,DEN,Nikola Jokić,23:54,8,14,.571,3,5,.600,1,2,.500,4,9,13,2,0,0,4,4,20,+14
+October 23 2019,DEN,Jerami Grant,20:49,3,4,.750,2,2,1.000,1,2,.500,1,1,2,1,0,0,1,1,9,+8
+October 23 2019,DEN,Mason Plumlee,19:28,2,4,.500,0,0,,1,2,.500,3,1,4,5,1,0,0,2,5,-8
+October 23 2019,DEN,Torrey Craig,16:02,4,6,.667,2,3,.667,0,0,,1,5,6,2,1,1,1,4,10,+2
+October 23 2019,DEN,Monte Morris,14:11,2,6,.333,0,0,,2,2,1.000,0,1,1,3,0,0,1,0,6,-1
+October 23 2019,DEN,Malik Beasley,13:23,2,6,.333,2,4,.500,0,0,,0,1,1,1,1,0,2,2,6,+5
+October 23 2019,DEN,Juan Hernangómez,Did Not Play
+October 23 2019,DEN,PJ Dozier,Did Not Play
+October 23 2019,DEN,Michael Porter,Did Not Play
+October 23 2019,DEN,Team Totals,240,34,81,.420,18,32,.563,22,27,.815,11,34,45,24,11,4,19,23,108
+October 23 2019,POR,Damian Lillard,37:49,10,21,.476,3,10,.300,9,10,.900,1,3,4,8,1,0,3,3,32,0
+October 23 2019,POR,CJ McCollum,35:50,5,18,.278,2,4,.500,0,0,,2,1,3,3,1,0,5,3,12,-10
+October 23 2019,POR,Rodney Hood,31:10,5,10,.500,2,5,.400,1,1,1.000,1,4,5,1,0,0,2,4,13,+3
+October 23 2019,POR,Zach Collins,30:30,4,9,.444,0,2,.000,0,0,,1,4,5,0,0,2,2,3,8,+2
+October 23 2019,POR,Hassan Whiteside,26:03,6,7,.857,0,0,,4,4,1.000,5,14,19,0,0,2,4,4,16,0
+October 23 2019,POR,Kent Bazemore,24:32,1,7,.143,0,3,.000,2,2,1.000,1,1,2,0,5,0,0,2,4,-11
+October 23 2019,POR,Mario Hezonja,18:00,0,3,.000,0,1,.000,2,2,1.000,0,4,4,0,0,0,0,2,2,-7
+October 23 2019,POR,Anthony Tolliver,13:06,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,1,0,-9
+October 23 2019,POR,Anfernee Simons,12:16,2,7,.286,0,2,.000,1,2,.500,0,0,0,0,2,0,1,2,5,-5
+October 23 2019,POR,Skal Labissière,10:44,3,4,.750,0,0,,2,2,1.000,2,4,6,1,0,0,2,1,8,-3
+October 23 2019,POR,Nassir Little,Did Not Play
+October 23 2019,POR,Gary Trent,Did Not Play
+October 23 2019,POR,Team Totals,240,36,87,.414,7,28,.250,21,23,.913,13,35,48,13,9,4,20,25,100
 October 23 2019,SAC,Buddy Hield,31:10,10,19,.526,6,12,.500,2,2,1.000,2,3,5,2,0,0,5,2,28,-15
 October 23 2019,SAC,Harrison Barnes,30:10,5,11,.455,1,3,.333,1,3,.333,0,6,6,1,1,0,4,3,12,-20
 October 23 2019,SAC,Marvin Bagley,27:42,6,16,.375,0,0,,2,4,.500,4,6,10,0,1,1,1,1,14,-21
@@ -334,33 +361,6 @@ October 23 2019,PHO,Elie Okobo,1:59,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,-
 October 23 2019,PHO,Cheick Diallo,1:59,0,0,,0,0,,2,2,1.000,0,0,0,0,0,0,0,2,2,-1
 October 23 2019,PHO,Jared Harper,1:59,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-1
 October 23 2019,PHO,Team Totals,240,49,98,.500,11,33,.333,15,18,.833,9,35,44,31,13,9,14,25,124
-October 23 2019,DEN,Gary Harris,35:14,3,11,.273,1,5,.200,1,1,1.000,0,3,3,0,2,0,5,5,8,+5
-October 23 2019,DEN,Jamal Murray,33:47,4,14,.286,3,6,.500,3,4,.750,1,4,5,6,1,0,2,1,14,+9
-October 23 2019,DEN,Paul Millsap,31:46,3,8,.375,3,4,.750,2,2,1.000,0,5,5,2,3,2,2,3,11,+4
-October 23 2019,DEN,Will Barton,31:26,3,8,.375,2,3,.667,11,12,.917,1,4,5,2,2,1,1,1,19,+2
-October 23 2019,DEN,Nikola Jokić,23:54,8,14,.571,3,5,.600,1,2,.500,4,9,13,2,0,0,4,4,20,+14
-October 23 2019,DEN,Jerami Grant,20:49,3,4,.750,2,2,1.000,1,2,.500,1,1,2,1,0,0,1,1,9,+8
-October 23 2019,DEN,Mason Plumlee,19:28,2,4,.500,0,0,,1,2,.500,3,1,4,5,1,0,0,2,5,-8
-October 23 2019,DEN,Torrey Craig,16:02,4,6,.667,2,3,.667,0,0,,1,5,6,2,1,1,1,4,10,+2
-October 23 2019,DEN,Monte Morris,14:11,2,6,.333,0,0,,2,2,1.000,0,1,1,3,0,0,1,0,6,-1
-October 23 2019,DEN,Malik Beasley,13:23,2,6,.333,2,4,.500,0,0,,0,1,1,1,1,0,2,2,6,+5
-October 23 2019,DEN,Juan Hernangómez,Did Not Play
-October 23 2019,DEN,PJ Dozier,Did Not Play
-October 23 2019,DEN,Michael Porter,Did Not Play
-October 23 2019,DEN,Team Totals,240,34,81,.420,18,32,.563,22,27,.815,11,34,45,24,11,4,19,23,108
-October 23 2019,POR,Damian Lillard,37:49,10,21,.476,3,10,.300,9,10,.900,1,3,4,8,1,0,3,3,32,0
-October 23 2019,POR,CJ McCollum,35:50,5,18,.278,2,4,.500,0,0,,2,1,3,3,1,0,5,3,12,-10
-October 23 2019,POR,Rodney Hood,31:10,5,10,.500,2,5,.400,1,1,1.000,1,4,5,1,0,0,2,4,13,+3
-October 23 2019,POR,Zach Collins,30:30,4,9,.444,0,2,.000,0,0,,1,4,5,0,0,2,2,3,8,+2
-October 23 2019,POR,Hassan Whiteside,26:03,6,7,.857,0,0,,4,4,1.000,5,14,19,0,0,2,4,4,16,0
-October 23 2019,POR,Kent Bazemore,24:32,1,7,.143,0,3,.000,2,2,1.000,1,1,2,0,5,0,0,2,4,-11
-October 23 2019,POR,Mario Hezonja,18:00,0,3,.000,0,1,.000,2,2,1.000,0,4,4,0,0,0,0,2,2,-7
-October 23 2019,POR,Anthony Tolliver,13:06,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,1,0,-9
-October 23 2019,POR,Anfernee Simons,12:16,2,7,.286,0,2,.000,1,2,.500,0,0,0,0,2,0,1,2,5,-5
-October 23 2019,POR,Skal Labissière,10:44,3,4,.750,0,0,,2,2,1.000,2,4,6,1,0,0,2,1,8,-3
-October 23 2019,POR,Nassir Little,Did Not Play
-October 23 2019,POR,Gary Trent,Did Not Play
-October 23 2019,POR,Team Totals,240,36,87,.414,7,28,.250,21,23,.913,13,35,48,13,9,4,20,25,100
 October 24 2019,ATL,Trae Young,37:15,11,21,.524,6,10,.600,10,12,.833,0,7,7,9,1,0,6,0,38,+17
 October 24 2019,ATL,John Collins,30:14,8,15,.533,1,3,.333,1,1,1.000,3,7,10,1,2,1,0,2,18,+4
 October 24 2019,ATL,De'Andre Hunter,25:27,5,8,.625,2,3,.667,2,2,1.000,0,2,2,0,0,0,2,0,14,+12
@@ -528,6 +528,34 @@ October 25 2019,BRK,Džanan Musa,Did Not Play
 October 25 2019,BRK,Theo Pinson,Did Not Play
 October 25 2019,BRK,Wilson Chandler,Did Not Play
 October 25 2019,BRK,Team Totals,240,37,78,.474,16,37,.432,23,34,.676,11,35,46,21,11,2,26,26,113
+October 25 2019,WAS,Rui Hachimura,34:39,8,20,.400,0,4,.000,3,3,1.000,1,4,5,2,1,0,1,1,19,+10
+October 25 2019,WAS,Bradley Beal,34:33,7,22,.318,3,11,.273,0,1,.000,0,6,6,3,1,1,3,3,17,+3
+October 25 2019,WAS,Ish Smith,32:47,2,8,.250,0,3,.000,0,0,,0,2,2,5,1,0,0,3,4,+7
+October 25 2019,WAS,Thomas Bryant,31:27,9,16,.563,3,7,.429,0,0,,4,7,11,2,2,3,2,0,21,+3
+October 25 2019,WAS,Isaac Bonga,24:02,2,4,.500,0,1,.000,2,2,1.000,0,6,6,2,2,0,0,5,6,-1
+October 25 2019,WAS,Dāvis Bertāns,27:28,5,12,.417,3,9,.333,0,0,,0,3,3,2,1,0,2,3,13,+16
+October 25 2019,WAS,Moritz Wagner,16:33,4,7,.571,1,2,.500,1,2,.500,1,6,7,0,0,1,5,1,10,+9
+October 25 2019,WAS,Chris Chiozza,15:13,0,4,.000,0,1,.000,0,0,,0,1,1,4,1,1,1,2,0,+5
+October 25 2019,WAS,Garrison Mathews,13:04,0,2,.000,0,2,.000,0,0,,0,1,1,1,0,0,1,3,0,+5
+October 25 2019,WAS,Admiral Schofield,10:14,2,2,1.000,1,1,1.000,2,2,1.000,2,3,5,0,0,0,0,0,7,+3
+October 25 2019,WAS,Jordan McRae,Did Not Play
+October 25 2019,WAS,Isaiah Thomas,Did Not Play
+October 25 2019,WAS,Justin Robinson,Did Not Play
+October 25 2019,WAS,Team Totals,240,39,97,.402,11,41,.268,8,10,.800,8,39,47,21,9,6,15,21,97
+October 25 2019,OKC,Shai Gilgeous-Alexander,36:04,10,17,.588,2,4,.500,6,8,.750,0,7,7,4,2,3,2,2,28,-1
+October 25 2019,OKC,Chris Paul,30:02,3,9,.333,0,2,.000,0,3,.000,0,2,2,4,0,0,5,1,6,-7
+October 25 2019,OKC,Danilo Gallinari,29:44,6,10,.600,2,3,.667,4,4,1.000,0,5,5,2,1,0,1,1,18,0
+October 25 2019,OKC,Steven Adams,29:10,3,9,.333,0,0,,1,2,.500,4,10,14,0,1,1,1,1,7,-2
+October 25 2019,OKC,Terrance Ferguson,22:03,0,4,.000,0,3,.000,0,0,,2,2,4,0,0,1,1,4,0,+1
+October 25 2019,OKC,Dennis Schröder,25:09,4,14,.286,0,3,.000,1,2,.500,0,4,4,3,1,1,2,2,9,-13
+October 25 2019,OKC,Hamidou Diallo,18:00,3,7,.429,0,1,.000,1,1,1.000,1,4,5,0,1,0,5,3,7,-3
+October 25 2019,OKC,Darius Bazley,15:04,2,3,.667,0,0,,1,2,.500,0,2,2,0,1,0,0,0,5,-8
+October 25 2019,OKC,Abdel Nader,11:56,1,4,.250,0,2,.000,0,0,,0,1,1,0,0,0,1,1,2,-11
+October 25 2019,OKC,Mike Muscala,11:37,1,4,.250,1,4,.250,0,0,,0,3,3,0,0,0,0,2,3,-1
+October 25 2019,OKC,Nerlens Noel,7:13,0,1,.000,0,0,,0,0,,0,1,1,1,0,0,0,1,0,-9
+October 25 2019,OKC,Deonte Burton,3:58,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-6
+October 25 2019,OKC,Justin Patton,Did Not Play
+October 25 2019,OKC,Team Totals,240,33,83,.398,5,23,.217,14,22,.636,7,42,49,14,7,6,18,18,85
 October 25 2019,CHI,Zach LaVine,33:22,13,23,.565,4,8,.500,7,10,.700,1,5,6,4,3,1,2,4,37,+12
 October 25 2019,CHI,Lauri Markkanen,31:45,4,15,.267,1,10,.100,0,0,,2,9,11,3,0,1,5,1,9,+7
 October 25 2019,CHI,Wendell Carter,26:41,2,4,.500,0,1,.000,3,4,.750,2,5,7,0,2,1,1,6,7,+16
@@ -584,34 +612,6 @@ October 25 2019,NOP,Jahlil Okafor,7:08,2,3,.667,0,0,,0,0,,1,2,3,0,0,0,0,1,4,-2
 October 25 2019,NOP,E'Twaun Moore,Did Not Play
 October 25 2019,NOP,Jaxson Hayes,Did Not Play
 October 25 2019,NOP,Team Totals,240,45,98,.459,15,41,.366,11,15,.733,12,36,48,30,6,3,14,22,116
-October 25 2019,WAS,Rui Hachimura,34:39,8,20,.400,0,4,.000,3,3,1.000,1,4,5,2,1,0,1,1,19,+10
-October 25 2019,WAS,Bradley Beal,34:33,7,22,.318,3,11,.273,0,1,.000,0,6,6,3,1,1,3,3,17,+3
-October 25 2019,WAS,Ish Smith,32:47,2,8,.250,0,3,.000,0,0,,0,2,2,5,1,0,0,3,4,+7
-October 25 2019,WAS,Thomas Bryant,31:27,9,16,.563,3,7,.429,0,0,,4,7,11,2,2,3,2,0,21,+3
-October 25 2019,WAS,Isaac Bonga,24:02,2,4,.500,0,1,.000,2,2,1.000,0,6,6,2,2,0,0,5,6,-1
-October 25 2019,WAS,Dāvis Bertāns,27:28,5,12,.417,3,9,.333,0,0,,0,3,3,2,1,0,2,3,13,+16
-October 25 2019,WAS,Moritz Wagner,16:33,4,7,.571,1,2,.500,1,2,.500,1,6,7,0,0,1,5,1,10,+9
-October 25 2019,WAS,Chris Chiozza,15:13,0,4,.000,0,1,.000,0,0,,0,1,1,4,1,1,1,2,0,+5
-October 25 2019,WAS,Garrison Mathews,13:04,0,2,.000,0,2,.000,0,0,,0,1,1,1,0,0,1,3,0,+5
-October 25 2019,WAS,Admiral Schofield,10:14,2,2,1.000,1,1,1.000,2,2,1.000,2,3,5,0,0,0,0,0,7,+3
-October 25 2019,WAS,Jordan McRae,Did Not Play
-October 25 2019,WAS,Isaiah Thomas,Did Not Play
-October 25 2019,WAS,Justin Robinson,Did Not Play
-October 25 2019,WAS,Team Totals,240,39,97,.402,11,41,.268,8,10,.800,8,39,47,21,9,6,15,21,97
-October 25 2019,OKC,Shai Gilgeous-Alexander,36:04,10,17,.588,2,4,.500,6,8,.750,0,7,7,4,2,3,2,2,28,-1
-October 25 2019,OKC,Chris Paul,30:02,3,9,.333,0,2,.000,0,3,.000,0,2,2,4,0,0,5,1,6,-7
-October 25 2019,OKC,Danilo Gallinari,29:44,6,10,.600,2,3,.667,4,4,1.000,0,5,5,2,1,0,1,1,18,0
-October 25 2019,OKC,Steven Adams,29:10,3,9,.333,0,0,,1,2,.500,4,10,14,0,1,1,1,1,7,-2
-October 25 2019,OKC,Terrance Ferguson,22:03,0,4,.000,0,3,.000,0,0,,2,2,4,0,0,1,1,4,0,+1
-October 25 2019,OKC,Dennis Schröder,25:09,4,14,.286,0,3,.000,1,2,.500,0,4,4,3,1,1,2,2,9,-13
-October 25 2019,OKC,Hamidou Diallo,18:00,3,7,.429,0,1,.000,1,1,1.000,1,4,5,0,1,0,5,3,7,-3
-October 25 2019,OKC,Darius Bazley,15:04,2,3,.667,0,0,,1,2,.500,0,2,2,0,1,0,0,0,5,-8
-October 25 2019,OKC,Abdel Nader,11:56,1,4,.250,0,2,.000,0,0,,0,1,1,0,0,0,1,1,2,-11
-October 25 2019,OKC,Mike Muscala,11:37,1,4,.250,1,4,.250,0,0,,0,3,3,0,0,0,0,2,3,-1
-October 25 2019,OKC,Nerlens Noel,7:13,0,1,.000,0,0,,0,0,,0,1,1,1,0,0,0,1,0,-9
-October 25 2019,OKC,Deonte Burton,3:58,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,0,0,-6
-October 25 2019,OKC,Justin Patton,Did Not Play
-October 25 2019,OKC,Team Totals,240,33,83,.398,5,23,.217,14,22,.636,7,42,49,14,7,6,18,18,85
 October 25 2019,PHO,Devin Booker,41:24,6,21,.286,1,8,.125,5,6,.833,0,5,5,7,0,1,3,5,18,0
 October 25 2019,PHO,Kelly Oubre,36:55,7,12,.583,3,5,.600,6,6,1.000,2,6,8,2,2,0,2,6,23,-11
 October 25 2019,PHO,Ricky Rubio,35:31,1,7,.143,0,1,.000,7,7,1.000,0,8,8,9,3,0,5,6,9,-1
@@ -1029,33 +1029,6 @@ October 27 2019,MEM,Marko Guduric,5:42,0,1,.000,0,1,.000,2,2,1.000,1,0,1,0,0,0,1
 October 27 2019,MEM,Bruno Caboclo,Did Not Play
 October 27 2019,MEM,De'Anthony Melton,Did Not Play
 October 27 2019,MEM,Team Totals,265,50,103,.485,14,33,.424,20,25,.800,8,41,49,33,9,10,12,29,134
-October 27 2019,POR,CJ McCollum,40:59,13,26,.500,1,4,.250,8,8,1.000,0,6,6,4,2,0,2,3,35,+12
-October 27 2019,POR,Damian Lillard,38:24,10,20,.500,1,7,.143,7,9,.778,0,3,3,5,1,1,2,3,28,-1
-October 27 2019,POR,Rodney Hood,31:41,8,12,.667,3,3,1.000,1,2,.500,2,4,6,0,2,1,2,3,20,-9
-October 27 2019,POR,Hassan Whiteside,25:41,2,4,.500,0,0,,2,2,1.000,2,12,14,0,0,1,3,6,6,-4
-October 27 2019,POR,Zach Collins,24:02,3,5,.600,2,3,.667,2,2,1.000,0,3,3,1,0,0,2,4,10,+10
-October 27 2019,POR,Kent Bazemore,30:25,4,8,.500,1,2,.500,2,3,.667,0,5,5,1,0,0,3,4,11,+2
-October 27 2019,POR,Mario Hezonja,24:51,2,7,.286,0,1,.000,0,0,,1,7,8,2,1,1,0,3,4,+6
-October 27 2019,POR,Anfernee Simons,15:04,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,1,1,3,+2
-October 27 2019,POR,Skal Labissière,5:34,2,3,.667,0,0,,0,0,,2,1,3,0,0,0,0,2,4,+7
-October 27 2019,POR,Anthony Tolliver,3:19,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-15
-October 27 2019,POR,Nassir Little,Did Not Play
-October 27 2019,POR,Gary Trent,Did Not Play
-October 27 2019,POR,Team Totals,240,45,87,.517,9,22,.409,22,26,.846,7,41,48,13,6,4,16,30,121
-October 27 2019,DAL,Luka Dončić,37:42,8,22,.364,2,11,.182,11,14,.786,1,11,12,9,3,0,4,4,29,+5
-October 27 2019,DAL,Kristaps Porziņģis,34:23,11,23,.478,3,10,.300,7,10,.700,3,6,9,5,0,2,0,4,32,-7
-October 27 2019,DAL,Jalen Brunson,26:31,1,6,.167,1,4,.250,1,1,1.000,0,2,2,2,0,0,0,2,4,+6
-October 27 2019,DAL,Maxi Kleber,24:31,5,10,.500,2,6,.333,2,2,1.000,2,4,6,3,0,1,1,4,14,+2
-October 27 2019,DAL,Delon Wright,22:58,3,4,.750,2,2,1.000,0,0,,0,2,2,5,0,0,2,1,8,-9
-October 27 2019,DAL,Dorian Finney-Smith,28:53,2,6,.333,1,3,.333,1,2,.500,4,5,9,0,1,0,2,3,6,+11
-October 27 2019,DAL,Seth Curry,24:55,4,10,.400,2,7,.286,2,2,1.000,0,0,0,2,3,0,0,1,12,+1
-October 27 2019,DAL,Tim Hardaway,21:56,2,7,.286,0,5,.000,7,8,.875,0,1,1,1,0,0,2,2,11,-10
-October 27 2019,DAL,Justin Jackson,18:11,1,6,.167,0,2,.000,1,2,.500,2,3,5,0,0,0,0,1,3,-9
-October 27 2019,DAL,Ryan Broekhoff,Did Not Play
-October 27 2019,DAL,Boban Marjanović,Did Not Play
-October 27 2019,DAL,J.J. Barea,Did Not Play
-October 27 2019,DAL,Courtney Lee,Did Not Play
-October 27 2019,DAL,Team Totals,240,37,94,.394,13,50,.260,32,41,.780,12,34,46,27,7,3,11,22,119
 October 27 2019,MIA,Justise Winslow,42:42,8,17,.471,2,3,.667,2,2,1.000,1,7,8,6,1,2,4,4,20,-1
 October 27 2019,MIA,Kendrick Nunn,40:14,9,17,.529,5,9,.556,2,2,1.000,0,4,4,2,2,0,4,1,25,-4
 October 27 2019,MIA,Tyler Herro,35:02,3,9,.333,1,6,.167,1,1,1.000,0,5,5,4,1,0,5,3,8,0
@@ -1083,6 +1056,33 @@ October 27 2019,MIN,Kelan Martin,Did Not Play
 October 27 2019,MIN,Gorgui Dieng,Did Not Play
 October 27 2019,MIN,Jordan Bell,Did Not Play
 October 27 2019,MIN,Team Totals,240,39,91,.429,13,45,.289,25,33,.758,14,32,46,24,12,1,16,17,116
+October 27 2019,POR,CJ McCollum,40:59,13,26,.500,1,4,.250,8,8,1.000,0,6,6,4,2,0,2,3,35,+12
+October 27 2019,POR,Damian Lillard,38:24,10,20,.500,1,7,.143,7,9,.778,0,3,3,5,1,1,2,3,28,-1
+October 27 2019,POR,Rodney Hood,31:41,8,12,.667,3,3,1.000,1,2,.500,2,4,6,0,2,1,2,3,20,-9
+October 27 2019,POR,Hassan Whiteside,25:41,2,4,.500,0,0,,2,2,1.000,2,12,14,0,0,1,3,6,6,-4
+October 27 2019,POR,Zach Collins,24:02,3,5,.600,2,3,.667,2,2,1.000,0,3,3,1,0,0,2,4,10,+10
+October 27 2019,POR,Kent Bazemore,30:25,4,8,.500,1,2,.500,2,3,.667,0,5,5,1,0,0,3,4,11,+2
+October 27 2019,POR,Mario Hezonja,24:51,2,7,.286,0,1,.000,0,0,,1,7,8,2,1,1,0,3,4,+6
+October 27 2019,POR,Anfernee Simons,15:04,1,2,.500,1,2,.500,0,0,,0,0,0,0,0,0,1,1,3,+2
+October 27 2019,POR,Skal Labissière,5:34,2,3,.667,0,0,,0,0,,2,1,3,0,0,0,0,2,4,+7
+October 27 2019,POR,Anthony Tolliver,3:19,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,1,0,-15
+October 27 2019,POR,Nassir Little,Did Not Play
+October 27 2019,POR,Gary Trent,Did Not Play
+October 27 2019,POR,Team Totals,240,45,87,.517,9,22,.409,22,26,.846,7,41,48,13,6,4,16,30,121
+October 27 2019,DAL,Luka Dončić,37:42,8,22,.364,2,11,.182,11,14,.786,1,11,12,9,3,0,4,4,29,+5
+October 27 2019,DAL,Kristaps Porziņģis,34:23,11,23,.478,3,10,.300,7,10,.700,3,6,9,5,0,2,0,4,32,-7
+October 27 2019,DAL,Jalen Brunson,26:31,1,6,.167,1,4,.250,1,1,1.000,0,2,2,2,0,0,0,2,4,+6
+October 27 2019,DAL,Maxi Kleber,24:31,5,10,.500,2,6,.333,2,2,1.000,2,4,6,3,0,1,1,4,14,+2
+October 27 2019,DAL,Delon Wright,22:58,3,4,.750,2,2,1.000,0,0,,0,2,2,5,0,0,2,1,8,-9
+October 27 2019,DAL,Dorian Finney-Smith,28:53,2,6,.333,1,3,.333,1,2,.500,4,5,9,0,1,0,2,3,6,+11
+October 27 2019,DAL,Seth Curry,24:55,4,10,.400,2,7,.286,2,2,1.000,0,0,0,2,3,0,0,1,12,+1
+October 27 2019,DAL,Tim Hardaway,21:56,2,7,.286,0,5,.000,7,8,.875,0,1,1,1,0,0,2,2,11,-10
+October 27 2019,DAL,Justin Jackson,18:11,1,6,.167,0,2,.000,1,2,.500,2,3,5,0,0,0,0,1,3,-9
+October 27 2019,DAL,Ryan Broekhoff,Did Not Play
+October 27 2019,DAL,Boban Marjanović,Did Not Play
+October 27 2019,DAL,J.J. Barea,Did Not Play
+October 27 2019,DAL,Courtney Lee,Did Not Play
+October 27 2019,DAL,Team Totals,240,37,94,.394,13,50,.260,32,41,.780,12,34,46,27,7,3,11,22,119
 October 27 2019,CHO,Miles Bridges,37:15,8,17,.471,2,4,.500,5,5,1.000,2,4,6,3,0,0,3,3,23,-5
 October 27 2019,CHO,Dwayne Bacon,36:40,6,15,.400,1,5,.200,2,2,1.000,2,4,6,2,0,0,1,5,15,-11
 October 27 2019,CHO,P.J. Washington,35:45,2,7,.286,1,2,.500,3,4,.750,0,6,6,1,1,1,3,4,8,-10
@@ -1111,6 +1111,33 @@ October 27 2019,LAL,Jared Dudley,6:54,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,2,0,+4
 October 27 2019,LAL,Kostas Antetokounmpo,2:20,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,+2
 October 27 2019,LAL,Zach Norvell,2:20,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+2
 October 27 2019,LAL,Team Totals,240,49,93,.527,11,31,.355,11,14,.786,10,37,47,30,7,8,13,22,120
+October 28 2019,IND,Myles Turner,38:47,7,11,.636,1,3,.333,1,2,.500,5,0,5,1,0,1,0,2,16,-2
+October 28 2019,IND,Domantas Sabonis,38:43,8,18,.444,1,2,.500,4,5,.800,4,10,14,1,0,0,1,2,21,+7
+October 28 2019,IND,T.J. Warren,37:45,9,22,.409,1,3,.333,0,0,,1,4,5,1,5,0,1,3,19,0
+October 28 2019,IND,Malcolm Brogdon,34:39,5,17,.294,1,6,.167,4,4,1.000,1,7,8,11,2,0,2,3,15,-1
+October 28 2019,IND,Edmond Sumner,28:07,2,7,.286,0,2,.000,1,2,.500,0,1,1,3,2,1,0,1,5,+3
+October 28 2019,IND,Justin Holiday,22:49,2,5,.400,2,4,.500,0,0,,0,6,6,1,1,2,1,3,6,-9
+October 28 2019,IND,Doug McDermott,13:53,0,2,.000,0,1,.000,0,0,,0,0,0,3,0,0,1,2,0,0
+October 28 2019,IND,T.J. McConnell,13:21,3,7,.429,0,0,,0,0,,1,2,3,3,1,0,1,1,6,-1
+October 28 2019,IND,T.J. Leaf,11:56,3,5,.600,0,0,,0,0,,1,2,3,0,0,0,0,1,6,-7
+October 28 2019,IND,Alize Johnson,Did Not Play
+October 28 2019,IND,JaKarr Sampson,Did Not Play
+October 28 2019,IND,Aaron Holiday,Did Not Play
+October 28 2019,IND,Goga Bitadze,Did Not Play
+October 28 2019,IND,Team Totals,240,39,94,.415,6,21,.286,10,13,.769,13,32,45,24,11,4,7,18,94
+October 28 2019,DET,Andre Drummond,38:18,8,15,.533,0,1,.000,2,3,.667,4,14,18,1,0,2,6,3,18,+3
+October 28 2019,DET,Luke Kennard,30:55,5,11,.455,3,6,.500,1,1,1.000,0,3,3,4,0,0,1,0,14,+10
+October 28 2019,DET,Markieff Morris,26:35,3,5,.600,2,2,1.000,0,0,,0,1,1,1,0,0,4,5,8,-6
+October 28 2019,DET,Tony Snell,22:19,3,6,.500,2,5,.400,0,0,,0,2,2,1,0,0,1,1,8,0
+October 28 2019,DET,Tim Frazier,21:54,0,4,.000,0,1,.000,2,2,1.000,1,1,2,8,0,0,0,3,2,+3
+October 28 2019,DET,Bruce Brown,26:24,4,5,.800,3,3,1.000,0,0,,0,7,7,0,0,0,3,2,11,-5
+October 28 2019,DET,Derrick Rose,26:04,4,16,.250,0,0,,2,2,1.000,1,0,1,6,0,0,4,2,10,-1
+October 28 2019,DET,Christian Wood,21:25,8,10,.800,3,3,1.000,0,0,,3,9,12,0,0,1,1,0,19,+7
+October 28 2019,DET,Langston Galloway,16:22,2,9,.222,0,3,.000,2,2,1.000,0,2,2,0,1,0,0,1,6,0
+October 28 2019,DET,Thon Maker,9:44,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,1,0,-1
+October 28 2019,DET,Sviatoslav Mykhailiuk,Did Not Play
+October 28 2019,DET,Khyri Thomas,Did Not Play
+October 28 2019,DET,Team Totals,240,37,81,.457,13,24,.542,9,10,.900,9,39,48,21,2,3,20,18,96
 October 28 2019,CHI,Zach LaVine,35:36,8,18,.444,2,7,.286,3,4,.750,1,4,5,3,1,1,4,2,21,-8
 October 28 2019,CHI,Otto Porter,31:51,3,11,.273,1,6,.167,0,0,,2,1,3,0,0,0,0,2,7,-5
 October 28 2019,CHI,Lauri Markkanen,29:22,5,13,.385,2,6,.333,6,6,1.000,0,6,6,2,1,0,0,3,18,-3
@@ -1139,61 +1166,6 @@ October 28 2019,NYK,Damyean Dotson,Did Not Play
 October 28 2019,NYK,Allonzo Trier,Did Not Play
 October 28 2019,NYK,Ignas Brazdeikis,Did Not Play
 October 28 2019,NYK,Team Totals,240,38,91,.418,9,29,.310,20,32,.625,25,38,63,19,3,6,17,19,105
-October 28 2019,IND,Myles Turner,38:47,7,11,.636,1,3,.333,1,2,.500,5,0,5,1,0,1,0,2,16,-2
-October 28 2019,IND,Domantas Sabonis,38:43,8,18,.444,1,2,.500,4,5,.800,4,10,14,1,0,0,1,2,21,+7
-October 28 2019,IND,T.J. Warren,37:45,9,22,.409,1,3,.333,0,0,,1,4,5,1,5,0,1,3,19,0
-October 28 2019,IND,Malcolm Brogdon,34:39,5,17,.294,1,6,.167,4,4,1.000,1,7,8,11,2,0,2,3,15,-1
-October 28 2019,IND,Edmond Sumner,28:07,2,7,.286,0,2,.000,1,2,.500,0,1,1,3,2,1,0,1,5,+3
-October 28 2019,IND,Justin Holiday,22:49,2,5,.400,2,4,.500,0,0,,0,6,6,1,1,2,1,3,6,-9
-October 28 2019,IND,Doug McDermott,13:53,0,2,.000,0,1,.000,0,0,,0,0,0,3,0,0,1,2,0,0
-October 28 2019,IND,T.J. McConnell,13:21,3,7,.429,0,0,,0,0,,1,2,3,3,1,0,1,1,6,-1
-October 28 2019,IND,T.J. Leaf,11:56,3,5,.600,0,0,,0,0,,1,2,3,0,0,0,0,1,6,-7
-October 28 2019,IND,Alize Johnson,Did Not Play
-October 28 2019,IND,JaKarr Sampson,Did Not Play
-October 28 2019,IND,Aaron Holiday,Did Not Play
-October 28 2019,IND,Goga Bitadze,Did Not Play
-October 28 2019,IND,Team Totals,240,39,94,.415,6,21,.286,10,13,.769,13,32,45,24,11,4,7,18,94
-October 28 2019,DET,Andre Drummond,38:18,8,15,.533,0,1,.000,2,3,.667,4,14,18,1,0,2,6,3,18,+3
-October 28 2019,DET,Luke Kennard,30:55,5,11,.455,3,6,.500,1,1,1.000,0,3,3,4,0,0,1,0,14,+10
-October 28 2019,DET,Markieff Morris,26:35,3,5,.600,2,2,1.000,0,0,,0,1,1,1,0,0,4,5,8,-6
-October 28 2019,DET,Tony Snell,22:19,3,6,.500,2,5,.400,0,0,,0,2,2,1,0,0,1,1,8,0
-October 28 2019,DET,Tim Frazier,21:54,0,4,.000,0,1,.000,2,2,1.000,1,1,2,8,0,0,0,3,2,+3
-October 28 2019,DET,Bruce Brown,26:24,4,5,.800,3,3,1.000,0,0,,0,7,7,0,0,0,3,2,11,-5
-October 28 2019,DET,Derrick Rose,26:04,4,16,.250,0,0,,2,2,1.000,1,0,1,6,0,0,4,2,10,-1
-October 28 2019,DET,Christian Wood,21:25,8,10,.800,3,3,1.000,0,0,,3,9,12,0,0,1,1,0,19,+7
-October 28 2019,DET,Langston Galloway,16:22,2,9,.222,0,3,.000,2,2,1.000,0,2,2,0,1,0,0,1,6,0
-October 28 2019,DET,Thon Maker,9:44,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,1,0,-1
-October 28 2019,DET,Sviatoslav Mykhailiuk,Did Not Play
-October 28 2019,DET,Khyri Thomas,Did Not Play
-October 28 2019,DET,Team Totals,240,37,81,.457,13,24,.542,9,10,.900,9,39,48,21,2,3,20,18,96
-October 28 2019,ORL,Jonathan Isaac,33:03,7,10,.700,5,7,.714,5,5,1.000,0,7,7,0,3,2,1,3,24,-11
-October 28 2019,ORL,Aaron Gordon,29:40,1,6,.167,0,2,.000,0,0,,1,4,5,5,0,2,3,3,2,-17
-October 28 2019,ORL,Evan Fournier,28:52,7,15,.467,1,7,.143,3,3,1.000,0,4,4,2,0,0,2,2,18,-11
-October 28 2019,ORL,D.J. Augustin,25:41,3,9,.333,1,3,.333,3,5,.600,0,3,3,1,1,0,1,2,10,0
-October 28 2019,ORL,Nikola Vučević,25:00,1,13,.077,1,3,.333,2,2,1.000,3,9,12,2,0,0,0,1,5,-6
-October 28 2019,ORL,Markelle Fultz,26:40,6,11,.545,1,4,.250,0,0,,1,1,2,5,0,0,3,3,13,0
-October 28 2019,ORL,Terrence Ross,23:45,4,11,.364,1,8,.125,2,3,.667,0,4,4,1,1,0,3,0,11,-6
-October 28 2019,ORL,Al-Farouq Aminu,20:47,3,4,.750,1,2,.500,0,0,,2,3,5,3,4,2,1,2,7,0
-October 28 2019,ORL,Michael Carter-Williams,13:21,0,3,.000,0,1,.000,0,0,,1,2,3,2,0,0,1,1,0,+5
-October 28 2019,ORL,Mohamed Bamba,13:11,2,7,.286,1,2,.500,0,0,,0,2,2,1,0,0,1,3,5,+1
-October 28 2019,ORL,Khem Birch,Did Not Play
-October 28 2019,ORL,Melvin Frazier,Did Not Play
-October 28 2019,ORL,Wesley Iwundu,Did Not Play
-October 28 2019,ORL,Team Totals,240,34,89,.382,12,39,.308,15,18,.833,8,39,47,22,9,6,16,20,95
-October 28 2019,TOR,Fred VanVleet,38:40,3,14,.214,1,7,.143,7,7,1.000,0,5,5,6,2,0,3,0,14,+8
-October 28 2019,TOR,OG Anunoby,38:12,5,11,.455,2,4,.500,0,0,,0,8,8,2,5,2,0,2,12,+8
-October 28 2019,TOR,Kyle Lowry,38:11,7,18,.389,3,11,.273,9,10,.900,1,4,5,6,0,0,2,2,26,+13
-October 28 2019,TOR,Pascal Siakam,35:58,9,16,.563,1,4,.250,5,5,1.000,1,8,9,3,0,0,3,5,24,+9
-October 28 2019,TOR,Marc Gasol,25:56,4,7,.571,2,3,.667,0,0,,2,8,10,0,0,0,2,4,10,+16
-October 28 2019,TOR,Serge Ibaka,21:33,3,10,.300,1,5,.200,2,2,1.000,1,9,10,0,0,0,4,3,9,-10
-October 28 2019,TOR,Norman Powell,19:40,1,7,.143,0,4,.000,2,2,1.000,0,1,1,1,0,0,2,3,4,0
-October 28 2019,TOR,Patrick McCaw,16:56,1,2,.500,0,1,.000,1,2,.500,1,2,3,1,2,0,0,1,3,-1
-October 28 2019,TOR,Chris Boucher,4:24,0,0,,0,0,,2,2,1.000,0,1,1,0,0,0,0,0,2,+2
-October 28 2019,TOR,Terence Davis,0:30,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
-October 28 2019,TOR,Matt Thomas,Did Not Play
-October 28 2019,TOR,Stanley Johnson,Did Not Play
-October 28 2019,TOR,Rondae Hollis-Jefferson,Did Not Play
-October 28 2019,TOR,Team Totals,240,33,85,.388,10,39,.256,28,30,.933,6,46,52,19,9,2,16,20,104
 October 28 2019,PHI,Tobias Harris,38:51,5,16,.313,1,9,.111,2,3,.667,0,5,5,5,1,0,1,1,13,-6
 October 28 2019,PHI,Ben Simmons,37:49,6,11,.545,0,0,,1,2,.500,1,5,6,6,1,1,4,4,13,-4
 October 28 2019,PHI,Joel Embiid,32:43,12,19,.632,2,6,.333,10,10,1.000,3,10,13,5,3,1,7,5,36,+9
@@ -1222,6 +1194,34 @@ October 28 2019,ATL,Evan Turner,6:43,0,1,.000,0,0,,2,2,1.000,0,0,0,2,2,0,1,0,2,-
 October 28 2019,ATL,Damian Jones,5:52,1,1,1.000,0,0,,1,2,.500,0,0,0,0,1,0,0,4,3,-3
 October 28 2019,ATL,Tyrone Wallace,Did Not Play
 October 28 2019,ATL,Team Totals,240,36,84,.429,9,27,.333,22,32,.688,8,37,45,23,12,3,21,25,103
+October 28 2019,ORL,Jonathan Isaac,33:03,7,10,.700,5,7,.714,5,5,1.000,0,7,7,0,3,2,1,3,24,-11
+October 28 2019,ORL,Aaron Gordon,29:40,1,6,.167,0,2,.000,0,0,,1,4,5,5,0,2,3,3,2,-17
+October 28 2019,ORL,Evan Fournier,28:52,7,15,.467,1,7,.143,3,3,1.000,0,4,4,2,0,0,2,2,18,-11
+October 28 2019,ORL,D.J. Augustin,25:41,3,9,.333,1,3,.333,3,5,.600,0,3,3,1,1,0,1,2,10,0
+October 28 2019,ORL,Nikola Vučević,25:00,1,13,.077,1,3,.333,2,2,1.000,3,9,12,2,0,0,0,1,5,-6
+October 28 2019,ORL,Markelle Fultz,26:40,6,11,.545,1,4,.250,0,0,,1,1,2,5,0,0,3,3,13,0
+October 28 2019,ORL,Terrence Ross,23:45,4,11,.364,1,8,.125,2,3,.667,0,4,4,1,1,0,3,0,11,-6
+October 28 2019,ORL,Al-Farouq Aminu,20:47,3,4,.750,1,2,.500,0,0,,2,3,5,3,4,2,1,2,7,0
+October 28 2019,ORL,Michael Carter-Williams,13:21,0,3,.000,0,1,.000,0,0,,1,2,3,2,0,0,1,1,0,+5
+October 28 2019,ORL,Mohamed Bamba,13:11,2,7,.286,1,2,.500,0,0,,0,2,2,1,0,0,1,3,5,+1
+October 28 2019,ORL,Khem Birch,Did Not Play
+October 28 2019,ORL,Melvin Frazier,Did Not Play
+October 28 2019,ORL,Wesley Iwundu,Did Not Play
+October 28 2019,ORL,Team Totals,240,34,89,.382,12,39,.308,15,18,.833,8,39,47,22,9,6,16,20,95
+October 28 2019,TOR,Fred VanVleet,38:40,3,14,.214,1,7,.143,7,7,1.000,0,5,5,6,2,0,3,0,14,+8
+October 28 2019,TOR,OG Anunoby,38:12,5,11,.455,2,4,.500,0,0,,0,8,8,2,5,2,0,2,12,+8
+October 28 2019,TOR,Kyle Lowry,38:11,7,18,.389,3,11,.273,9,10,.900,1,4,5,6,0,0,2,2,26,+13
+October 28 2019,TOR,Pascal Siakam,35:58,9,16,.563,1,4,.250,5,5,1.000,1,8,9,3,0,0,3,5,24,+9
+October 28 2019,TOR,Marc Gasol,25:56,4,7,.571,2,3,.667,0,0,,2,8,10,0,0,0,2,4,10,+16
+October 28 2019,TOR,Serge Ibaka,21:33,3,10,.300,1,5,.200,2,2,1.000,1,9,10,0,0,0,4,3,9,-10
+October 28 2019,TOR,Norman Powell,19:40,1,7,.143,0,4,.000,2,2,1.000,0,1,1,1,0,0,2,3,4,0
+October 28 2019,TOR,Patrick McCaw,16:56,1,2,.500,0,1,.000,1,2,.500,1,2,3,1,2,0,0,1,3,-1
+October 28 2019,TOR,Chris Boucher,4:24,0,0,,0,0,,2,2,1.000,0,1,1,0,0,0,0,0,2,+2
+October 28 2019,TOR,Terence Davis,0:30,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
+October 28 2019,TOR,Matt Thomas,Did Not Play
+October 28 2019,TOR,Stanley Johnson,Did Not Play
+October 28 2019,TOR,Rondae Hollis-Jefferson,Did Not Play
+October 28 2019,TOR,Team Totals,240,33,85,.388,10,39,.256,28,30,.933,6,46,52,19,9,2,16,20,104
 October 28 2019,OKC,Shai Gilgeous-Alexander,35:55,8,21,.381,2,6,.333,4,4,1.000,3,6,9,4,0,0,0,2,22,+5
 October 28 2019,OKC,Danilo Gallinari,34:53,6,17,.353,2,7,.286,3,3,1.000,1,5,6,3,0,0,1,2,17,0
 October 28 2019,OKC,Chris Paul,33:55,6,14,.429,3,7,.429,0,2,.000,0,4,4,4,2,0,6,4,15,-3
@@ -1329,34 +1329,6 @@ October 28 2019,SAS,Chimezie Metu,Did Not Play
 October 28 2019,SAS,Lonnie Walker,Did Not Play
 October 28 2019,SAS,DeMarre Carroll,Did Not Play
 October 28 2019,SAS,Team Totals,240,41,85,.482,7,22,.318,24,32,.750,7,43,50,25,5,9,18,19,113
-October 28 2019,UTA,Bojan Bogdanović,37:19,8,13,.615,4,8,.500,9,9,1.000,1,4,5,2,2,1,5,3,29,+3
-October 28 2019,UTA,Donovan Mitchell,37:06,9,24,.375,3,8,.375,4,8,.500,1,1,2,3,2,0,3,4,25,-1
-October 28 2019,UTA,Rudy Gobert,35:32,2,4,.500,0,0,,11,12,.917,2,16,18,1,3,1,5,3,15,+13
-October 28 2019,UTA,Royce O'Neale,31:43,3,7,.429,1,4,.250,0,0,,0,4,4,4,0,2,0,1,7,+10
-October 28 2019,UTA,Mike Conley,20:10,0,7,.000,0,3,.000,1,2,.500,0,2,2,1,0,1,3,5,1,-3
-October 28 2019,UTA,Joe Ingles,25:37,1,6,.167,1,5,.200,0,0,,1,8,9,5,1,0,3,3,3,-3
-October 28 2019,UTA,Emmanuel Mudiay,16:53,1,3,.333,0,0,,4,4,1.000,0,3,3,3,0,0,2,1,6,+8
-October 28 2019,UTA,Jeff Green,14:03,2,4,.500,1,1,1.000,3,4,.750,0,1,1,0,0,0,0,2,8,-7
-October 28 2019,UTA,Ed Davis,12:28,0,0,,0,0,,0,0,,1,3,4,0,0,0,1,2,0,-12
-October 28 2019,UTA,Georges Niang,9:09,1,3,.333,0,2,.000,0,0,,0,1,1,0,0,0,1,2,2,-3
-October 28 2019,UTA,Nigel Williams-Goss,Did Not Play
-October 28 2019,UTA,Stanton Kidd,Did Not Play
-October 28 2019,UTA,Tony Bradley,Did Not Play
-October 28 2019,UTA,Team Totals,240,27,71,.380,10,31,.323,32,39,.821,6,43,49,19,8,5,23,26,96
-October 28 2019,PHO,Kelly Oubre,34:09,7,19,.368,2,8,.250,2,4,.500,0,3,3,3,2,1,0,2,18,-5
-October 28 2019,PHO,Devin Booker,29:02,9,16,.563,1,3,.333,2,2,1.000,1,2,3,0,1,1,3,5,21,-15
-October 28 2019,PHO,Ricky Rubio,28:11,4,9,.444,0,1,.000,2,4,.500,1,9,10,8,0,0,2,5,10,-5
-October 28 2019,PHO,Aron Baynes,21:26,4,4,1.000,3,3,1.000,1,3,.333,1,2,3,1,0,0,1,6,12,-5
-October 28 2019,PHO,Dario Šarić,20:43,1,2,.500,1,1,1.000,1,2,.500,0,1,1,3,0,0,2,3,4,-3
-October 28 2019,PHO,Frank Kaminsky,32:07,3,11,.273,2,6,.333,2,2,1.000,0,8,8,3,1,1,4,5,10,-1
-October 28 2019,PHO,Jevon Carter,26:32,4,11,.364,3,7,.429,4,4,1.000,0,4,4,3,2,0,3,1,15,-1
-October 28 2019,PHO,Tyler Johnson,19:37,0,4,.000,0,1,.000,2,2,1.000,0,3,3,1,0,0,1,0,2,+15
-October 28 2019,PHO,Mikal Bridges,15:31,0,1,.000,0,1,.000,0,0,,0,1,1,1,1,0,0,0,0,+8
-October 28 2019,PHO,Cameron Johnson,12:42,1,3,.333,1,3,.333,0,0,,0,4,4,0,0,0,0,4,3,+7
-October 28 2019,PHO,Elie Okobo,Did Not Play
-October 28 2019,PHO,Cheick Diallo,Did Not Play
-October 28 2019,PHO,Deandre Ayton,Did Not Play
-October 28 2019,PHO,Team Totals,240,33,80,.413,13,34,.382,16,23,.696,3,37,40,23,7,3,16,31,95
 October 28 2019,DEN,Jamal Murray,30:58,6,14,.429,2,7,.286,4,4,1.000,1,3,4,3,1,0,2,3,18,+7
 October 28 2019,DEN,Gary Harris,29:12,5,9,.556,3,4,.750,4,4,1.000,0,4,4,2,1,0,1,1,17,0
 October 28 2019,DEN,Will Barton,29:05,5,14,.357,1,4,.250,2,3,.667,4,5,9,3,1,0,2,1,13,+3
@@ -1385,6 +1357,34 @@ October 28 2019,SAC,Caleb Swanigan,Did Not Play
 October 28 2019,SAC,Yogi Ferrell,Did Not Play
 October 28 2019,SAC,Wenyen Gabriel,Did Not Play
 October 28 2019,SAC,Team Totals,240,36,91,.396,12,37,.324,10,16,.625,15,33,48,25,6,8,12,21,94
+October 28 2019,UTA,Bojan Bogdanović,37:19,8,13,.615,4,8,.500,9,9,1.000,1,4,5,2,2,1,5,3,29,+3
+October 28 2019,UTA,Donovan Mitchell,37:06,9,24,.375,3,8,.375,4,8,.500,1,1,2,3,2,0,3,4,25,-1
+October 28 2019,UTA,Rudy Gobert,35:32,2,4,.500,0,0,,11,12,.917,2,16,18,1,3,1,5,3,15,+13
+October 28 2019,UTA,Royce O'Neale,31:43,3,7,.429,1,4,.250,0,0,,0,4,4,4,0,2,0,1,7,+10
+October 28 2019,UTA,Mike Conley,20:10,0,7,.000,0,3,.000,1,2,.500,0,2,2,1,0,1,3,5,1,-3
+October 28 2019,UTA,Joe Ingles,25:37,1,6,.167,1,5,.200,0,0,,1,8,9,5,1,0,3,3,3,-3
+October 28 2019,UTA,Emmanuel Mudiay,16:53,1,3,.333,0,0,,4,4,1.000,0,3,3,3,0,0,2,1,6,+8
+October 28 2019,UTA,Jeff Green,14:03,2,4,.500,1,1,1.000,3,4,.750,0,1,1,0,0,0,0,2,8,-7
+October 28 2019,UTA,Ed Davis,12:28,0,0,,0,0,,0,0,,1,3,4,0,0,0,1,2,0,-12
+October 28 2019,UTA,Georges Niang,9:09,1,3,.333,0,2,.000,0,0,,0,1,1,0,0,0,1,2,2,-3
+October 28 2019,UTA,Nigel Williams-Goss,Did Not Play
+October 28 2019,UTA,Stanton Kidd,Did Not Play
+October 28 2019,UTA,Tony Bradley,Did Not Play
+October 28 2019,UTA,Team Totals,240,27,71,.380,10,31,.323,32,39,.821,6,43,49,19,8,5,23,26,96
+October 28 2019,PHO,Kelly Oubre,34:09,7,19,.368,2,8,.250,2,4,.500,0,3,3,3,2,1,0,2,18,-5
+October 28 2019,PHO,Devin Booker,29:02,9,16,.563,1,3,.333,2,2,1.000,1,2,3,0,1,1,3,5,21,-15
+October 28 2019,PHO,Ricky Rubio,28:11,4,9,.444,0,1,.000,2,4,.500,1,9,10,8,0,0,2,5,10,-5
+October 28 2019,PHO,Aron Baynes,21:26,4,4,1.000,3,3,1.000,1,3,.333,1,2,3,1,0,0,1,6,12,-5
+October 28 2019,PHO,Dario Šarić,20:43,1,2,.500,1,1,1.000,1,2,.500,0,1,1,3,0,0,2,3,4,-3
+October 28 2019,PHO,Frank Kaminsky,32:07,3,11,.273,2,6,.333,2,2,1.000,0,8,8,3,1,1,4,5,10,-1
+October 28 2019,PHO,Jevon Carter,26:32,4,11,.364,3,7,.429,4,4,1.000,0,4,4,3,2,0,3,1,15,-1
+October 28 2019,PHO,Tyler Johnson,19:37,0,4,.000,0,1,.000,2,2,1.000,0,3,3,1,0,0,1,0,2,+15
+October 28 2019,PHO,Mikal Bridges,15:31,0,1,.000,0,1,.000,0,0,,0,1,1,1,1,0,0,0,0,+8
+October 28 2019,PHO,Cameron Johnson,12:42,1,3,.333,1,3,.333,0,0,,0,4,4,0,0,0,0,4,3,+7
+October 28 2019,PHO,Elie Okobo,Did Not Play
+October 28 2019,PHO,Cheick Diallo,Did Not Play
+October 28 2019,PHO,Deandre Ayton,Did Not Play
+October 28 2019,PHO,Team Totals,240,33,80,.413,13,34,.382,16,23,.696,3,37,40,23,7,3,16,31,95
 October 28 2019,CHO,Miles Bridges,35:56,3,11,.273,2,7,.286,0,0,,3,2,5,3,1,0,1,2,8,-16
 October 28 2019,CHO,Terry Rozier,34:05,7,17,.412,3,7,.429,0,0,,0,3,3,2,1,1,5,4,17,-26
 October 28 2019,CHO,P.J. Washington,30:45,4,8,.500,2,5,.400,1,3,.333,1,6,7,0,2,0,2,4,11,-20
@@ -1522,33 +1522,6 @@ October 30 2019,CLE,Brandon Knight,Did Not Play
 October 30 2019,CLE,Alfonzo McKinnie,Did Not Play
 October 30 2019,CLE,Tyler Cook,Did Not Play
 October 30 2019,CLE,Team Totals,240,41,78,.526,10,24,.417,25,31,.806,10,37,47,25,3,7,17,21,117
-October 30 2019,NYK,Julius Randle,36:40,7,13,.538,0,2,.000,2,3,.667,3,7,10,7,0,1,3,3,16,-16
-October 30 2019,NYK,Marcus Morris,31:19,2,11,.182,1,5,.200,4,5,.800,1,4,5,0,1,4,3,2,9,-16
-October 30 2019,NYK,RJ Barrett,30:45,4,11,.364,1,4,.250,0,2,.000,0,2,2,2,0,0,2,2,9,-20
-October 30 2019,NYK,Mitchell Robinson,19:28,4,6,.667,0,0,,4,4,1.000,2,3,5,2,0,3,0,1,12,-9
-October 30 2019,NYK,Wayne Ellington,19:10,1,8,.125,0,5,.000,0,1,.000,0,2,2,0,0,0,0,1,2,-17
-October 30 2019,NYK,Frank Ntilikina,29:17,3,8,.375,1,3,.333,0,0,,1,3,4,4,0,0,0,2,7,+2
-October 30 2019,NYK,Bobby Portis,29:03,5,11,.455,2,7,.286,0,0,,2,8,10,0,0,0,0,1,12,-1
-October 30 2019,NYK,Kevin Knox,22:30,3,10,.300,2,5,.400,2,2,1.000,1,2,3,2,0,1,1,1,10,+5
-October 30 2019,NYK,Damyean Dotson,13:04,0,0,,0,0,,2,3,.667,0,2,2,2,0,0,1,1,2,+10
-October 30 2019,NYK,Taj Gibson,8:44,2,4,.500,0,0,,0,0,,0,1,1,0,0,1,1,1,4,+2
-October 30 2019,NYK,Allonzo Trier,Did Not Play
-October 30 2019,NYK,Ignas Brazdeikis,Did Not Play
-October 30 2019,NYK,Team Totals,240,31,82,.378,7,31,.226,14,20,.700,10,34,44,19,1,10,11,15,83
-October 30 2019,ORL,Nikola Vučević,33:51,8,17,.471,2,4,.500,3,4,.750,4,9,13,4,1,1,1,2,21,+24
-October 30 2019,ORL,Jonathan Isaac,31:40,4,6,.667,0,1,.000,2,2,1.000,1,6,7,4,0,3,2,0,10,+28
-October 30 2019,ORL,Aaron Gordon,28:10,6,13,.462,3,6,.500,0,0,,3,8,11,1,1,1,0,3,15,+17
-October 30 2019,ORL,Evan Fournier,28:09,5,12,.417,2,4,.500,2,2,1.000,0,3,3,3,1,0,1,0,14,+23
-October 30 2019,ORL,D.J. Augustin,27:52,2,6,.333,1,4,.250,0,0,,0,1,1,7,0,0,0,1,5,+17
-October 30 2019,ORL,Al-Farouq Aminu,25:47,3,9,.333,2,3,.667,1,2,.500,2,6,8,1,0,1,1,2,9,-9
-October 30 2019,ORL,Terrence Ross,22:19,1,10,.100,0,6,.000,0,0,,1,0,1,2,0,0,0,4,2,-13
-October 30 2019,ORL,Markelle Fultz,20:08,3,6,.500,0,1,.000,1,2,.500,0,1,1,1,1,0,2,3,7,-5
-October 30 2019,ORL,Mohamed Bamba,14:09,4,7,.571,1,2,.500,0,0,,1,2,3,0,0,0,0,1,9,-12
-October 30 2019,ORL,Michael Carter-Williams,7:55,1,2,.500,1,1,1.000,0,0,,2,2,4,1,1,0,0,1,3,-10
-October 30 2019,ORL,Wesley Iwundu,Did Not Play
-October 30 2019,ORL,Melvin Frazier,Did Not Play
-October 30 2019,ORL,Khem Birch,Did Not Play
-October 30 2019,ORL,Team Totals,240,37,88,.420,12,32,.375,9,12,.750,14,38,52,24,5,6,7,17,95
 October 30 2019,MIN,Andrew Wiggins,33:00,6,16,.375,1,6,.167,6,6,1.000,1,4,5,2,1,1,1,1,19,-27
 October 30 2019,MIN,Robert Covington,25:51,2,7,.286,1,4,.250,2,2,1.000,1,2,3,0,1,2,2,3,7,-23
 October 30 2019,MIN,Jeff Teague,24:35,6,13,.462,2,4,.500,1,2,.500,0,1,1,5,0,0,3,4,15,-12
@@ -1576,34 +1549,33 @@ October 30 2019,PHI,Jonah Bolden,2:16,1,1,1.000,0,0,,0,0,,0,0,0,0,1,0,0,0,2,-1
 October 30 2019,PHI,Raul Neto,2:16,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-1
 October 30 2019,PHI,Trey Burke,Did Not Play
 October 30 2019,PHI,Team Totals,240,43,92,.467,9,25,.360,22,28,.786,16,40,56,24,14,6,22,27,117
-October 30 2019,MIL,Giannis Antetokounmpo,34:38,8,13,.615,0,2,.000,6,10,.600,1,13,14,5,1,2,3,4,22,-4
-October 30 2019,MIL,Khris Middleton,33:53,10,15,.667,3,6,.500,3,3,1.000,0,6,6,3,0,0,1,3,26,-8
-October 30 2019,MIL,Wesley Matthews,30:05,1,8,.125,1,7,.143,0,0,,0,3,3,3,0,0,0,0,3,-4
-October 30 2019,MIL,Eric Bledsoe,27:47,3,8,.375,1,4,.250,0,3,.000,1,4,5,5,0,0,2,1,7,-3
-October 30 2019,MIL,Brook Lopez,26:54,2,8,.250,1,5,.200,5,6,.833,0,3,3,2,0,2,4,3,10,-5
-October 30 2019,MIL,Pat Connaughton,21:19,2,8,.250,2,6,.333,0,0,,0,0,0,1,0,0,0,1,6,-7
-October 30 2019,MIL,George Hill,20:13,5,9,.556,2,5,.400,0,0,,3,2,5,2,0,0,1,2,12,-8
-October 30 2019,MIL,Kyle Korver,16:22,3,6,.500,2,5,.400,1,2,.500,0,0,0,0,1,0,2,0,9,-4
-October 30 2019,MIL,Ersan İlyasova,15:19,3,4,.750,1,2,.500,0,0,,0,7,7,0,0,0,2,5,7,-18
-October 30 2019,MIL,Robin Lopez,13:30,1,3,.333,1,3,.333,0,0,,0,2,2,0,1,0,0,2,3,+6
-October 30 2019,MIL,Sterling Brown,Did Not Play
-October 30 2019,MIL,D.J. Wilson,Did Not Play
-October 30 2019,MIL,Donte DiVincenzo,Did Not Play
-October 30 2019,MIL,Team Totals,240,38,82,.463,14,45,.311,15,24,.625,5,40,45,21,3,4,15,21,105
-October 30 2019,BOS,Marcus Smart,38:49,7,16,.438,5,11,.455,0,0,,1,3,4,6,1,0,0,3,19,+8
-October 30 2019,BOS,Jayson Tatum,38:35,10,22,.455,4,7,.571,1,2,.500,1,3,4,2,0,1,1,5,25,+16
-October 30 2019,BOS,Kemba Walker,38:08,7,19,.368,4,11,.364,14,15,.933,1,5,6,6,0,0,3,2,32,+8
-October 30 2019,BOS,Gordon Hayward,37:43,9,17,.529,3,6,.500,0,0,,0,10,10,7,1,1,2,1,21,+5
-October 30 2019,BOS,Daniel Theis,27:59,5,8,.625,1,3,.333,0,0,,1,8,9,1,0,1,1,3,11,+2
-October 30 2019,BOS,Semi Ojeleye,19:50,1,3,.333,0,1,.000,1,2,.500,1,4,5,0,1,0,0,1,3,+11
-October 30 2019,BOS,Grant Williams,15:19,1,4,.250,0,2,.000,0,0,,0,2,2,0,1,0,2,1,2,+3
-October 30 2019,BOS,Robert Williams,13:41,1,2,.500,0,0,,0,0,,0,4,4,3,0,1,0,1,2,+11
-October 30 2019,BOS,Brad Wanamaker,5:38,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,3,0,-3
-October 30 2019,BOS,Carsen Edwards,3:39,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,0,0,1,-6
-October 30 2019,BOS,Javonte Green,0:25,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
-October 30 2019,BOS,Romeo Langford,0:14,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
-October 30 2019,BOS,Vincent Poirier,Did Not Play
-October 30 2019,BOS,Team Totals,240,41,92,.446,17,41,.415,17,21,.810,5,40,45,25,4,4,9,20,116
+October 30 2019,NYK,Julius Randle,36:40,7,13,.538,0,2,.000,2,3,.667,3,7,10,7,0,1,3,3,16,-16
+October 30 2019,NYK,Marcus Morris,31:19,2,11,.182,1,5,.200,4,5,.800,1,4,5,0,1,4,3,2,9,-16
+October 30 2019,NYK,RJ Barrett,30:45,4,11,.364,1,4,.250,0,2,.000,0,2,2,2,0,0,2,2,9,-20
+October 30 2019,NYK,Mitchell Robinson,19:28,4,6,.667,0,0,,4,4,1.000,2,3,5,2,0,3,0,1,12,-9
+October 30 2019,NYK,Wayne Ellington,19:10,1,8,.125,0,5,.000,0,1,.000,0,2,2,0,0,0,0,1,2,-17
+October 30 2019,NYK,Frank Ntilikina,29:17,3,8,.375,1,3,.333,0,0,,1,3,4,4,0,0,0,2,7,+2
+October 30 2019,NYK,Bobby Portis,29:03,5,11,.455,2,7,.286,0,0,,2,8,10,0,0,0,0,1,12,-1
+October 30 2019,NYK,Kevin Knox,22:30,3,10,.300,2,5,.400,2,2,1.000,1,2,3,2,0,1,1,1,10,+5
+October 30 2019,NYK,Damyean Dotson,13:04,0,0,,0,0,,2,3,.667,0,2,2,2,0,0,1,1,2,+10
+October 30 2019,NYK,Taj Gibson,8:44,2,4,.500,0,0,,0,0,,0,1,1,0,0,1,1,1,4,+2
+October 30 2019,NYK,Allonzo Trier,Did Not Play
+October 30 2019,NYK,Ignas Brazdeikis,Did Not Play
+October 30 2019,NYK,Team Totals,240,31,82,.378,7,31,.226,14,20,.700,10,34,44,19,1,10,11,15,83
+October 30 2019,ORL,Nikola Vučević,33:51,8,17,.471,2,4,.500,3,4,.750,4,9,13,4,1,1,1,2,21,+24
+October 30 2019,ORL,Jonathan Isaac,31:40,4,6,.667,0,1,.000,2,2,1.000,1,6,7,4,0,3,2,0,10,+28
+October 30 2019,ORL,Aaron Gordon,28:10,6,13,.462,3,6,.500,0,0,,3,8,11,1,1,1,0,3,15,+17
+October 30 2019,ORL,Evan Fournier,28:09,5,12,.417,2,4,.500,2,2,1.000,0,3,3,3,1,0,1,0,14,+23
+October 30 2019,ORL,D.J. Augustin,27:52,2,6,.333,1,4,.250,0,0,,0,1,1,7,0,0,0,1,5,+17
+October 30 2019,ORL,Al-Farouq Aminu,25:47,3,9,.333,2,3,.667,1,2,.500,2,6,8,1,0,1,1,2,9,-9
+October 30 2019,ORL,Terrence Ross,22:19,1,10,.100,0,6,.000,0,0,,1,0,1,2,0,0,0,4,2,-13
+October 30 2019,ORL,Markelle Fultz,20:08,3,6,.500,0,1,.000,1,2,.500,0,1,1,1,1,0,2,3,7,-5
+October 30 2019,ORL,Mohamed Bamba,14:09,4,7,.571,1,2,.500,0,0,,1,2,3,0,0,0,0,1,9,-12
+October 30 2019,ORL,Michael Carter-Williams,7:55,1,2,.500,1,1,1.000,0,0,,2,2,4,1,1,0,0,1,3,-10
+October 30 2019,ORL,Wesley Iwundu,Did Not Play
+October 30 2019,ORL,Melvin Frazier,Did Not Play
+October 30 2019,ORL,Khem Birch,Did Not Play
+October 30 2019,ORL,Team Totals,240,37,88,.420,12,32,.375,9,12,.750,14,38,52,24,5,6,7,17,95
 October 30 2019,IND,Domantas Sabonis,36:21,11,18,.611,2,4,.500,5,6,.833,3,5,8,4,1,1,3,4,29,+26
 October 30 2019,IND,Jeremy Lamb,34:10,11,19,.579,3,7,.429,0,2,.000,3,4,7,0,1,0,2,3,25,+7
 October 30 2019,IND,T.J. Warren,33:55,8,16,.500,0,1,.000,4,4,1.000,1,2,3,1,3,0,1,5,20,+7
@@ -1659,6 +1631,34 @@ October 30 2019,TOR,Terence Davis,1:15,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-6
 October 30 2019,TOR,Rondae Hollis-Jefferson,Did Not Play
 October 30 2019,TOR,Stanley Johnson,Did Not Play
 October 30 2019,TOR,Team Totals,240,51,86,.593,13,27,.481,10,12,.833,3,31,34,30,12,2,14,22,125
+October 30 2019,MIL,Giannis Antetokounmpo,34:38,8,13,.615,0,2,.000,6,10,.600,1,13,14,5,1,2,3,4,22,-4
+October 30 2019,MIL,Khris Middleton,33:53,10,15,.667,3,6,.500,3,3,1.000,0,6,6,3,0,0,1,3,26,-8
+October 30 2019,MIL,Wesley Matthews,30:05,1,8,.125,1,7,.143,0,0,,0,3,3,3,0,0,0,0,3,-4
+October 30 2019,MIL,Eric Bledsoe,27:47,3,8,.375,1,4,.250,0,3,.000,1,4,5,5,0,0,2,1,7,-3
+October 30 2019,MIL,Brook Lopez,26:54,2,8,.250,1,5,.200,5,6,.833,0,3,3,2,0,2,4,3,10,-5
+October 30 2019,MIL,Pat Connaughton,21:19,2,8,.250,2,6,.333,0,0,,0,0,0,1,0,0,0,1,6,-7
+October 30 2019,MIL,George Hill,20:13,5,9,.556,2,5,.400,0,0,,3,2,5,2,0,0,1,2,12,-8
+October 30 2019,MIL,Kyle Korver,16:22,3,6,.500,2,5,.400,1,2,.500,0,0,0,0,1,0,2,0,9,-4
+October 30 2019,MIL,Ersan İlyasova,15:19,3,4,.750,1,2,.500,0,0,,0,7,7,0,0,0,2,5,7,-18
+October 30 2019,MIL,Robin Lopez,13:30,1,3,.333,1,3,.333,0,0,,0,2,2,0,1,0,0,2,3,+6
+October 30 2019,MIL,Sterling Brown,Did Not Play
+October 30 2019,MIL,D.J. Wilson,Did Not Play
+October 30 2019,MIL,Donte DiVincenzo,Did Not Play
+October 30 2019,MIL,Team Totals,240,38,82,.463,14,45,.311,15,24,.625,5,40,45,21,3,4,15,21,105
+October 30 2019,BOS,Marcus Smart,38:49,7,16,.438,5,11,.455,0,0,,1,3,4,6,1,0,0,3,19,+8
+October 30 2019,BOS,Jayson Tatum,38:35,10,22,.455,4,7,.571,1,2,.500,1,3,4,2,0,1,1,5,25,+16
+October 30 2019,BOS,Kemba Walker,38:08,7,19,.368,4,11,.364,14,15,.933,1,5,6,6,0,0,3,2,32,+8
+October 30 2019,BOS,Gordon Hayward,37:43,9,17,.529,3,6,.500,0,0,,0,10,10,7,1,1,2,1,21,+5
+October 30 2019,BOS,Daniel Theis,27:59,5,8,.625,1,3,.333,0,0,,1,8,9,1,0,1,1,3,11,+2
+October 30 2019,BOS,Semi Ojeleye,19:50,1,3,.333,0,1,.000,1,2,.500,1,4,5,0,1,0,0,1,3,+11
+October 30 2019,BOS,Grant Williams,15:19,1,4,.250,0,2,.000,0,0,,0,2,2,0,1,0,2,1,2,+3
+October 30 2019,BOS,Robert Williams,13:41,1,2,.500,0,0,,0,0,,0,4,4,3,0,1,0,1,2,+11
+October 30 2019,BOS,Brad Wanamaker,5:38,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,0,3,0,-3
+October 30 2019,BOS,Carsen Edwards,3:39,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,0,0,1,-6
+October 30 2019,BOS,Javonte Green,0:25,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
+October 30 2019,BOS,Romeo Langford,0:14,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
+October 30 2019,BOS,Vincent Poirier,Did Not Play
+October 30 2019,BOS,Team Totals,240,41,92,.446,17,41,.415,17,21,.810,5,40,45,25,4,4,9,20,116
 October 30 2019,POR,Damian Lillard,38:12,7,19,.368,4,9,.444,5,6,.833,1,6,7,13,2,0,1,2,23,+9
 October 30 2019,POR,CJ McCollum,35:49,7,22,.318,5,10,.500,3,4,.750,0,4,4,3,1,1,7,5,22,-1
 October 30 2019,POR,Rodney Hood,33:31,3,10,.300,2,5,.400,1,2,.500,0,3,3,0,2,1,1,3,9,-2
@@ -1877,6 +1877,31 @@ October 31 2019,LAC,Terance Mann,Did Not Play
 October 31 2019,LAC,Jerome Robinson,Did Not Play
 October 31 2019,LAC,Mfiondu Kabengele,Did Not Play
 October 31 2019,LAC,Team Totals,240,39,91,.429,5,26,.192,20,27,.741,11,36,47,16,9,1,11,23,103
+October 2 2020,MIA,Jimmy Butler,44:45,7,17,.412,0,1,.000,11,12,.917,3,5,8,13,1,0,3,2,25,-3
+October 2 2020,MIA,Tyler Herro,42:51,5,12,.417,1,3,.333,6,6,1.000,0,7,7,3,0,0,2,3,17,-1
+October 2 2020,MIA,Jae Crowder,28:27,5,6,.833,2,3,.667,0,0,,0,7,7,2,0,0,0,2,12,-14
+October 2 2020,MIA,Duncan Robinson,21:57,2,7,.286,2,7,.286,3,3,1.000,0,0,0,4,1,0,0,4,9,-21
+October 2 2020,MIA,Meyers Leonard,9:11,2,3,.667,1,1,1.000,2,2,1.000,0,0,0,1,0,0,0,1,7,-8
+October 2 2020,MIA,Kelly Olynyk,37:01,9,16,.563,3,7,.429,3,5,.600,1,8,9,2,0,0,2,5,24,-3
+October 2 2020,MIA,Kendrick Nunn,29:13,3,7,.429,1,4,.250,6,6,1.000,1,3,4,3,0,1,2,4,13,0
+October 2 2020,MIA,Andre Iguodala,25:38,3,3,1.000,1,1,1.000,0,0,,1,1,2,1,0,0,0,2,7,+1
+October 2 2020,MIA,Solomon Hill,0:43,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1
+October 2 2020,MIA,Derrick Jones,0:14,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
+October 2 2020,MIA,Chris Silva,Did Not Play
+October 2 2020,MIA,Bam Adebayo,Did Not Play
+October 2 2020,MIA,Udonis Haslem,Did Not Play
+October 2 2020,MIA,Team Totals,240,36,71,.507,11,27,.407,31,34,.912,6,31,37,29,2,1,9,23,114
+October 2 2020,LAL,Anthony Davis,39:34,15,20,.750,1,1,1.000,1,1,1.000,8,6,14,1,1,0,3,4,32,+10
+October 2 2020,LAL,LeBron James,39:09,14,25,.560,3,8,.375,2,5,.400,2,7,9,9,1,1,0,2,33,+7
+October 2 2020,LAL,Kentavious Caldwell-Pope,31:51,4,14,.286,2,11,.182,1,1,1.000,1,3,4,4,1,0,0,2,11,+14
+October 2 2020,LAL,Danny Green,22:07,1,8,.125,1,8,.125,0,0,,1,1,2,2,2,0,0,1,3,+4
+October 2 2020,LAL,Dwight Howard,17:11,3,3,1.000,0,0,,0,3,.000,0,2,2,1,0,2,0,4,6,+5
+October 2 2020,LAL,Rajon Rondo,26:01,5,9,.556,3,4,.750,3,4,.750,0,4,4,10,0,0,1,3,16,+7
+October 2 2020,LAL,Alex Caruso,23:14,2,5,.400,2,4,.500,0,0,,2,0,2,2,1,0,2,4,6,-5
+October 2 2020,LAL,Kyle Kuzma,21:40,3,8,.375,2,6,.333,3,3,1.000,1,1,2,1,0,0,3,1,11,+5
+October 2 2020,LAL,Markieff Morris,15:54,2,5,.400,2,5,.400,0,0,,1,4,5,2,0,0,0,3,6,+3
+October 2 2020,LAL,J.R. Smith,3:19,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,0
+October 2 2020,LAL,Team Totals,240,49,97,.505,16,47,.340,10,17,.588,16,28,44,32,6,3,9,26,124
 November 1 2019,HOU,James Harden,36:39,10,31,.323,2,16,.125,14,15,.933,2,3,5,8,0,0,5,3,36,-14
 November 1 2019,HOU,Russell Westbrook,36:24,12,25,.480,1,6,.167,2,4,.500,0,7,7,8,4,1,2,2,27,-15
 November 1 2019,HOU,P.J. Tucker,34:51,3,8,.375,3,8,.375,0,0,,3,5,8,1,3,1,2,3,9,-23
@@ -30644,3 +30669,199 @@ September 20 2020,LAL,Quinn Cook,Did Not Play
 September 20 2020,LAL,Jared Dudley,Did Not Play
 September 20 2020,LAL,J.R. Smith,Did Not Play
 September 20 2020,LAL,Team Totals,240,37,83,.446,13,36,.361,18,19,.947,13,31,44,23,9,7,23,30,105
+September 22 2020,LAL,Anthony Davis,42:48,9,17,.529,0,4,.000,9,10,.900,0,2,2,1,1,0,3,4,27,+4
+September 22 2020,LAL,LeBron James,37:15,14,23,.609,1,4,.250,1,2,.500,1,9,10,11,2,2,6,1,30,+2
+September 22 2020,LAL,Kentavious Caldwell-Pope,26:46,5,8,.625,2,5,.400,0,0,,1,2,3,1,1,0,0,1,12,-9
+September 22 2020,LAL,Danny Green,20:09,1,4,.250,1,3,.333,1,2,.500,1,3,4,1,0,0,0,4,4,-3
+September 22 2020,LAL,JaVale McGee,8:05,2,2,1.000,0,0,,0,1,.000,0,1,1,0,1,0,0,2,4,+2
+September 22 2020,LAL,Rajon Rondo,29:36,4,10,.400,0,3,.000,1,3,.333,0,2,2,8,3,0,4,4,9,-13
+September 22 2020,LAL,Kyle Kuzma,26:01,4,7,.571,1,2,.500,2,3,.667,0,1,1,1,0,0,1,1,11,-3
+September 22 2020,LAL,Alex Caruso,24:41,1,7,.143,0,4,.000,0,0,,0,1,1,3,2,0,1,3,2,-6
+September 22 2020,LAL,Dwight Howard,14:04,2,3,.667,0,0,,0,1,.000,1,0,1,0,1,1,1,4,4,-1
+September 22 2020,LAL,Markieff Morris,10:35,1,2,.500,1,1,1.000,0,0,,0,0,0,1,0,0,0,2,3,-13
+September 22 2020,LAL,Quinn Cook,Did Not Play
+September 22 2020,LAL,J.R. Smith,Did Not Play
+September 22 2020,LAL,Jared Dudley,Did Not Play
+September 22 2020,LAL,Team Totals,240,43,83,.518,6,26,.231,14,22,.636,4,21,25,27,11,3,16,26,106
+September 22 2020,DEN,Jamal Murray,43:43,10,17,.588,4,8,.500,4,7,.571,2,6,8,12,2,0,4,1,28,+8
+September 22 2020,DEN,Nikola Jokić,37:24,9,14,.643,1,3,.333,3,4,.750,3,7,10,5,1,1,5,4,22,+7
+September 22 2020,DEN,Jerami Grant,33:41,7,11,.636,2,5,.400,10,12,.833,0,3,3,1,2,0,2,3,26,-8
+September 22 2020,DEN,Gary Harris,32:19,2,5,.400,1,2,.500,2,2,1.000,0,0,0,3,0,0,1,0,7,+6
+September 22 2020,DEN,Paul Millsap,31:01,2,8,.250,0,3,.000,2,2,1.000,1,7,8,1,0,1,1,4,6,+11
+September 22 2020,DEN,Michael Porter,21:53,4,6,.667,1,2,.500,0,0,,1,5,6,2,2,0,3,4,9,+1
+September 22 2020,DEN,Monte Morris,19:55,5,7,.714,2,4,.500,2,2,1.000,0,1,1,1,0,0,0,2,14,+10
+September 22 2020,DEN,Torrey Craig,15:29,1,4,.250,0,2,.000,0,0,,1,5,6,0,1,0,1,2,2,-5
+September 22 2020,DEN,Mason Plumlee,4:35,0,1,.000,0,0,,0,0,,1,1,2,1,0,0,1,1,0,+10
+September 22 2020,DEN,Bol Bol,Did Not Play
+September 22 2020,DEN,Keita Bates-Diop,Did Not Play
+September 22 2020,DEN,Troy Daniels,Did Not Play
+September 22 2020,DEN,PJ Dozier,Did Not Play
+September 22 2020,DEN,Team Totals,240,40,73,.548,11,29,.379,23,29,.793,9,35,44,26,8,2,18,21,114
+September 23 2020,BOS,Jaylen Brown,40:22,8,14,.571,4,7,.571,1,2,.500,0,9,9,2,1,1,4,5,21,+1
+September 23 2020,BOS,Jayson Tatum,39:27,10,22,.455,4,11,.364,4,4,1.000,0,9,9,4,1,3,6,4,28,-6
+September 23 2020,BOS,Marcus Smart,36:07,3,12,.250,1,8,.125,3,4,.750,0,2,2,11,0,1,4,6,10,+1
+September 23 2020,BOS,Kemba Walker,34:19,6,14,.429,3,8,.375,5,6,.833,2,2,4,5,0,0,0,3,20,-10
+September 23 2020,BOS,Daniel Theis,30:27,4,5,.800,0,0,,0,0,,4,5,9,1,0,0,2,1,8,-14
+September 23 2020,BOS,Gordon Hayward,29:32,4,9,.444,2,6,.333,4,4,1.000,2,5,7,3,0,0,1,4,14,+8
+September 23 2020,BOS,Brad Wanamaker,12:56,2,2,1.000,0,0,,0,0,,0,1,1,1,0,0,2,1,4,-3
+September 23 2020,BOS,Robert Williams,12:04,2,4,.500,0,0,,0,1,.000,4,0,4,1,1,0,0,0,4,+10
+September 23 2020,BOS,Semi Ojeleye,4:01,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-2
+September 23 2020,BOS,Grant Williams,0:45,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
+September 23 2020,BOS,Javonte Green,Did Not Play
+September 23 2020,BOS,Carsen Edwards,Did Not Play
+September 23 2020,BOS,Enes Kanter,Did Not Play
+September 23 2020,BOS,Team Totals,240,39,82,.476,14,40,.350,17,21,.810,12,34,46,28,3,5,19,24,109
+September 23 2020,MIA,Bam Adebayo,40:57,7,11,.636,0,1,.000,6,8,.750,3,9,12,4,2,0,3,3,20,+8
+September 23 2020,MIA,Goran Dragić,39:08,8,21,.381,3,9,.333,3,3,1.000,1,4,5,3,2,0,2,2,22,+11
+September 23 2020,MIA,Jimmy Butler,38:33,8,20,.400,0,2,.000,8,9,.889,4,5,9,3,1,1,1,2,24,+6
+September 23 2020,MIA,Jae Crowder,30:59,1,9,.111,1,7,.143,0,0,,0,3,3,3,0,1,0,4,3,-6
+September 23 2020,MIA,Duncan Robinson,23:20,0,5,.000,0,4,.000,3,3,1.000,1,2,3,2,1,0,0,4,3,+2
+September 23 2020,MIA,Tyler Herro,35:42,14,21,.667,5,10,.500,4,4,1.000,0,6,6,3,0,0,1,1,37,-4
+September 23 2020,MIA,Andre Iguodala,27:15,1,4,.250,1,4,.250,0,0,,1,1,2,2,3,0,1,2,3,-4
+September 23 2020,MIA,Solomon Hill,4:06,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,2,0,+2
+September 23 2020,MIA,Kelly Olynyk,Did Not Play
+September 23 2020,MIA,Derrick Jones,Did Not Play
+September 23 2020,MIA,Kendrick Nunn,Did Not Play
+September 23 2020,MIA,Udonis Haslem,Did Not Play
+September 23 2020,MIA,Meyers Leonard,Did Not Play
+September 23 2020,MIA,Team Totals,240,39,91,.429,10,37,.270,24,27,.889,10,30,40,20,9,2,8,20,112
+September 24 2020,LAL,Anthony Davis,40:31,10,15,.667,1,3,.333,13,14,.929,1,4,5,3,3,0,3,2,34,+1
+September 24 2020,LAL,LeBron James,38:21,7,18,.389,1,3,.333,11,14,.786,1,8,9,8,0,0,0,2,26,+8
+September 24 2020,LAL,Kentavious Caldwell-Pope,34:25,5,12,.417,3,9,.333,0,0,,1,1,2,1,1,1,1,1,13,+4
+September 24 2020,LAL,Dwight Howard,22:37,5,6,.833,0,0,,2,3,.667,6,5,11,1,1,0,0,2,12,+7
+September 24 2020,LAL,Danny Green,21:14,1,6,.167,1,4,.250,0,0,,1,2,3,0,0,0,0,3,3,+12
+September 24 2020,LAL,Rajon Rondo,21:34,4,6,.667,1,1,1.000,2,4,.500,2,3,5,7,0,0,1,3,11,-9
+September 24 2020,LAL,Alex Caruso,20:08,1,4,.250,1,2,.500,0,0,,0,1,1,2,1,1,1,5,3,-1
+September 24 2020,LAL,Kyle Kuzma,18:30,4,11,.364,2,7,.286,0,0,,0,0,0,1,1,0,1,1,10,0
+September 24 2020,LAL,Markieff Morris,17:28,1,2,.500,0,1,.000,0,0,,0,4,4,0,2,0,2,6,2,+5
+September 24 2020,LAL,JaVale McGee,5:12,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,+3
+September 24 2020,LAL,J.R. Smith,Did Not Play
+September 24 2020,LAL,Quinn Cook,Did Not Play
+September 24 2020,LAL,Jared Dudley,Did Not Play
+September 24 2020,LAL,Team Totals,240,38,80,.475,10,30,.333,28,35,.800,12,29,41,23,9,2,9,25,114
+September 24 2020,DEN,Jamal Murray,45:12,12,20,.600,0,3,.000,8,8,1.000,1,2,3,8,0,1,4,1,32,-8
+September 24 2020,DEN,Jerami Grant,42:47,6,13,.462,2,6,.333,3,4,.750,0,2,2,1,0,0,0,4,17,-3
+September 24 2020,DEN,Nikola Jokić,35:42,6,13,.462,2,3,.667,2,2,1.000,3,4,7,4,2,0,1,5,16,+2
+September 24 2020,DEN,Gary Harris,18:31,1,5,.200,1,2,.500,0,0,,0,2,2,0,1,0,0,2,3,-2
+September 24 2020,DEN,Paul Millsap,16:48,1,3,.333,1,2,.500,2,2,1.000,1,5,6,3,0,0,3,5,5,+8
+September 24 2020,DEN,Monte Morris,27:23,4,7,.571,0,2,.000,4,5,.800,1,1,2,4,0,0,0,1,12,-4
+September 24 2020,DEN,Michael Porter,20:31,5,8,.625,3,6,.500,0,0,,0,8,8,1,1,0,2,2,13,-1
+September 24 2020,DEN,Torrey Craig,19:30,3,6,.500,1,4,.250,0,0,,0,2,2,1,0,2,0,5,7,-17
+September 24 2020,DEN,Mason Plumlee,13:32,1,2,.500,0,0,,1,2,.500,0,1,1,0,0,0,1,3,3,-7
+September 24 2020,DEN,PJ Dozier,0:04,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,+2
+September 24 2020,DEN,Bol Bol,Did Not Play
+September 24 2020,DEN,Keita Bates-Diop,Did Not Play
+September 24 2020,DEN,Troy Daniels,Did Not Play
+September 24 2020,DEN,Team Totals,240,39,77,.506,10,28,.357,20,23,.870,6,27,33,22,4,3,11,28,108
+September 25 2020,MIA,Bam Adebayo,38:12,5,11,.455,0,0,,3,4,.750,1,7,8,8,1,1,2,5,13,-15
+September 25 2020,MIA,Duncan Robinson,37:01,7,15,.467,3,11,.273,3,4,.750,0,2,2,0,1,0,0,4,20,-13
+September 25 2020,MIA,Jimmy Butler,36:21,5,11,.455,0,2,.000,7,8,.875,2,6,8,8,1,1,3,4,17,-13
+September 25 2020,MIA,Goran Dragić,35:47,8,17,.471,1,7,.143,6,7,.857,0,4,4,4,0,0,4,6,23,+1
+September 25 2020,MIA,Jae Crowder,32:40,5,12,.417,0,6,.000,4,6,.667,0,6,6,3,0,1,0,2,14,-13
+September 25 2020,MIA,Tyler Herro,29:01,6,12,.500,2,5,.400,0,0,,0,3,3,1,0,0,2,3,14,-10
+September 25 2020,MIA,Andre Iguodala,19:27,1,5,.200,0,3,.000,0,0,,2,2,4,1,0,2,1,2,2,-2
+September 25 2020,MIA,Solomon Hill,7:28,0,0,,0,0,,0,0,,1,2,3,2,0,0,0,0,0,+2
+September 25 2020,MIA,Kelly Olynyk,3:53,2,3,.667,1,2,.500,0,0,,0,0,0,0,0,0,0,2,5,0
+September 25 2020,MIA,Derrick Jones,0:10,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-2
+September 25 2020,MIA,Meyers Leonard,Did Not Play
+September 25 2020,MIA,Kendrick Nunn,Did Not Play
+September 25 2020,MIA,Udonis Haslem,Did Not Play
+September 25 2020,MIA,Team Totals,240,39,86,.453,7,36,.194,23,29,.793,6,32,38,27,3,5,12,29,108
+September 25 2020,BOS,Jayson Tatum,43:29,8,22,.364,3,10,.300,12,14,.857,2,8,10,6,1,0,2,3,31,+10
+September 25 2020,BOS,Marcus Smart,40:17,3,9,.333,2,5,.400,4,4,1.000,0,8,8,8,4,0,1,4,12,+11
+September 25 2020,BOS,Jaylen Brown,39:25,12,23,.522,4,10,.400,0,1,.000,3,5,8,2,1,0,4,1,28,+11
+September 25 2020,BOS,Daniel Theis,34:45,6,10,.600,0,2,.000,3,4,.750,5,8,13,1,0,3,1,4,15,+16
+September 25 2020,BOS,Kemba Walker,28:22,4,11,.364,3,6,.500,4,4,1.000,0,2,2,7,1,0,1,5,15,+21
+September 25 2020,BOS,Gordon Hayward,30:20,4,9,.444,0,4,.000,2,2,1.000,1,2,3,2,0,1,2,1,10,-2
+September 25 2020,BOS,Enes Kanter,10:10,4,7,.571,0,0,,0,0,,2,2,4,2,0,0,0,2,8,+3
+September 25 2020,BOS,Grant Williams,8:14,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,2,0,-3
+September 25 2020,BOS,Brad Wanamaker,4:58,1,1,1.000,0,0,,0,0,,0,1,1,1,0,0,0,1,2,-2
+September 25 2020,BOS,Semi Ojeleye,Did Not Play
+September 25 2020,BOS,Carsen Edwards,Did Not Play
+September 25 2020,BOS,Javonte Green,Did Not Play
+September 25 2020,BOS,Robert Williams,Did Not Play
+September 25 2020,BOS,Team Totals,240,42,93,.452,12,38,.316,25,29,.862,13,37,50,29,7,4,11,23,121
+September 26 2020,DEN,Jerami Grant,45:37,7,18,.389,2,8,.250,4,4,1.000,0,9,9,1,1,1,1,4,20,-10
+September 26 2020,DEN,Jamal Murray,43:05,7,17,.412,0,4,.000,5,5,1.000,2,2,4,8,1,0,5,3,19,-10
+September 26 2020,DEN,Paul Millsap,30:42,1,8,.125,1,5,.200,10,11,.909,1,3,4,1,0,0,1,3,13,-8
+September 26 2020,DEN,Nikola Jokić,29:57,9,16,.563,1,4,.250,1,1,1.000,2,5,7,5,3,0,1,5,20,-1
+September 26 2020,DEN,Gary Harris,13:14,1,4,.250,1,3,.333,0,0,,0,2,2,1,0,0,3,4,3,+4
+September 26 2020,DEN,Monte Morris,28:01,4,9,.444,0,1,.000,2,2,1.000,0,2,2,7,0,0,0,1,10,-10
+September 26 2020,DEN,Mason Plumlee,18:03,3,7,.429,0,0,,1,1,1.000,4,1,5,0,0,0,0,2,7,-9
+September 26 2020,DEN,Michael Porter,17:07,4,7,.571,2,4,.500,0,2,.000,0,2,2,0,0,0,0,2,10,+1
+September 26 2020,DEN,Torrey Craig,7:29,0,1,.000,0,0,,0,0,,0,0,0,0,0,1,0,0,0,-3
+September 26 2020,DEN,PJ Dozier,6:45,2,3,.667,1,1,1.000,0,0,,0,1,1,0,0,0,0,1,5,-4
+September 26 2020,DEN,Keita Bates-Diop,Did Not Play
+September 26 2020,DEN,Bol Bol,Did Not Play
+September 26 2020,DEN,Troy Daniels,Did Not Play
+September 26 2020,DEN,Team Totals,240,38,90,.422,8,30,.267,23,26,.885,9,27,36,23,5,2,11,25,107
+September 26 2020,LAL,LeBron James,40:01,15,25,.600,1,4,.250,7,8,.875,3,13,16,10,1,0,2,2,38,+12
+September 26 2020,LAL,Dwight Howard,35:09,3,4,.750,0,0,,3,6,.500,2,7,9,0,0,2,2,5,9,+12
+September 26 2020,LAL,Anthony Davis,34:43,8,16,.500,2,4,.500,9,9,1.000,0,5,5,3,2,1,1,3,27,-1
+September 26 2020,LAL,Danny Green,28:06,3,7,.429,2,4,.500,3,4,.750,0,0,0,2,0,2,0,1,11,+6
+September 26 2020,LAL,Kentavious Caldwell-Pope,26:21,1,2,.500,0,1,.000,0,0,,0,1,1,0,2,0,1,5,2,+5
+September 26 2020,LAL,Alex Caruso,25:39,5,7,.714,0,1,.000,1,1,1.000,0,2,2,4,1,1,3,2,11,+16
+September 26 2020,LAL,Kyle Kuzma,20:44,3,7,.429,1,3,.333,1,1,1.000,0,3,3,1,0,1,0,3,8,0
+September 26 2020,LAL,Markieff Morris,14:13,1,3,.333,1,3,.333,0,0,,0,3,3,0,0,1,2,1,3,+6
+September 26 2020,LAL,Rajon Rondo,12:49,3,5,.600,2,4,.500,0,0,,0,3,3,4,0,0,1,2,8,-4
+September 26 2020,LAL,JaVale McGee,2:15,0,1,.000,0,0,,0,0,,0,1,1,0,0,0,1,2,0,-2
+September 26 2020,LAL,J.R. Smith,Did Not Play
+September 26 2020,LAL,Jared Dudley,Did Not Play
+September 26 2020,LAL,Quinn Cook,Did Not Play
+September 26 2020,LAL,Team Totals,240,42,77,.545,9,24,.375,24,29,.828,5,38,43,24,6,8,13,26,117
+September 27 2020,BOS,Jayson Tatum,43:54,9,26,.346,3,10,.300,3,4,.750,1,6,7,11,2,1,2,1,24,-10
+September 27 2020,BOS,Jaylen Brown,40:22,10,17,.588,3,7,.429,3,3,1.000,2,6,8,4,3,0,2,0,26,-17
+September 27 2020,BOS,Marcus Smart,35:41,8,22,.364,4,13,.308,0,0,,4,4,8,2,2,0,2,5,20,-11
+September 27 2020,BOS,Kemba Walker,35:00,7,15,.467,3,10,.300,3,4,.750,0,2,2,5,0,0,1,5,20,-3
+September 27 2020,BOS,Daniel Theis,21:33,2,3,.667,0,0,,2,2,1.000,3,4,7,1,0,0,0,6,6,-3
+September 27 2020,BOS,Gordon Hayward,32:24,5,12,.417,2,5,.400,0,0,,0,1,1,2,0,0,2,2,12,-10
+September 27 2020,BOS,Grant Williams,10:27,0,0,,0,0,,0,0,,0,3,3,0,0,1,0,0,0,+4
+September 27 2020,BOS,Brad Wanamaker,9:09,0,1,.000,0,1,.000,0,0,,0,0,0,1,0,0,1,2,0,-2
+September 27 2020,BOS,Enes Kanter,7:35,1,2,.500,0,0,,1,2,.500,2,2,4,0,0,0,0,0,3,-11
+September 27 2020,BOS,Robert Williams,3:55,1,1,1.000,0,0,,0,0,,1,1,2,0,0,0,0,0,2,+3
+September 27 2020,BOS,Carsen Edwards,Did Not Play
+September 27 2020,BOS,Javonte Green,Did Not Play
+September 27 2020,BOS,Semi Ojeleye,Did Not Play
+September 27 2020,BOS,Team Totals,240,43,99,.434,15,46,.326,12,15,.800,13,29,42,26,7,2,10,21,113
+September 27 2020,MIA,Bam Adebayo,39:29,11,15,.733,0,0,,10,11,.909,1,13,14,5,1,0,2,3,32,0
+September 27 2020,MIA,Jimmy Butler,39:01,8,19,.421,0,3,.000,6,7,.857,0,2,2,8,1,0,1,2,22,+18
+September 27 2020,MIA,Duncan Robinson,33:50,5,8,.625,5,7,.714,0,0,,1,5,6,1,1,0,1,1,15,+24
+September 27 2020,MIA,Goran Dragić,30:23,4,11,.364,2,5,.400,3,4,.750,0,3,3,7,1,0,3,2,13,-11
+September 27 2020,MIA,Jae Crowder,29:50,4,9,.444,1,5,.200,0,0,,0,6,6,1,0,2,0,2,9,+1
+September 27 2020,MIA,Tyler Herro,34:52,8,13,.615,1,3,.333,2,2,1.000,0,5,5,7,0,0,5,1,19,+9
+September 27 2020,MIA,Andre Iguodala,27:35,5,5,1.000,4,4,1.000,1,2,.500,0,3,3,1,2,0,0,2,15,+20
+September 27 2020,MIA,Solomon Hill,5:00,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,-1
+September 27 2020,MIA,Meyers Leonard,Did Not Play
+September 27 2020,MIA,Derrick Jones,Did Not Play
+September 27 2020,MIA,Udonis Haslem,Did Not Play
+September 27 2020,MIA,Kelly Olynyk,Did Not Play
+September 27 2020,MIA,Kendrick Nunn,Did Not Play
+September 27 2020,MIA,Team Totals,240,45,80,.563,13,27,.481,22,26,.846,2,38,40,30,6,2,12,13,125
+September 30 2020,MIA,Jimmy Butler,33:25,8,13,.615,2,4,.500,5,5,1.000,0,2,2,5,2,0,2,0,23,-14
+September 30 2020,MIA,Duncan Robinson,27:03,0,3,.000,0,3,.000,0,0,,0,4,4,0,0,0,0,2,0,-8
+September 30 2020,MIA,Jae Crowder,24:30,4,8,.500,4,7,.571,0,0,,0,2,2,0,0,2,0,3,12,-21
+September 30 2020,MIA,Bam Adebayo,21:10,2,8,.250,0,0,,4,6,.667,2,2,4,0,0,0,0,2,8,-12
+September 30 2020,MIA,Goran Dragić,14:50,3,8,.375,0,1,.000,0,0,,0,1,1,3,2,0,1,0,6,+1
+September 30 2020,MIA,Tyler Herro,30:15,6,18,.333,2,8,.250,0,1,.000,0,4,4,3,0,0,2,1,14,-35
+September 30 2020,MIA,Andre Iguodala,25:23,3,7,.429,1,2,.500,0,0,,2,3,5,6,0,1,1,3,7,-25
+September 30 2020,MIA,Kendrick Nunn,19:49,8,11,.727,2,4,.500,0,0,,1,4,5,2,0,0,0,0,18,+8
+September 30 2020,MIA,Kelly Olynyk,18:04,1,5,.200,0,2,.000,2,2,1.000,0,5,5,4,0,2,1,2,4,+14
+September 30 2020,MIA,Solomon Hill,18:02,2,6,.333,0,4,.000,0,0,,0,3,3,0,0,0,0,2,4,+3
+September 30 2020,MIA,Derrick Jones,7:29,1,2,.500,0,0,,0,0,,0,1,1,0,0,0,1,0,2,-1
+September 30 2020,MIA,Udonis Haslem,Did Not Play
+September 30 2020,MIA,Meyers Leonard,Did Not Play
+September 30 2020,MIA,Team Totals,240,38,89,.427,11,35,.314,11,14,.786,5,31,36,23,4,5,8,15,98
+September 30 2020,LAL,Anthony Davis,38:04,11,21,.524,2,4,.500,10,10,1.000,3,6,9,5,0,3,1,1,34,+23
+September 30 2020,LAL,LeBron James,36:24,9,17,.529,2,4,.500,5,6,.833,1,12,13,9,1,0,2,3,25,+10
+September 30 2020,LAL,Kentavious Caldwell-Pope,30:26,3,10,.300,2,6,.333,5,5,1.000,0,2,2,0,2,1,1,1,13,+2
+September 30 2020,LAL,Danny Green,29:32,4,9,.444,3,8,.375,0,0,,0,4,4,1,2,3,2,1,11,+21
+September 30 2020,LAL,Dwight Howard,14:55,0,0,,0,0,,2,2,1.000,1,7,8,2,0,0,1,3,2,-2
+September 30 2020,LAL,Rajon Rondo,24:51,2,7,.286,1,5,.200,2,2,1.000,1,2,3,4,0,0,1,1,7,+11
+September 30 2020,LAL,Kyle Kuzma,22:04,1,7,.143,1,4,.250,0,0,,2,6,8,2,1,0,1,2,3,+11
+September 30 2020,LAL,Alex Caruso,21:58,4,6,.667,1,3,.333,1,2,.500,1,3,4,2,1,0,1,3,10,+12
+September 30 2020,LAL,Markieff Morris,17:37,3,6,.500,2,3,.667,0,0,,0,3,3,1,0,0,2,3,8,-1
+September 30 2020,LAL,Quinn Cook,1:23,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,+1
+September 30 2020,LAL,J.R. Smith,1:23,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,+1
+September 30 2020,LAL,Jared Dudley,1:23,0,0,,0,0,,0,0,,0,0,0,0,0,1,0,0,0,+1
+September 30 2020,LAL,JaVale McGee,Did Not Play
+September 30 2020,LAL,Team Totals,240,38,84,.452,15,38,.395,25,27,.926,9,45,54,26,7,8,12,19,116

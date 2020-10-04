@@ -69,8 +69,17 @@ for x in range(len(home)):
     date.append(today)
 
 df=pd.DataFrame()
-df['home']=f.name2acro(home,'placard')
-df['away']=f.name2acro(away,'placard')
+
+new=[]
+for name in home:
+	new.append(f.name2acro2(name))
+df['home']=new
+
+new=[]
+for name in away:
+	new.append(f.name2acro2(name))
+df['away']=new
+
 df['date']=today
 df['plac_H']=home_odds
 df['plac_A']=away_odds
