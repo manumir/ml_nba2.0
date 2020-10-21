@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import requests
 import datetime
-import torch
+#import torch
 import joblib
 from bs4 import BeautifulSoup as bs4
 
